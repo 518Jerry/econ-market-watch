@@ -1,0 +1,147 @@
+{
+  "update_interval_minutes": 15,
+  "base_currency": "USD",
+  "assets": [
+    {
+      "symbol": "^GSPC",
+      "name": "标普500",
+      "category": "美股",
+      "role": "美国大盘风险偏好"
+    },
+    {
+      "symbol": "^IXIC",
+      "name": "纳斯达克综合指数",
+      "category": "美股",
+      "role": "科技股与成长风格"
+    },
+    {
+      "symbol": "^DJI",
+      "name": "道琼斯工业指数",
+      "category": "美股",
+      "role": "美国蓝筹价值风格"
+    },
+    {
+      "symbol": "^VIX",
+      "name": "VIX波动率指数",
+      "category": "风险指标",
+      "role": "市场恐慌程度"
+    },
+    {
+      "symbol": "000001.SS",
+      "name": "上证指数",
+      "category": "A股/港股",
+      "role": "中国A股大盘"
+    },
+    {
+      "symbol": "399001.SZ",
+      "name": "深证成指",
+      "category": "A股/港股",
+      "role": "中国A股成长与制造业"
+    },
+    {
+      "symbol": "399006.SZ",
+      "name": "创业板指",
+      "category": "A股/港股",
+      "role": "中国成长股风险偏好"
+    },
+    {
+      "symbol": "000300.SS",
+      "name": "沪深300",
+      "category": "A股/港股",
+      "role": "中国核心资产"
+    },
+    {
+      "symbol": "^HSI",
+      "name": "恒生指数",
+      "category": "A股/港股",
+      "role": "港股与离岸中国资产"
+    },
+    {
+      "symbol": "BTC-USD",
+      "name": "比特币",
+      "category": "虚拟货币",
+      "role": "高波动风险资产"
+    },
+    {
+      "symbol": "ETH-USD",
+      "name": "以太坊",
+      "category": "虚拟货币",
+      "role": "智能合约生态风险偏好"
+    },
+    {
+      "symbol": "SOL-USD",
+      "name": "Solana",
+      "category": "虚拟货币",
+      "role": "高Beta加密资产"
+    },
+    {
+      "symbol": "GC=F",
+      "name": "黄金期货",
+      "category": "黄金/贵金属",
+      "role": "避险、通胀与实际利率敏感资产"
+    },
+    {
+      "symbol": "GLD",
+      "name": "SPDR黄金ETF",
+      "category": "黄金/贵金属",
+      "role": "黄金现货投资替代观察"
+    },
+    {
+      "symbol": "SI=F",
+      "name": "白银期货",
+      "category": "黄金/贵金属",
+      "role": "贵金属与工业周期交叉资产"
+    },
+    {
+      "symbol": "CL=F",
+      "name": "WTI原油期货",
+      "category": "商品",
+      "role": "通胀和增长预期"
+    },
+    {
+      "symbol": "DX-Y.NYB",
+      "name": "美元指数",
+      "category": "宏观变量",
+      "role": "全球流动性与美元强弱"
+    },
+    {
+      "symbol": "^TNX",
+      "name": "美国10年期收益率",
+      "category": "宏观变量",
+      "role": "实际利率与估值折现压力"
+    },
+    {
+      "symbol": "CNY=X",
+      "name": "美元/人民币",
+      "category": "宏观变量",
+      "role": "人民币汇率压力"
+    }
+  ],
+  "news_queries": [
+    {
+      "name": "全球宏观",
+      "query": "Federal Reserve inflation interest rates dollar Treasury yields global markets"
+    },
+    {
+      "name": "美股",
+      "query": "US stocks S&P 500 Nasdaq earnings Federal Reserve market outlook"
+    },
+    {
+      "name": "A股/中国",
+      "query": "China A shares stimulus property yuan economy market"
+    },
+    {
+      "name": "虚拟货币",
+      "query": "Bitcoin crypto market ETF regulation liquidity"
+    },
+    {
+      "name": "黄金/贵金属",
+      "query": "gold price dollar Treasury yields inflation geopolitics central banks"
+    },
+    {
+      "name": "商品",
+      "query": "oil price OPEC demand inflation commodities market"
+    }
+  ],
+  "risk_note": "本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。"
+}
