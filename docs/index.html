@@ -1,0 +1,570 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>实时经济走势系统</title>
+  <script src="market_data.js"></script>
+  <style>
+    :root {
+      --bg: #f5f7fa;
+      --panel: #ffffff;
+      --ink: #17202a;
+      --muted: #667085;
+      --line: #d7dde6;
+      --blue: #2458d3;
+      --green: #168a5b;
+      --red: #c33b3b;
+      --amber: #b7791f;
+      --teal: #157a7e;
+      --shadow: 0 6px 20px rgba(20, 32, 50, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+      letter-spacing: 0;
+    }
+    header {
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .topbar {
+      max-width: 1480px;
+      margin: 0 auto;
+      padding: 14px 18px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 14px;
+      align-items: center;
+    }
+    h1 {
+      font-size: 22px;
+      margin: 0;
+      font-weight: 760;
+    }
+    .meta {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 4px;
+    }
+    .toolbar {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    button, select {
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--ink);
+      min-height: 34px;
+      padding: 7px 10px;
+      border-radius: 7px;
+      font-size: 14px;
+    }
+    button {
+      cursor: pointer;
+      font-weight: 650;
+    }
+    button.primary {
+      background: var(--blue);
+      color: #fff;
+      border-color: var(--blue);
+    }
+    main {
+      max-width: 1480px;
+      margin: 0 auto;
+      padding: 18px;
+    }
+    .summary-grid {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(150px, 1fr));
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+    .summary {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px;
+      min-height: 106px;
+      box-shadow: var(--shadow);
+    }
+    .summary .label {
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .summary .value {
+      font-size: 20px;
+      font-weight: 760;
+      margin: 7px 0;
+    }
+    .summary .note {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.35;
+    }
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(420px, 1.7fr) minmax(320px, 1fr);
+      gap: 14px;
+      align-items: start;
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+    }
+    .panel-head {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+    }
+    .panel-head h2 {
+      margin: 0;
+      font-size: 16px;
+    }
+    .asset-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+    .asset-table th, .asset-table td {
+      border-bottom: 1px solid #edf0f4;
+      padding: 8px 10px;
+      text-align: right;
+      vertical-align: middle;
+      white-space: nowrap;
+    }
+    .asset-table th:first-child, .asset-table td:first-child,
+    .asset-table th:nth-child(2), .asset-table td:nth-child(2) {
+      text-align: left;
+    }
+    .asset-table tbody tr {
+      cursor: pointer;
+    }
+    .asset-table tbody tr:hover {
+      background: #f0f4ff;
+    }
+    .asset-table tbody tr.active {
+      background: #e9f0ff;
+    }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 84px;
+      min-height: 24px;
+      border-radius: 999px;
+      padding: 3px 8px;
+      font-size: 12px;
+      font-weight: 720;
+      border: 1px solid var(--line);
+      background: #fff;
+    }
+    .pos { color: var(--green); }
+    .neg { color: var(--red); }
+    .flat { color: var(--muted); }
+    .bias-strong { color: var(--green); background: #e9f8f0; border-color: #c4ebd5; }
+    .bias-weak { color: var(--red); background: #fff0f0; border-color: #f3caca; }
+    .bias-neutral { color: var(--amber); background: #fff7e6; border-color: #ead7a8; }
+    .chart-wrap {
+      padding: 12px 14px 14px;
+    }
+    canvas {
+      width: 100%;
+      height: 300px;
+      display: block;
+      border: 1px solid #edf0f4;
+      border-radius: 8px;
+      background: linear-gradient(#fff, #fbfcfe);
+    }
+    .detail-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      margin-top: 10px;
+    }
+    .metric {
+      border: 1px solid #edf0f4;
+      border-radius: 7px;
+      padding: 9px;
+      min-height: 64px;
+    }
+    .metric .label {
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .metric .value {
+      font-size: 16px;
+      font-weight: 760;
+      margin-top: 5px;
+    }
+    .news-list {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
+    .news-list li {
+      padding: 10px 14px;
+      border-bottom: 1px solid #edf0f4;
+    }
+    .news-list a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 650;
+      line-height: 1.35;
+    }
+    .news-list a:hover { color: var(--blue); }
+    .news-meta {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 4px;
+    }
+    .reason-list {
+      margin: 10px 0 0;
+      padding-left: 18px;
+      color: var(--muted);
+      line-height: 1.45;
+      font-size: 13px;
+    }
+    .action {
+      margin-top: 10px;
+      border-left: 3px solid var(--teal);
+      background: #eefafa;
+      padding: 9px 10px;
+      color: #164d52;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+    .status {
+      color: var(--muted);
+      font-size: 12px;
+      min-width: 160px;
+      text-align: right;
+    }
+    @media (max-width: 1050px) {
+      .summary-grid { grid-template-columns: repeat(3, minmax(150px, 1fr)); }
+      .layout { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 720px) {
+      .topbar { grid-template-columns: 1fr; }
+      .toolbar { justify-content: flex-start; }
+      main { padding: 12px; }
+      .summary-grid { grid-template-columns: 1fr 1fr; }
+      .asset-table th:nth-child(4), .asset-table td:nth-child(4),
+      .asset-table th:nth-child(5), .asset-table td:nth-child(5) { display: none; }
+      .detail-grid { grid-template-columns: 1fr; }
+      canvas { height: 250px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="topbar">
+      <div>
+        <h1>实时经济走势系统</h1>
+        <div class="meta" id="generatedAt">等待数据</div>
+      </div>
+      <div class="toolbar">
+        <select id="categoryFilter" aria-label="类别筛选"></select>
+        <button id="refreshBtn" class="primary">刷新</button>
+        <button id="openReportBtn">简报</button>
+        <div class="status" id="statusText">本地快照</div>
+      </div>
+    </div>
+  </header>
+  <main>
+    <section class="summary-grid" id="summaryGrid"></section>
+    <section class="layout">
+      <div class="panel">
+        <div class="panel-head">
+          <h2>资产走势</h2>
+          <span class="meta" id="riskRegime">风险状态</span>
+        </div>
+        <div style="overflow:auto;">
+          <table class="asset-table">
+            <thead>
+              <tr>
+                <th>类别</th>
+                <th>产品</th>
+                <th>最新</th>
+                <th>1日</th>
+                <th>5日</th>
+                <th>1月</th>
+                <th>推演</th>
+              </tr>
+            </thead>
+            <tbody id="assetRows"></tbody>
+          </table>
+        </div>
+      </div>
+      <aside class="panel">
+        <div class="panel-head">
+          <h2 id="detailTitle">详情</h2>
+          <span class="chip" id="detailBias">-</span>
+        </div>
+        <div class="chart-wrap">
+          <canvas id="priceChart" width="900" height="360"></canvas>
+          <div class="detail-grid" id="detailMetrics"></div>
+          <ul class="reason-list" id="reasonList"></ul>
+          <div class="action" id="actionNote"></div>
+        </div>
+      </aside>
+    </section>
+    <section class="panel" style="margin-top:14px;">
+      <div class="panel-head">
+        <h2>新闻线索</h2>
+        <span class="meta">标题情绪只作线索，不等同于事实定价</span>
+      </div>
+      <ul class="news-list" id="newsList"></ul>
+    </section>
+  </main>
+
+  <script>
+    let snapshot = window.MARKET_SNAPSHOT || null;
+    let selectedSymbol = null;
+
+    const fmtNum = value => {
+      if (value === null || value === undefined || !Number.isFinite(Number(value))) return "-";
+      const n = Number(value);
+      if (Math.abs(n) >= 1000) return n.toLocaleString(undefined, { maximumFractionDigits: 2 });
+      if (Math.abs(n) >= 10) return n.toFixed(2);
+      return n.toFixed(4);
+    };
+    const fmtPct = value => {
+      if (value === null || value === undefined || !Number.isFinite(Number(value))) return "-";
+      const n = Number(value);
+      return `${n > 0 ? "+" : ""}${n.toFixed(2)}%`;
+    };
+    const clsForPct = value => {
+      const n = Number(value);
+      if (!Number.isFinite(n) || Math.abs(n) < 0.01) return "flat";
+      return n > 0 ? "pos" : "neg";
+    };
+    const biasClass = bias => {
+      if (!bias) return "bias-neutral";
+      if (bias.includes("偏强")) return "bias-strong";
+      if (bias.includes("偏弱")) return "bias-weak";
+      return "bias-neutral";
+    };
+
+    async function tryFetchJson(path) {
+      const res = await fetch(path, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.json();
+    }
+
+    async function refresh(force = false) {
+      const status = document.getElementById("statusText");
+      status.textContent = force ? "刷新中..." : "读取中...";
+      try {
+        snapshot = await tryFetchJson(force ? "/api/refresh" : "/api/snapshot");
+        status.textContent = "服务实时数据";
+      } catch (err) {
+        if (!snapshot) status.textContent = "读取本地快照失败";
+        else status.textContent = "本地快照";
+      }
+      render();
+    }
+
+    function categories() {
+      const names = Array.from(new Set((snapshot.assets || []).map(a => a.category || "其他")));
+      return ["全部"].concat(names);
+    }
+
+    function renderFilters() {
+      const select = document.getElementById("categoryFilter");
+      const current = select.value || "全部";
+      select.innerHTML = "";
+      for (const name of categories()) {
+        const option = document.createElement("option");
+        option.value = name;
+        option.textContent = name;
+        select.appendChild(option);
+      }
+      select.value = categories().includes(current) ? current : "全部";
+    }
+
+    function renderSummary() {
+      const grid = document.getElementById("summaryGrid");
+      grid.innerHTML = "";
+      for (const item of snapshot.category_summary || []) {
+        const div = document.createElement("div");
+        div.className = "summary";
+        div.innerHTML = `
+          <div class="label">${item.category}</div>
+          <div class="value ${biasClass(item.bias)}">${item.bias}</div>
+          <div class="note">${item.note || ""}</div>
+        `;
+        grid.appendChild(div);
+      }
+    }
+
+    function visibleAssets() {
+      const category = document.getElementById("categoryFilter").value || "全部";
+      const assets = snapshot.assets || [];
+      return category === "全部" ? assets : assets.filter(a => a.category === category);
+    }
+
+    function renderRows() {
+      const tbody = document.getElementById("assetRows");
+      tbody.innerHTML = "";
+      const assets = visibleAssets();
+      if (!selectedSymbol && assets.length) selectedSymbol = assets[0].symbol;
+      if (!assets.some(a => a.symbol === selectedSymbol) && assets.length) selectedSymbol = assets[0].symbol;
+      const outlooks = (snapshot.outlook || {}).assets || {};
+      for (const asset of assets) {
+        const ind = asset.indicators || {};
+        const outlook = outlooks[asset.symbol] || {};
+        const tr = document.createElement("tr");
+        tr.className = asset.symbol === selectedSymbol ? "active" : "";
+        tr.innerHTML = `
+          <td>${asset.category || "-"}</td>
+          <td><strong>${asset.name || asset.symbol}</strong><div class="meta">${asset.symbol}</div></td>
+          <td>${fmtNum(ind.latest)}${asset.display_unit || ""}</td>
+          <td class="${clsForPct(ind.return_1d)}">${fmtPct(ind.return_1d)}</td>
+          <td class="${clsForPct(ind.return_5d)}">${fmtPct(ind.return_5d)}</td>
+          <td class="${clsForPct(ind.return_1m)}">${fmtPct(ind.return_1m)}</td>
+          <td><span class="chip ${biasClass(outlook.bias)}">${outlook.bias || "数据不足"}</span></td>
+        `;
+        tr.addEventListener("click", () => {
+          selectedSymbol = asset.symbol;
+          renderRows();
+          renderDetail();
+        });
+        tbody.appendChild(tr);
+      }
+    }
+
+    function renderDetail() {
+      const asset = (snapshot.assets || []).find(a => a.symbol === selectedSymbol) || (snapshot.assets || [])[0];
+      if (!asset) return;
+      const ind = asset.indicators || {};
+      const outlook = ((snapshot.outlook || {}).assets || {})[asset.symbol] || {};
+      document.getElementById("detailTitle").textContent = `${asset.name || asset.symbol} · ${asset.symbol}`;
+      const bias = document.getElementById("detailBias");
+      bias.textContent = outlook.bias || "数据不足";
+      bias.className = `chip ${biasClass(outlook.bias)}`;
+      const metrics = [
+        ["最新", `${fmtNum(ind.latest)}${asset.display_unit || ""}`],
+        ["20日均线", fmtNum(ind.sma_20)],
+        ["50日均线", fmtNum(ind.sma_50)],
+        ["RSI", fmtNum(ind.rsi_14)],
+        ["20日年化波动", fmtPct(ind.volatility_20d_ann)],
+        ["60日回撤", fmtPct(ind.drawdown_from_60d_high)]
+      ];
+      document.getElementById("detailMetrics").innerHTML = metrics.map(m => `
+        <div class="metric"><div class="label">${m[0]}</div><div class="value">${m[1]}</div></div>
+      `).join("");
+      document.getElementById("reasonList").innerHTML = (outlook.why || []).map(x => `<li>${x}</li>`).join("");
+      document.getElementById("actionNote").textContent = outlook.action_note || "";
+      drawChart(asset);
+    }
+
+    function drawChart(asset) {
+      const canvas = document.getElementById("priceChart");
+      const ctx = canvas.getContext("2d");
+      const w = canvas.width;
+      const h = canvas.height;
+      ctx.clearRect(0, 0, w, h);
+      const points = (asset.points || []).filter(p => Number.isFinite(Number(p.close)));
+      if (points.length < 2) {
+        ctx.fillStyle = "#667085";
+        ctx.font = "16px sans-serif";
+        ctx.fillText("暂无足够图表数据", 24, 40);
+        return;
+      }
+      const values = points.map(p => Number(p.close));
+      const min = Math.min(...values);
+      const max = Math.max(...values);
+      const pad = 36;
+      const span = max - min || Math.abs(max) || 1;
+      ctx.strokeStyle = "#d7dde6";
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      for (let i = 0; i < 5; i++) {
+        const y = pad + (h - pad * 2) * i / 4;
+        ctx.moveTo(pad, y);
+        ctx.lineTo(w - pad, y);
+      }
+      ctx.stroke();
+      ctx.fillStyle = "#667085";
+      ctx.font = "12px sans-serif";
+      ctx.fillText(fmtNum(max), 8, pad + 4);
+      ctx.fillText(fmtNum(min), 8, h - pad + 4);
+      ctx.beginPath();
+      points.forEach((p, i) => {
+        const x = pad + (w - pad * 2) * i / (points.length - 1);
+        const y = h - pad - ((Number(p.close) - min) / span) * (h - pad * 2);
+        if (i === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      });
+      const first = values[0];
+      const last = values[values.length - 1];
+      ctx.strokeStyle = last >= first ? "#168a5b" : "#c33b3b";
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+      ctx.fillStyle = "#17202a";
+      ctx.font = "13px sans-serif";
+      ctx.fillText(points[0].date, pad, h - 12);
+      ctx.textAlign = "right";
+      ctx.fillText(points[points.length - 1].date, w - pad, h - 12);
+      ctx.textAlign = "left";
+    }
+
+    function renderNews() {
+      const list = document.getElementById("newsList");
+      const items = [];
+      for (const topic of snapshot.news || []) {
+        for (const article of (topic.articles || []).slice(0, 3)) {
+          items.push({ topic: topic.name, ...article });
+        }
+      }
+      list.innerHTML = items.slice(0, 18).map(item => `
+        <li>
+          <a href="${item.link || "#"}" target="_blank" rel="noreferrer">${item.title || "-"}</a>
+          <div class="news-meta">${item.topic || "-"} · ${item.source || "Google News"} · 情绪 ${item.sentiment ?? "-"}</div>
+        </li>
+      `).join("");
+    }
+
+    function render() {
+      if (!snapshot) return;
+      document.getElementById("generatedAt").textContent = `更新时间：${snapshot.generated_at_readable || snapshot.generated_at || "-"}`;
+      document.getElementById("riskRegime").textContent = `风险状态：${((snapshot.outlook || {}).macro || {}).risk_regime || "中性"}`;
+      renderFilters();
+      renderSummary();
+      renderRows();
+      renderDetail();
+      renderNews();
+    }
+
+    document.getElementById("categoryFilter").addEventListener("change", () => {
+      selectedSymbol = null;
+      renderRows();
+      renderDetail();
+    });
+    document.getElementById("refreshBtn").addEventListener("click", () => refresh(true));
+    document.getElementById("openReportBtn").addEventListener("click", () => {
+      const reportUrl = window.location.protocol === "file:" ? "latest_market_brief.md" : "/latest_market_brief.md";
+      window.open(reportUrl, "_blank");
+    });
+
+    render();
+    refresh(false);
+    window.setInterval(() => refresh(false), 5 * 60 * 1000);
+  </script>
+</body>
+</html>
