@@ -30,16 +30,16 @@ jobs:
       - name: Refresh market data
         run: python work/econ_system/market_watch.py --refresh --print-summary
         env:
-          ECON_OUTPUT_DIR: ${{ github.workspace }}/site
+          ECON_OUTPUT_DIR: ${{ github.workspace }}/docs
 
       - name: Keep Pages plain
-        run: touch site/.nojekyll
+        run: touch docs/.nojekyll
 
       - name: Commit refreshed site
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site
+          git add docs
           if git diff --cached --quiet; then
             echo "No site changes to commit."
           else
