@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-03 20:21:21 UTC
+- 更新时间：2026-07-03 22:14:11 UTC
 - 风险状态：风险偏好较强
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 -0.50%
 - 美国10年期收益率 4.37%，5日变化 -0.08 个百分点
 - VIX 15.81
-- 美元/人民币5日 -0.16%
+- 美元/人民币5日 -0.41%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 4,019.93 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,868.22 | -3.03% | -1.48% | -0.81% | +25.77% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,055.03 | +0.76% | -1.53% | -9.23% | +17.33% | 短线偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 62,556.02 | +1.74% | +5.08% | -1.55% | +28.14% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,748.25 | +2.95% | +11.33% | +4.99% | +41.88% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 82.41 | +2.19% | +15.56% | +23.46% | +50.30% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 62,550.62 | +1.73% | +5.07% | -1.56% | +28.13% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,755.99 | +3.40% | +11.82% | +5.46% | +42.30% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 82.30 | +2.05% | +15.41% | +23.30% | +50.26% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,187.30 | +1.81% | +2.66% | -5.62% | +31.36% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 378.13 | +2.03% | +2.35% | -8.21% | +31.53% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 62.81 | +3.58% | +6.08% | -14.51% | +56.92% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 68.78 | +0.13% | -0.65% | -28.37% | +38.24% | 中性偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 100.86 | -0.00% | -0.50% | +1.33% | +5.04% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.3720% | -0.46% | -1.77% | -2.43% | +13.85% | 中性偏弱 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7792 | -0.22% | -0.16% | +0.15% | +1.70% | 震荡/中性 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7702 | -0.27% | -0.41% | -0.05% | +1.77% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **震荡/中性**，置信度 中等。
@@ -58,10 +58,10 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.60 | Treasury yields, dollar weigh on gold amid inflation concerns - CNBC | CNBC |
-| 美股 | 0.20 | AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters | Reuters |
+| 美股 | 0.40 | AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters | Reuters |
 | A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.10 | Crypto News: Binance Halts EU Ops After MiCA Setback - Investing News Network | Investing News Network |
-| 黄金/贵金属 | -0.60 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
+| 虚拟货币 | -0.30 | Crypto News: Binance Halts EU Ops After MiCA Setback - Investing News Network | Investing News Network |
+| 黄金/贵金属 | -0.80 | Gold slides below $4,340 as rate fears outweigh geopolitical risks - MSN | MSN |
 | 商品 | -0.60 | Oil price forecast: A bearish outlook for Brent in 2026 - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
