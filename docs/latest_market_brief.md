@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-04 14:44:04 UTC
+- 更新时间：2026-07-04 16:14:06 UTC
 - 风险状态：风险偏好较强
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 4,019.93 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,868.22 | -3.03% | -1.48% | -0.81% | +25.77% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,350.03 | +1.28% | +1.18% | -10.32% | +18.16% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 62,640.00 | +0.15% | +4.16% | -2.77% | +27.01% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,769.65 | +0.75% | +9.90% | +5.32% | +41.44% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 81.76 | -0.63% | +9.09% | +18.71% | +49.72% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 62,757.99 | +0.34% | +4.36% | -2.58% | +27.05% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,783.52 | +1.54% | +10.76% | +6.15% | +41.68% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 81.93 | -0.43% | +9.32% | +18.96% | +49.64% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,187.30 | +1.81% | +2.66% | -5.62% | +31.36% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 378.13 | +2.03% | +2.35% | -8.21% | +31.53% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 62.81 | +3.58% | +6.08% | -14.51% | +56.92% | 中性偏弱 | 中等 |
@@ -57,9 +57,9 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -1.00 | Why are gold and silver prices down today, and will… - inkl | inkl |
+| 全球宏观 | -0.60 | Treasury yields, dollar weigh on gold amid inflation concerns - CNBC | CNBC |
 | 美股 | 0.00 | AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters | Reuters |
-| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | -0.30 | 01 The Current State of U.S. Public Cryptocurrency Funds - Public Investment Funds Laws and Regulations 2026 - ICLG | ICLG |
 | 黄金/贵金属 | -0.60 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
 | 商品 | -0.70 | A century and a half of oil supply management: OPEC’s endurance in a changing energy world - World Bank Blogs | World Bank Blogs |
