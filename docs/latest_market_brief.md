@@ -1,13 +1,13 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-04 04:48:11 UTC
+- 更新时间：2026-07-04 08:02:51 UTC
 - 风险状态：风险偏好较强
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
 ## 关键宏观读数
 - 美元指数5日 -0.50%
 - 美国10年期收益率 4.37%，5日变化 -0.08 个百分点
-- VIX 15.81
+- VIX 16.15
 - 美元/人民币5日 -0.41%
 
 ## 跨资产概览
@@ -27,15 +27,15 @@
 | 美股 | 标普500 | 7,483.24 | +0.00% | +1.71% | -1.66% | +17.54% | 中性偏强 | 中等 |
 | 美股 | 纳斯达克综合指数 | 25,832.67 | -0.80% | +1.87% | -4.66% | +28.21% | 震荡/中性 | 中等 |
 | 美股 | 道琼斯工业指数 | 52,900.07 | +1.14% | +1.89% | +3.10% | +14.35% | 中性偏强 | 中等 |
-| 风险指标 | VIX波动率指数 | 15.81 | -2.11% | -14.12% | -1.56% | +191.14% | 中性偏弱 | 中等 |
+| 风险指标 | VIX波动率指数 | 16.15 | -2.65% | -14.51% | +2.41% | +191.66% | 中性偏弱 | 中等 |
 | A股/港股 | 上证指数 | 4,043.64 | +0.37% | +0.41% | -0.99% | +18.46% | 中性偏弱 | 中等 |
 | A股/港股 | 深证成指 | 15,597.51 | +0.64% | -1.17% | -0.68% | +36.51% | 震荡/中性 | 中等 |
 | A股/港股 | 创业板指 | 4,019.93 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,868.22 | -3.03% | -1.48% | -0.81% | +25.77% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,350.03 | +1.28% | +1.18% | -10.32% | +18.16% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 62,647.85 | +1.89% | +5.23% | -1.41% | +28.28% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,756.73 | +3.45% | +11.87% | +5.50% | +42.34% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 83.74 | +3.84% | +17.43% | +25.45% | +51.17% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 62,471.64 | +1.60% | +4.94% | -1.69% | +28.02% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,756.62 | +3.44% | +11.86% | +5.49% | +42.33% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 82.53 | +2.34% | +15.73% | +23.64% | +50.35% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,187.30 | +1.81% | +2.66% | -5.62% | +31.36% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 378.13 | +2.03% | +2.35% | -8.21% | +31.53% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 62.81 | +3.58% | +6.08% | -14.51% | +56.92% | 中性偏弱 | 中等 |
@@ -60,9 +60,9 @@
 | 全球宏观 | -0.60 | Treasury yields, dollar weigh on gold amid inflation concerns - CNBC | CNBC |
 | 美股 | 0.00 | AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters | Reuters |
 | A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.30 | What is Bitcoin ETF? A Complete Guide (2026 Edition) - CoinDCX | CoinDCX |
-| 黄金/贵金属 | -0.70 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
-| 商品 | -0.70 | A century and a half of oil supply management: OPEC’s endurance in a changing energy world - World Bank Blogs | World Bank Blogs |
+| 虚拟货币 | -0.10 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Encyclopedia Britannica | Encyclopedia Britannica |
+| 黄金/贵金属 | -0.30 | Central banks plan historic shift from dollar to gold - MSN | MSN |
+| 商品 | -0.50 | A century and a half of oil supply management: OPEC’s endurance in a changing energy world - World Bank Blogs | World Bank Blogs |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
