@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-05 11:46:14 UTC
+- 更新时间：2026-07-05 14:04:01 UTC
 - 风险状态：风险偏好较强
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 -0.56%
 - 美国10年期收益率 4.49%，5日变化 +0.09 个百分点
 - VIX 16.15
-- 美元/人民币5日 -0.41%
+- 美元/人民币5日 -0.28%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 4,019.93 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,842.17 | +0.62% | -0.54% | -1.96% | +27.73% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,350.03 | +1.28% | +1.18% | -10.32% | +18.16% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 62,635.90 | +0.15% | +4.15% | -2.77% | +27.00% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,759.40 | +0.16% | +9.27% | +4.71% | +41.38% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 80.50 | -2.16% | +7.41% | +16.88% | +50.57% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 62,661.85 | +0.19% | +4.20% | -2.73% | +27.01% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,763.80 | +0.41% | +9.54% | +4.97% | +41.39% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 81.09 | -1.45% | +8.20% | +17.74% | +50.10% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,187.30 | +1.81% | +2.66% | -5.62% | +31.36% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 378.13 | +2.03% | +2.35% | -8.21% | +31.53% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 62.81 | +3.58% | +6.08% | -14.51% | +56.92% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 68.78 | +0.13% | -0.65% | -28.37% | +38.24% | 中性偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 100.86 | -0.52% | -0.56% | +1.65% | +5.08% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.4850% | +0.22% | +2.12% | +0.67% | +14.69% | 中性偏强 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7702 | -0.27% | -0.41% | -0.05% | +1.77% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7792 | -0.14% | -0.28% | +0.08% | +1.55% | 震荡/中性 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **震荡/中性**，置信度 中等。
@@ -59,7 +59,7 @@
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.60 | Global shares stumble while bond yields climb on inflation worries - Reuters | Reuters |
 | 美股 | -0.10 | AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters | Reuters |
-| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | -0.20 | Crypto Market Update: US Spot Bitcoin ETFs Snap 10 Day Losing Streak - Investing News Network | Investing News Network |
 | 黄金/贵金属 | -0.60 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
 | 商品 | -0.70 | A century and a half of oil supply management: OPEC’s endurance in a changing energy world - World Bank Blogs | World Bank Blogs |
