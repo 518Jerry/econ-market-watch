@@ -1,12 +1,12 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-05 05:07:22 UTC
+- 更新时间：2026-07-05 09:20:51 UTC
 - 风险状态：风险偏好较强
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
 ## 关键宏观读数
 - 美元指数5日 -0.56%
-- 美国10年期收益率 4.48%
+- 美国10年期收益率 4.49%，5日变化 +0.09 个百分点
 - VIX 16.15
 - 美元/人民币5日 -0.41%
 
@@ -15,11 +15,11 @@
 | --- | --- | --- | --- | --- |
 | 美股 | 中性偏强 | 道琼斯工业指数、纳斯达克综合指数 | 纳斯达克综合指数、标普500 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 中性偏弱 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
-| A股/港股 | 震荡/中性 | 恒生指数、上证指数 | 创业板指、沪深300 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
+| A股/港股 | 震荡/中性 | 恒生指数、上证指数 | 深证成指、创业板指 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
 | 虚拟货币 | 中性偏强 | 以太坊、Solana | Solana、比特币 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 中性偏弱 | 白银期货、黄金期货 | 黄金期货、SPDR黄金ETF | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 中性偏弱 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
-| 宏观变量 | 震荡/中性 | 美元/人民币、美元指数 | 美元指数、美国10年期收益率 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
+| 宏观变量 | 震荡/中性 | 美国10年期收益率、美元/人民币 | 美元/人民币、美元指数 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
 
 ## 重点产品走势
 | 类别 | 产品 | 最新 | 1日 | 5日 | 1月 | 波动率 | 推演 | 置信度 |
@@ -31,17 +31,17 @@
 | A股/港股 | 上证指数 | 4,043.64 | +0.37% | +0.41% | -0.99% | +18.46% | 中性偏弱 | 中等 |
 | A股/港股 | 深证成指 | 15,597.51 | +0.64% | -1.17% | -0.68% | +36.51% | 震荡/中性 | 中等 |
 | A股/港股 | 创业板指 | 4,019.93 | - | - | - | - | 震荡/中性 | 中等 |
-| A股/港股 | 沪深300 | 4,842.17 | - | - | - | - | 震荡/中性 | 中等 |
+| A股/港股 | 沪深300 | 4,842.17 | +0.62% | -0.54% | -1.96% | +27.73% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,350.03 | +1.28% | +1.18% | -10.32% | +18.16% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 62,682.00 | +0.22% | +4.23% | -2.70% | +27.02% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,763.50 | +0.40% | +9.52% | +4.96% | +41.39% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 80.36 | -2.33% | +7.22% | +16.68% | +50.70% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 62,800.69 | +0.41% | +4.43% | -2.52% | +27.07% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,764.60 | +0.46% | +9.59% | +5.02% | +41.40% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 80.33 | -2.37% | +7.18% | +16.64% | +50.72% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,187.30 | +1.81% | +2.66% | -5.62% | +31.36% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 378.13 | +2.03% | +2.35% | -8.21% | +31.53% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 62.81 | +3.58% | +6.08% | -14.51% | +56.92% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 68.78 | +0.13% | -0.65% | -28.37% | +38.24% | 中性偏弱 | 中等 |
-| 宏观变量 | 美元指数 | 100.86 | -0.52% | -0.56% | +1.65% | +5.08% | 中性偏强 | 中等 |
-| 宏观变量 | 美国10年期收益率 | 4.4850% | - | - | - | - | 震荡/中性 | 中等 |
+| 宏观变量 | 美元指数 | 100.86 | -0.52% | -0.56% | +1.65% | +5.08% | 震荡/中性 | 中等 |
+| 宏观变量 | 美国10年期收益率 | 4.4850% | +0.22% | +2.12% | +0.67% | +14.69% | 中性偏强 | 中等 |
 | 宏观变量 | 美元/人民币 | 6.7702 | -0.27% | -0.41% | -0.05% | +1.77% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.50 | Stocks rise, yields and dollar fall after Fed cuts interest rates - Reuters | Reuters |
-| 美股 | 0.10 | AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters | Reuters |
-| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.10 | Crypto Market Update: US Spot Bitcoin ETFs Snap 10 Day Losing Streak - Investing News Network | Investing News Network |
+| 全球宏观 | -0.60 | Global shares stumble while bond yields climb on inflation worries - Reuters | Reuters |
+| 美股 | 0.40 | AI spending, earnings hopes, Fed outlook set to sway US stocks in second half - Reuters | Reuters |
+| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 虚拟货币 | -0.20 | Crypto Market Update: US Spot Bitcoin ETFs Snap 10 Day Losing Streak - Investing News Network | Investing News Network |
 | 黄金/贵金属 | -0.60 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
-| 商品 | -0.40 | A century and a half of oil supply management: OPEC’s endurance in a changing energy world - World Bank Blogs | World Bank Blogs |
+| 商品 | -0.70 | A century and a half of oil supply management: OPEC’s endurance in a changing energy world - World Bank Blogs | World Bank Blogs |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
