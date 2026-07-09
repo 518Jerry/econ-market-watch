@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-09 20:54:49 UTC
+- 更新时间：2026-07-09 22:41:46 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 -0.45%
 - 美国10年期收益率 4.54%，5日变化 +0.12 个百分点
 - VIX 15.84
-- 美元/人民币5日 -0.07%
+- 美元/人民币5日 +0.06%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,36 +33,36 @@
 | A股/港股 | 创业板指 | 4,018.17 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,842.17 | +0.62% | -0.54% | -1.96% | +27.73% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,199.46 | +2.99% | +5.76% | -3.05% | +21.36% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 63,199.99 | +1.51% | +0.18% | +0.48% | +26.31% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,746.50 | +0.22% | -1.83% | +2.16% | +38.03% | 中性偏弱 | 中等 |
-| 虚拟货币 | Solana | 78.03 | +0.31% | -4.43% | +12.07% | +48.19% | 震荡/中性 | 中等 |
-| 黄金/贵金属 | 黄金期货 | 4,133.80 | +1.55% | +1.61% | -4.66% | +29.70% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 63,251.99 | +1.60% | +0.26% | +0.57% | +26.38% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,747.26 | +0.26% | -1.79% | +2.21% | +38.04% | 中性偏弱 | 中等 |
+| 虚拟货币 | Solana | 78.11 | +0.42% | -4.34% | +12.18% | +48.19% | 震荡/中性 | 中等 |
+| 黄金/贵金属 | 黄金期货 | 4,132.00 | +1.50% | +1.57% | -4.70% | +29.67% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 378.18 | +1.00% | +2.05% | -4.81% | +29.26% | 中性偏弱 | 中等 |
-| 黄金/贵金属 | 白银期货 | 60.37 | +3.78% | +0.47% | -11.78% | +53.40% | 短线偏弱 | 中等 |
-| 商品 | WTI原油期货 | 71.84 | -2.29% | +4.75% | -21.31% | +44.11% | 中性偏弱 | 中等 |
+| 黄金/贵金属 | 白银期货 | 60.35 | +3.75% | +0.43% | -11.81% | +53.37% | 短线偏弱 | 中等 |
+| 商品 | WTI原油期货 | 71.78 | -2.37% | +4.67% | -21.38% | +44.14% | 中性偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 100.94 | -0.11% | -0.45% | +0.89% | +4.62% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.5390% | -0.66% | +2.74% | +0.07% | +14.78% | 震荡/中性 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7837 | -0.28% | -0.07% | +0.17% | +1.85% | 震荡/中性 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7926 | -0.15% | +0.06% | +0.30% | +1.63% | 震荡/中性 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
-- 依据：5日涨幅 +1.61%
-- 依据：约1个月跌幅 -4.66%
+- 依据：5日涨幅 +1.57%
+- 依据：约1个月跌幅 -4.70%
 - 依据：价格在20日均线之下
 - 依据：美债收益率上行压制无息资产
 - 观察位：60日支撑附近 3,990.30
 - 观察位：60日压力附近 4,857.60
-- 观察位：20日均线 4,139.90
+- 观察位：20日均线 4,139.81
 - 操作含义：黄金短线承压信号偏多，适合等待美元/美债收益率回落或价格重新站上20日均线后再评估。
 
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | Dollar Rises as Gulf Tensions Surge Oil Prices, Boost Fed Hike Bets - Global Banking & Finance Review | Global Banking & Finance Review |
-| 美股 | 0.50 | How do changing interest rates affect the stock market in 2026 - U.S. Bank | U.S. Bank |
+| 全球宏观 | -0.70 | Dollar Rises as Gulf Tensions Surge Oil Prices, Boost Fed Hike Bets - Global Banking & Finance Review | Global Banking & Finance Review |
+| 美股 | 0.30 | Stock Market Today: S&P 500, Nasdaq 100 Futures Rise as US-Iran Exchange Strikes—Levi Strauss, AZZ, Ionis - Benzinga | Benzinga |
 | A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.10 | Weekly Crypto News (July 2026): Bitcoin Reclaims $63K, MiCA and Clarity Act in Focus - CoinDCX | CoinDCX |
-| 黄金/贵金属 | -0.30 | Central banks plan historic shift from dollar to gold - MSN | MSN |
+| 虚拟货币 | 0.00 | Bitcoin Price Prediction 2026: Will BTC Finally Rally to 100k? - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | -0.30 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
 | 商品 | -0.50 | Oil’s supply wave, tumbling prices rekindle fears of global glut - The Business Times | The Business Times |
 
 ## 下一步看什么
