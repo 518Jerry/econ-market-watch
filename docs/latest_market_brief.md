@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-10 21:17:30 UTC
+- 更新时间：2026-07-10 23:11:19 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.10%
 - 美国10年期收益率 4.57%，5日变化 +0.09 个百分点
 - VIX 15.03
-- 美元/人民币5日 -0.18%
+- 美元/人民币5日 -0.32%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -17,7 +17,7 @@
 | 风险指标 | 短线偏弱 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 震荡/中性 | 恒生指数、上证指数 | 深证成指、创业板指 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
 | 虚拟货币 | 震荡/中性 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
-| 黄金/贵金属 | 中性偏弱 | 黄金期货、SPDR黄金ETF | SPDR黄金ETF、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
+| 黄金/贵金属 | 短线偏弱 | 黄金期货、SPDR黄金ETF | SPDR黄金ETF、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 中性偏弱 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美国10年期收益率、美元指数 | 美元指数、美元/人民币 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
 
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 3,842.73 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,842.17 | +0.62% | -0.54% | -1.96% | +27.73% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,030.18 | -0.70% | +4.23% | -2.54% | +21.45% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 63,900.01 | +1.12% | +0.55% | +0.57% | +26.31% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,791.11 | +2.67% | +0.45% | +4.68% | +38.74% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 77.87 | -0.22% | -4.36% | +11.69% | +45.43% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 64,017.61 | +1.30% | +0.74% | +0.75% | +26.43% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,792.09 | +2.73% | +0.51% | +4.74% | +38.79% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 77.92 | -0.16% | -4.30% | +11.76% | +45.42% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,128.90 | -0.04% | +0.39% | -3.08% | +26.74% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 377.01 | -0.31% | -0.30% | -3.52% | +25.19% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 60.30 | -0.13% | -0.57% | -7.36% | +53.40% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 71.51 | -0.79% | +4.11% | -18.92% | +42.52% | 中性偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 100.96 | +0.02% | +0.10% | +1.06% | +4.62% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.5690% | +0.66% | +2.10% | +0.37% | +14.83% | 震荡/中性 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7761 | -0.24% | -0.18% | +0.01% | +1.78% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7667 | -0.37% | -0.32% | -0.13% | +2.08% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
@@ -58,11 +58,11 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.80 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
-| 美股 | 0.60 | Stock Market Today: Dow Jones, S&P 500 Futures Fall as Investors Await SK Hynix Debut and US Reportedly M - Benzinga | Benzinga |
+| 美股 | 0.50 | Stock Market Today: Dow Jones, S&P 500 Futures Fall as Investors Await SK Hynix Debut and US Reportedly M - Benzinga | Benzinga |
 | A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.20 | Weekly Crypto News (July 2026): Bitcoin Reclaims $63K, MiCA and Clarity Act in Focus - CoinDCX | CoinDCX |
-| 黄金/贵金属 | -0.30 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
-| 商品 | -0.40 | Oil’s supply wave, tumbling prices rekindle fears of global glut - The Business Times | The Business Times |
+| 虚拟货币 | -0.20 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | -0.40 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
+| 商品 | -0.50 | Oil’s supply wave, tumbling prices rekindle fears of global glut - The Business Times | The Business Times |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
