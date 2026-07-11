@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-11 13:49:03 UTC
+- 更新时间：2026-07-11 15:12:16 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -16,7 +16,7 @@
 | 美股 | 中性偏强 | 纳斯达克综合指数、标普500 | 标普500、道琼斯工业指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 短线偏弱 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 震荡/中性 | 恒生指数、沪深300 | 深证成指、创业板指 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
-| 虚拟货币 | 震荡/中性 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
+| 虚拟货币 | 震荡/中性 | 以太坊、比特币 | 比特币、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 短线偏弱 | 黄金期货、SPDR黄金ETF | SPDR黄金ETF、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 中性偏弱 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美国10年期收益率、美元指数 | 美元指数、美元/人民币 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,842.73 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,842.17 | +0.62% | -0.54% | -1.96% | +27.73% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,175.12 | +0.60% | +3.53% | -1.59% | +21.49% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,216.90 | +0.14% | +0.35% | -0.04% | +25.90% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,803.14 | +0.41% | +0.31% | +3.67% | +38.11% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 78.18 | +0.15% | -4.56% | +6.84% | +45.11% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 64,398.36 | +0.42% | +0.63% | +0.25% | +25.93% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,820.65 | +1.39% | +1.28% | +4.68% | +38.31% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 78.61 | +0.70% | -4.03% | +7.43% | +45.11% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,104.10 | -0.64% | -0.21% | -3.66% | +26.85% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 377.01 | -0.31% | -0.30% | -3.52% | +25.19% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 59.81 | -0.94% | -1.38% | -8.12% | +53.45% | 短线偏弱 | 中等 |
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.80 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
-| 美股 | 0.30 | Wall Street ends higher as investors turn to earnings season - Reuters | Reuters |
-| A股/中国 | 0.90 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.10 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
+| 全球宏观 | -0.70 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
+| 美股 | 0.40 | Wall Street ends higher as investors turn to earnings season - Reuters | Reuters |
+| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 虚拟货币 | -0.10 | Zcash vs Bitcoin in 2026: Is Zcash a Better Privacy Coin Than Bitcoin for Investors? - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.40 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
-| 商品 | -0.50 | Oil’s supply wave, tumbling prices rekindle fears of global glut - The Business Times | The Business Times |
+| 商品 | -0.60 | Oil price forecast: A bearish outlook for Brent in 2026 - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
