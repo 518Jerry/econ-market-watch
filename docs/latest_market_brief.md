@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-11 10:23:17 UTC
+- 更新时间：2026-07-11 12:01:54 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,842.73 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,842.17 | +0.62% | -0.54% | -1.96% | +27.73% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,175.12 | +0.60% | +3.53% | -1.59% | +21.49% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,098.86 | -0.04% | +0.16% | -0.22% | +25.90% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,794.92 | -0.04% | -0.15% | +3.20% | +38.13% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 77.77 | -0.38% | -5.06% | +6.28% | +45.19% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 64,144.08 | +0.03% | +0.23% | -0.15% | +25.90% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,798.96 | +0.18% | +0.08% | +3.43% | +38.12% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 78.01 | -0.07% | -4.77% | +6.61% | +45.13% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,104.10 | -0.64% | -0.21% | -3.66% | +26.85% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 377.01 | -0.31% | -0.30% | -3.52% | +25.19% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 59.81 | -0.94% | -1.38% | -8.12% | +53.45% | 短线偏弱 | 中等 |
@@ -57,10 +57,10 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
+| 全球宏观 | -0.80 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
 | 美股 | 0.30 | Wall Street ends higher as investors turn to earnings season - Reuters | Reuters |
-| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.20 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
+| A股/中国 | 0.90 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 虚拟货币 | -0.10 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.40 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
 | 商品 | -0.50 | Oil’s supply wave, tumbling prices rekindle fears of global glut - The Business Times | The Business Times |
 
