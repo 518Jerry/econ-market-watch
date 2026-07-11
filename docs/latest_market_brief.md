@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-11 17:11:36 UTC
+- 更新时间：2026-07-11 19:22:15 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,842.73 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,842.17 | +0.62% | -0.54% | -1.96% | +27.73% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,175.12 | +0.60% | +3.53% | -1.59% | +21.49% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,174.11 | +0.07% | +0.28% | -0.10% | +25.90% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,819.74 | +1.34% | +1.23% | +4.62% | +38.29% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 77.88 | -0.24% | -4.93% | +6.43% | +45.16% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 64,286.03 | +0.25% | +0.45% | +0.07% | +25.90% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,823.30 | +1.54% | +1.43% | +4.83% | +38.36% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 77.97 | -0.12% | -4.82% | +6.56% | +45.14% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,104.10 | -0.64% | -0.21% | -3.66% | +26.85% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 377.01 | -0.31% | -0.30% | -3.52% | +25.19% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 59.81 | -0.94% | -1.38% | -8.12% | +53.45% | 短线偏弱 | 中等 |
@@ -61,7 +61,7 @@
 | 美股 | 0.40 | Wall Street ends higher as investors turn to earnings season - Reuters | Reuters |
 | A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | -0.10 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | -0.20 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
+| 黄金/贵金属 | -0.40 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
 | 商品 | -0.60 | Oil price forecast: A bearish outlook for Brent in 2026 - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
