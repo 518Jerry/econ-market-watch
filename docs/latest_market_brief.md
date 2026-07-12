@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-12 21:03:08 UTC
+- 更新时间：2026-07-12 22:04:43 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.11%
 - 美国10年期收益率 4.57%，5日变化 +0.08 个百分点
 - VIX 15.03
-- 美元/人民币5日 -0.32%
+- 美元/人民币5日 -0.18%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -32,17 +32,17 @@
 | A股/港股 | 深证成指 | 15,046.67 | -2.29% | -3.53% | +0.62% | +34.99% | 震荡/中性 | 中等 |
 | A股/港股 | 创业板指 | 3,842.73 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,780.79 | -1.96% | -1.27% | +0.68% | +27.50% | 震荡/中性 | 中等 |
-| A股/港股 | 恒生指数 | 24,175.12 | +0.60% | +3.53% | -1.59% | +21.49% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,193.19 | +0.61% | +1.42% | +1.51% | +25.76% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,822.02 | +1.90% | +3.03% | +6.89% | +38.48% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 77.57 | +0.97% | -3.82% | +7.11% | +45.55% | 中性偏强 | 中等 |
+| A股/港股 | 恒生指数 | 24,175.12 | +0.60% | +3.53% | -1.59% | +21.49% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 63,667.25 | -0.21% | +0.58% | +0.68% | +25.68% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,800.84 | +0.71% | +1.83% | +5.65% | +38.05% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 76.58 | -0.32% | -5.04% | +5.75% | +45.57% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,113.70 | -0.41% | +0.02% | -3.43% | +26.79% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 377.01 | -0.31% | -0.30% | -3.52% | +25.19% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 60.17 | -0.35% | -0.79% | -7.57% | +53.40% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 71.41 | -0.93% | +3.96% | -19.04% | +42.51% | 中性偏弱 | 中等 |
-| 宏观变量 | 美元指数 | 100.97 | +0.03% | +0.11% | +1.06% | +4.62% | 震荡/中性 | 中等 |
+| 宏观变量 | 美元指数 | 100.97 | +0.03% | +0.11% | +1.06% | +4.62% | 中性偏强 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.5690% | +0.66% | +1.87% | +0.91% | +14.93% | 震荡/中性 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7667 | -0.37% | -0.32% | -0.13% | +2.08% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7761 | -0.24% | -0.18% | +0.01% | +1.78% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.70 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
-| 美股 | 0.60 | Wall Street ends higher as investors turn to earnings season - Reuters | Reuters |
-| A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.10 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | -0.30 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
-| 商品 | -0.50 | Oil price forecast: A bearish outlook for Brent in 2026 - J.P. Morgan | J.P. Morgan |
+| 全球宏观 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| 美股 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| A股/中国 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| 虚拟货币 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| 黄金/贵金属 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| 商品 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
