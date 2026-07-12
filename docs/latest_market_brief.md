@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-12 15:11:21 UTC
+- 更新时间：2026-07-12 17:13:13 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.11%
 - 美国10年期收益率 4.57%，5日变化 +0.08 个百分点
 - VIX 15.03
-- 美元/人民币5日 -0.18%
+- 美元/人民币5日 -0.32%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 3,842.73 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,780.79 | -1.96% | -1.27% | +0.68% | +27.50% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,175.12 | +0.60% | +3.53% | -1.59% | +21.49% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,164.09 | +0.57% | +1.37% | +1.47% | +25.75% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,821.22 | +1.85% | +2.98% | +6.84% | +38.45% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 77.47 | +0.84% | -3.94% | +6.98% | +45.53% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 64,098.81 | +0.47% | +1.27% | +1.36% | +25.73% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,819.56 | +1.76% | +2.89% | +6.75% | +38.40% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 77.48 | +0.85% | -3.93% | +6.99% | +45.53% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,113.70 | -0.41% | +0.02% | -3.43% | +26.79% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 377.01 | -0.31% | -0.30% | -3.52% | +25.19% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 60.17 | -0.35% | -0.79% | -7.57% | +53.40% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 71.41 | -0.93% | +3.96% | -19.04% | +42.51% | 中性偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 100.97 | +0.03% | +0.11% | +1.06% | +4.62% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.5690% | +0.66% | +1.87% | +0.91% | +14.93% | 震荡/中性 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7761 | -0.24% | -0.18% | +0.01% | +1.78% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7667 | -0.37% | -0.32% | -0.13% | +2.08% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
@@ -58,11 +58,11 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.70 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
-| 美股 | 0.50 | Stock market outlook: S&P 500 to lose much of 2026 gains as 'speculation is hitting extreme levels' - Fortune | Fortune |
+| 美股 | 0.40 | Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank | U.S. Bank |
 | A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | -0.10 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | -0.30 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
-| 商品 | -0.40 | Action-packed week for gold, silver and crude - DhanamOnline | DhanamOnline |
+| 黄金/贵金属 | -0.40 | Central banks plan historic shift from dollar to gold - MSN | MSN |
+| 商品 | -0.50 | Oil price forecast: A bearish outlook for Brent in 2026 - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
