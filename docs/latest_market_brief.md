@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-12 17:13:13 UTC
+- 更新时间：2026-07-12 19:20:54 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,842.73 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,780.79 | -1.96% | -1.27% | +0.68% | +27.50% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,175.12 | +0.60% | +3.53% | -1.59% | +21.49% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,098.81 | +0.47% | +1.27% | +1.36% | +25.73% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,819.56 | +1.76% | +2.89% | +6.75% | +38.40% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 77.48 | +0.85% | -3.93% | +6.99% | +45.53% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 64,158.52 | +0.56% | +1.36% | +1.46% | +25.75% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,819.33 | +1.75% | +2.87% | +6.73% | +38.40% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 77.50 | +0.88% | -3.90% | +7.02% | +45.53% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,113.70 | -0.41% | +0.02% | -3.43% | +26.79% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 377.01 | -0.31% | -0.30% | -3.52% | +25.19% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 60.17 | -0.35% | -0.79% | -7.57% | +53.40% | 中性偏弱 | 中等 |
@@ -58,10 +58,10 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.70 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
-| 美股 | 0.40 | Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank | U.S. Bank |
+| 美股 | 0.60 | Wall Street ends higher as investors turn to earnings season - Reuters | Reuters |
 | A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | -0.10 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | -0.40 | Central banks plan historic shift from dollar to gold - MSN | MSN |
+| 黄金/贵金属 | -0.30 | Central banks plan dollar cuts as Fed turns hawkish - MSN | MSN |
 | 商品 | -0.50 | Oil price forecast: A bearish outlook for Brent in 2026 - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
