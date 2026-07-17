@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-17 22:03:47 UTC
+- 更新时间：2026-07-17 23:05:26 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,428.63 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,780.79 | -1.96% | -1.27% | +0.68% | +27.50% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 25,008.60 | +1.33% | +4.07% | +0.67% | +20.68% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 64,014.47 | +0.35% | +0.40% | +6.66% | +27.88% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 1,839.72 | -1.26% | +1.88% | +16.69% | +40.32% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 74.92 | -0.47% | -2.54% | +4.29% | +40.90% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 63,888.31 | +0.16% | +0.20% | +6.45% | +27.88% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 1,836.44 | -1.44% | +1.70% | +16.48% | +40.45% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 74.89 | -0.51% | -2.58% | +4.25% | +40.91% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,023.00 | +0.94% | -1.98% | -7.11% | +24.91% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 368.41 | +0.95% | -2.28% | -7.35% | +22.56% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 56.22 | +0.58% | -6.00% | -19.57% | +47.72% | 短线偏弱 | 中等 |
@@ -58,7 +58,7 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.60 | Global Stocks Rise as US Inflation Cools and Rate Hike Fears Ease - Modern Diplomacy | Modern Diplomacy |
-| 美股 | 0.70 | US stocks: S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - The Business Times | The Business Times |
+| 美股 | 0.60 | Stock market today: Dow, S&P 500, Nasdaq rise as Apple notches record high - Yahoo Finance | Yahoo Finance |
 | A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | 0.00 | Is CME's 24/7 Crypto Trading a Game Changer for Institutional Investors - Kavout / AI | Kavout | AI |
 | 黄金/贵金属 | -0.40 | Why Has Gold Declined Despite Escalating Geopolitical Tensions - Kavout / AI | Kavout | AI |
