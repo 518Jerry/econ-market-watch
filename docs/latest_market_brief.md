@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-18 19:20:30 UTC
+- 更新时间：2026-07-18 21:01:42 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,428.63 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,780.79 | -1.96% | -1.27% | +0.68% | +27.50% | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,562.24 | -1.78% | +1.60% | +0.28% | +21.56% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 64,525.61 | +0.98% | +3.67% | +7.65% | +27.70% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 1,857.92 | +0.92% | +4.76% | +18.22% | +40.14% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 75.32 | +0.41% | +0.61% | +6.97% | +40.72% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 64,650.23 | +1.17% | +3.87% | +7.86% | +27.76% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 1,855.98 | +0.81% | +4.65% | +18.10% | +40.14% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 75.42 | +0.54% | +0.75% | +7.11% | +40.73% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,012.70 | +0.68% | -2.23% | -7.35% | +24.74% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 368.41 | +0.95% | -2.28% | -7.35% | +22.56% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 56.04 | +0.25% | -6.31% | -19.83% | +47.58% | 短线偏弱 | 中等 |
@@ -57,9 +57,9 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.30 | Gold loses shine as Fed jitters outweigh safe-haven demand - The New Indian Express | The New Indian Express |
+| 全球宏观 | -0.30 | Weekly Review: Gold loses shine as Fed jitters outweigh safe-haven support - The New Indian Express | The New Indian Express |
 | 美股 | 0.40 | Stock market today: Dow, S&P 500, Nasdaq rise as Apple notches record high - Yahoo Finance | Yahoo Finance |
-| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | 0.00 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.40 | Why Has Gold Declined Despite Escalating Geopolitical Tensions - Kavout / AI | Kavout | AI |
 | 商品 | -0.60 | Oil price forecast: A bearish outlook for Brent in 2026 - J.P. Morgan | J.P. Morgan |
