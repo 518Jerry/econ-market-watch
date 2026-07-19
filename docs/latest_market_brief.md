@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-19 21:04:01 UTC
+- 更新时间：2026-07-19 22:07:10 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,428.63 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 24,562.24 | -1.78% | +1.60% | +0.28% | +21.56% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 64,500.01 | -0.46% | -0.70% | +8.34% | +27.94% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 1,866.11 | +0.25% | -1.24% | +18.83% | +39.71% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 76.12 | +0.87% | -2.11% | +6.74% | +36.72% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 64,321.52 | -0.73% | -0.98% | +8.04% | +28.07% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 1,857.48 | -0.21% | -1.69% | +18.28% | +39.83% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 75.64 | +0.24% | -2.73% | +6.07% | +36.61% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,018.80 | +0.83% | -2.08% | -7.21% | +24.83% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 368.41 | +0.95% | -2.28% | -7.35% | +22.56% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 56.33 | +0.77% | -5.82% | -19.42% | +47.81% | 短线偏弱 | 中等 |
@@ -59,7 +59,7 @@
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.30 | Global Stocks Rise as US Inflation Cools and Rate Hike Fears Ease - Modern Diplomacy | Modern Diplomacy |
 | 美股 | 0.60 | Stock market today: Dow, S&P 500, Nasdaq rise as Apple notches record high - Yahoo Finance | Yahoo Finance |
-| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | 0.00 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.40 | Why Has Gold Declined Despite Escalating Geopolitical Tensions - Kavout / AI | Kavout | AI |
 | 商品 | -0.20 | Oil price forecast: A bearish outlook for Brent in 2026 - J.P. Morgan | J.P. Morgan |
