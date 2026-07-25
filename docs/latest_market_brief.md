@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-25 13:58:05 UTC
+- 更新时间：2026-07-25 15:16:50 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,480.87 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,210.81 | +1.28% | +0.81% | +8.03% | +21.24% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 64,085.64 | -0.02% | -1.75% | +1.58% | +25.11% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,863.95 | +0.20% | -2.09% | +4.77% | +33.96% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 73.91 | +0.04% | -4.99% | -9.48% | +28.66% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 64,197.26 | +0.15% | -1.58% | +1.76% | +25.11% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,867.93 | +0.42% | -1.88% | +5.00% | +33.97% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 74.17 | +0.39% | -4.66% | -9.16% | +28.77% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,067.60 | +0.52% | +1.37% | +1.94% | +22.05% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 371.52 | -2.00% | +1.80% | -1.54% | +21.71% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 58.66 | +1.48% | +4.67% | +1.04% | +39.80% | 中性偏弱 | 中等 |
@@ -59,7 +59,7 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.90 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
-| 美股 | 0.30 | Dow flat as S&P 500, Nasdaq slip before Big Tech earnings, oil climbs - TradingView | TradingView |
+| 美股 | 0.20 | Dow flat as S&P 500, Nasdaq slip before Big Tech earnings, oil climbs - TradingView | TradingView |
 | A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | -0.10 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.50 | Why Has Gold Declined Despite Escalating Geopolitical Tensions - Kavout / AI | Kavout | AI |
