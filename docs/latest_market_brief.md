@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-26 16:12:19 UTC
+- 更新时间：2026-07-26 18:10:12 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -25,7 +25,7 @@
 | 类别 | 产品 | 最新 | 1日 | 5日 | 1月 | 波动率 | 推演 | 置信度 |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | 美股 | 标普500 | 7,411.98 | +0.05% | -0.61% | +0.73% | +10.41% | 震荡/中性 | 中等 |
-| 美股 | 纳斯达克综合指数 | 24,975.82 | -0.64% | -2.13% | -1.97% | +18.86% | 短线偏弱 | 中等 |
+| 美股 | 纳斯达克综合指数 | 24,975.82 | -0.64% | -2.13% | -1.97% | +18.86% | 中性偏弱 | 中等 |
 | 美股 | 道琼斯工业指数 | 51,947.25 | +0.46% | -0.38% | +0.19% | +8.95% | 震荡/中性 | 中等 |
 | 风险指标 | VIX波动率指数 | 18.58 | -0.64% | -1.01% | -0.27% | +106.81% | 中性偏弱 | 中等 |
 | A股/港股 | 上证指数 | 3,814.20 | -1.61% | +1.33% | -7.43% | +21.78% | 中性偏弱 | 中等 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,480.87 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 24,963.23 | -0.98% | +1.63% | +6.62% | +20.78% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,664.00 | +0.55% | -2.77% | +1.76% | +25.08% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,909.56 | +1.94% | -0.98% | +7.10% | +34.47% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 75.36 | +1.25% | -3.52% | -7.45% | +29.33% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 64,640.16 | +0.51% | -2.80% | +1.72% | +25.07% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,909.94 | +1.96% | -0.96% | +7.12% | +34.48% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 75.23 | +1.08% | -3.69% | -7.61% | +29.20% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,070.80 | +0.60% | +1.45% | +2.02% | +22.07% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 371.90 | +0.10% | +0.95% | +1.63% | +21.46% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 58.91 | +1.92% | +5.12% | +1.47% | +40.04% | 震荡/中性 | 中等 |
@@ -59,10 +59,10 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.90 | War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters | Reuters |
-| 美股 | 0.20 | Dow flat as S&P 500, Nasdaq slip before Big Tech earnings, oil climbs - TradingView | TradingView |
+| 美股 | 0.50 | Dow flat as S&P 500, Nasdaq slip before Big Tech earnings, oil climbs - TradingView | TradingView |
 | A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.20 | Is CME's 24/7 Crypto Trading a Game Changer for Institutional Investors - Kavout / AI | Kavout | AI |
-| 黄金/贵金属 | -0.40 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
+| 虚拟货币 | 0.20 | Top 5 Altcoins for the Next 100x Crypto – Best Crypto to Buy Now 2026 - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | -0.20 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
 | 商品 | -0.50 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
