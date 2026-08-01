@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-01 10:07:44 UTC
+- 更新时间：2026-08-01 12:10:06 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -16,7 +16,7 @@
 | 美股 | 中性偏强 | 纳斯达克综合指数、标普500 | 标普500、道琼斯工业指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 短线偏弱 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 震荡/中性 | 恒生指数、上证指数 | 沪深300、创业板指 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
-| 虚拟货币 | 中性偏弱 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
+| 虚拟货币 | 震荡/中性 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 中性偏弱 | SPDR黄金ETF、黄金期货 | 黄金期货、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 震荡/中性 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美国10年期收益率、美元/人民币 | 美元/人民币、美元指数 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,343.96 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,884.43 | +0.10% | +3.69% | +12.27% | +19.00% | 短线偏强 | 中等 |
-| 虚拟货币 | 比特币 | 62,941.08 | +0.20% | -1.23% | -1.35% | +27.66% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,862.75 | +0.13% | -1.47% | +4.17% | +38.75% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 72.71 | -0.11% | -1.93% | -5.36% | +31.16% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 63,041.45 | +0.36% | -1.07% | -1.19% | +27.68% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,865.63 | +0.28% | -1.32% | +4.34% | +38.75% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 72.82 | +0.04% | -1.78% | -5.21% | +31.18% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,049.10 | -1.24% | -0.45% | -0.47% | +21.82% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 371.54 | -1.49% | -0.10% | +0.25% | +21.44% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 57.59 | -2.08% | -1.82% | -4.15% | +39.63% | 中性偏弱 | 中等 |
@@ -57,9 +57,9 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.40 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
+| 全球宏观 | -0.10 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
 | 美股 | 0.00 | Wall Street closes down sharply after Fed holds rates unchanged - Reuters | Reuters |
-| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - scmp.com | scmp.com |
 | 虚拟货币 | -0.10 | Why Institutions Keep Buying Bitcoin While Altcoins Keep Bleeding - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | 0.10 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
 | 商品 | -0.40 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
