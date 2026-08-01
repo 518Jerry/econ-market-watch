@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-07-31 22:13:53 UTC
+- 更新时间：2026-08-01 00:09:38 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,343.96 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,858.88 | +0.20% | +2.57% | +13.01% | +19.11% | 短线偏强 | 中等 |
-| 虚拟货币 | 比特币 | 62,954.76 | -2.74% | -3.65% | -1.83% | +27.35% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,861.09 | -2.94% | -4.73% | +3.64% | +38.82% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 72.79 | -2.25% | -4.98% | -6.76% | +31.18% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 62,897.14 | -2.82% | -3.74% | -1.92% | +27.47% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,863.00 | -2.84% | -4.63% | +3.75% | +38.71% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 72.90 | -2.11% | -4.83% | -6.62% | +31.06% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,098.60 | -0.04% | +0.76% | +0.74% | +21.37% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 371.54 | -1.49% | -0.10% | +0.25% | +21.44% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 57.78 | -1.77% | -1.50% | -3.84% | +39.45% | 中性偏弱 | 中等 |
@@ -59,8 +59,8 @@
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.10 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
 | 美股 | 0.30 | Wall Street closes down sharply after Fed holds rates unchanged - Reuters | Reuters |
-| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | -0.10 | Why Institutions Keep Buying Bitcoin While Altcoins Keep Bleeding - Bitcoin Foundation | Bitcoin Foundation |
+| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 虚拟货币 | 0.00 | Why Institutions Keep Buying Bitcoin While Altcoins Keep Bleeding - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | 0.00 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
 | 商品 | -0.40 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
