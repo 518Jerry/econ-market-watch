@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-01 22:07:44 UTC
+- 更新时间：2026-08-02 00:08:04 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,14 +33,14 @@
 | A股/港股 | 创业板指 | 3,343.96 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,884.43 | +0.10% | +3.69% | +12.27% | +19.00% | 短线偏强 | 中等 |
-| 虚拟货币 | 比特币 | 62,781.26 | -0.05% | -1.48% | -1.60% | +27.64% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,845.40 | -0.80% | -2.39% | +3.20% | +38.91% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 71.89 | -1.24% | -3.04% | -6.42% | +31.34% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 62,836.61 | +0.04% | -1.39% | -1.51% | +27.64% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,845.85 | -0.78% | -2.37% | +3.23% | +38.90% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 71.95 | -1.15% | -2.96% | -6.34% | +31.31% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,049.10 | -1.24% | -0.45% | -0.47% | +21.82% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 371.54 | -1.49% | -0.10% | +0.25% | +21.44% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 57.59 | -2.08% | -1.82% | -4.15% | +39.63% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 84.67 | +1.29% | -5.20% | +23.46% | +62.51% | 震荡/中性 | 中等 |
-| 宏观变量 | 美元指数 | 99.80 | -0.21% | -1.65% | -1.57% | +4.72% | 震荡/中性 | 中等 |
+| 宏观变量 | 美元指数 | 99.80 | -0.21% | -1.65% | -1.57% | +4.72% | 中性偏弱 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.7450% | +1.76% | +1.41% | +6.03% | +12.98% | 短线偏强 | 中等 |
 | 宏观变量 | 美元/人民币 | 6.7448 | -0.15% | -0.40% | -0.65% | +1.63% | 中性偏弱 | 中等 |
 
@@ -57,8 +57,8 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.40 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
-| 美股 | 0.00 | Wall Street closes down sharply after Fed holds rates unchanged - Reuters | Reuters |
+| 全球宏观 | -0.60 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
+| 美股 | 0.10 | Wall Street closes down sharply after Fed holds rates unchanged - Reuters | Reuters |
 | A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | -0.10 | Why Institutions Keep Buying Bitcoin While Altcoins Keep Bleeding - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | 0.10 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
