@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-07 21:51:49 UTC
+- 更新时间：2026-08-07 22:51:50 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -19,7 +19,7 @@
 | 虚拟货币 | 中性偏强 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 中性偏强 | 白银期货、黄金期货 | 黄金期货、SPDR黄金ETF | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 震荡/中性 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
-| 宏观变量 | 中性偏弱 | 美元指数、美元/人民币 | 美元/人民币、美国10年期收益率 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
+| 宏观变量 | 震荡/中性 | 美元指数、美元/人民币 | 美元/人民币、美国10年期收益率 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
 
 ## 重点产品走势
 | 类别 | 产品 | 最新 | 1日 | 5日 | 1月 | 波动率 | 推演 | 置信度 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,563.12 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,530.28 | -1.49% | -1.27% | +5.50% | +17.33% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,931.99 | +1.04% | +2.28% | +1.62% | +20.93% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 1,916.47 | +0.76% | +1.80% | +4.10% | +29.78% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 73.62 | +1.44% | +0.23% | -1.86% | +27.53% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 64,867.48 | +0.94% | +2.18% | +1.51% | +20.87% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 1,913.44 | +0.60% | +1.64% | +3.94% | +29.74% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 73.56 | +1.36% | +0.15% | -1.94% | +27.47% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,401.30 | +3.76% | +8.70% | +6.55% | +27.38% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 398.47 | +2.26% | +7.25% | +5.37% | +26.12% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 63.80 | +3.84% | +10.78% | +5.67% | +39.66% | 中性偏强 | 中等 |
@@ -57,11 +57,11 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -1.40 | Stocks rise after soft US inflation reading with Middle East in focus - Reuters | Reuters |
-| 美股 | 0.30 | Stock Market Today: Dow, S&P 500 Futures Gain Even as July Nonfarm Payrolls Unexpectedly Contract—Atlassi - Benzinga | Benzinga |
+| 全球宏观 | -1.00 | Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak - reuters.com | reuters.com |
+| 美股 | 0.20 | Stock Market Today: Dow, S&P 500 Futures Gain Even as July Nonfarm Payrolls Unexpectedly Contract—Atlassi - Benzinga | Benzinga |
 | A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | 0.20 | Crypto Is Down Again — When Bitcoin Price Finally Go Back Up? - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | -0.10 | Gold slides over 1%; silver extends losses ahead of US inflation data - CNBC TV18 - LinkedIn | LinkedIn |
+| 黄金/贵金属 | -0.20 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
 | 商品 | -0.30 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
