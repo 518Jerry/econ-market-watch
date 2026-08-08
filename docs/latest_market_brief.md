@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-08 18:54:02 UTC
+- 更新时间：2026-08-08 19:40:22 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,563.12 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,668.03 | +0.54% | -0.84% | +6.82% | +17.32% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 64,999.00 | +0.18% | +2.42% | +0.31% | +20.88% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 1,919.84 | +0.34% | +3.31% | +3.14% | +29.71% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 76.06 | +3.28% | +3.52% | +0.79% | +29.78% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 64,995.70 | +0.18% | +2.42% | +0.31% | +20.88% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 1,918.95 | +0.30% | +3.27% | +3.09% | +29.71% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 76.01 | +3.21% | +3.45% | +0.73% | +29.68% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,340.70 | +2.33% | +7.20% | +5.09% | +25.43% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 398.47 | +2.26% | +7.25% | +5.37% | +26.12% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 63.33 | +3.08% | +9.97% | +4.89% | +38.86% | 中性偏强 | 中等 |
@@ -58,9 +58,9 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -1.00 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
-| 美股 | 0.30 | Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears - Proactive financial news | Proactive financial news |
+| 美股 | 0.20 | Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears - Proactive financial news | Proactive financial news |
 | A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.20 | Crypto Is Down Again — When Bitcoin Price Finally Go Back Up? - Bitcoin Foundation | Bitcoin Foundation |
+| 虚拟货币 | 0.20 | Crypto Is Down Again — When Bitcoin Price Finally Go Back Up? - bitcoinfoundation.org | bitcoinfoundation.org |
 | 黄金/贵金属 | -0.20 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
 | 商品 | -0.30 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
