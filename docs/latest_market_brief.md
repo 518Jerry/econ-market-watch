@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-09 17:43:48 UTC
+- 更新时间：2026-08-09 18:57:06 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -32,10 +32,10 @@
 | A股/港股 | 深证成指 | 14,311.01 | +1.42% | +5.39% | -7.06% | +43.56% | 震荡/中性 | 中等 |
 | A股/港股 | 创业板指 | 3,563.12 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
-| A股/港股 | 恒生指数 | 25,668.03 | +0.54% | -0.84% | +6.82% | +17.32% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 65,181.28 | +0.43% | +1.76% | +0.76% | +20.71% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 1,922.85 | +0.38% | +2.92% | +2.74% | +29.13% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 77.21 | +1.63% | +4.74% | +1.12% | +29.40% | 震荡/中性 | 中等 |
+| A股/港股 | 恒生指数 | 25,668.03 | +0.54% | -0.84% | +6.82% | +17.32% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 65,146.66 | +0.37% | +1.70% | +0.70% | +20.70% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 1,920.00 | +0.23% | +2.76% | +2.59% | +29.11% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 77.16 | +1.56% | +4.67% | +1.05% | +29.36% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,399.70 | +3.72% | +8.66% | +6.51% | +27.31% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 398.47 | +2.26% | +7.25% | +5.37% | +26.12% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 63.50 | +3.35% | +10.26% | +5.17% | +39.13% | 中性偏强 | 中等 |
@@ -57,8 +57,8 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.90 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
-| 美股 | 0.20 | Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears - proactiveinvestors.com | proactiveinvestors.com |
+| 全球宏观 | -0.60 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
+| 美股 | 0.20 | Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears - Proactive financial news | Proactive financial news |
 | A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | 0.20 | Crypto Is Down Again — When Bitcoin Price Finally Go Back Up? - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.20 | Why central banks are turning to gold - worldfinance.com | worldfinance.com |
