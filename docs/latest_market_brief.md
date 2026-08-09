@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-09 20:48:47 UTC
+- 更新时间：2026-08-09 21:44:53 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,563.12 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,668.03 | +0.54% | -0.84% | +6.82% | +17.32% | 短线偏强 | 中等 |
-| 虚拟货币 | 比特币 | 65,094.67 | +0.29% | +1.62% | +0.62% | +20.68% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 1,919.14 | +0.19% | +2.72% | +2.55% | +29.11% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 77.18 | +1.59% | +4.70% | +1.08% | +29.38% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 65,174.47 | +0.42% | +1.75% | +0.75% | +20.71% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 1,923.91 | +0.44% | +2.97% | +2.80% | +29.14% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 77.35 | +1.81% | +4.93% | +1.30% | +29.55% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,399.70 | +3.72% | +8.66% | +6.51% | +27.31% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 398.47 | +2.26% | +7.25% | +5.37% | +26.12% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 63.50 | +3.35% | +10.26% | +5.17% | +39.13% | 中性偏强 | 中等 |
@@ -57,7 +57,7 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - reuters.com | reuters.com |
+| 全球宏观 | -0.60 | Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments - Reuters | Reuters |
 | 美股 | 0.40 | Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears - Proactive financial news | Proactive financial news |
 | A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | 0.20 | Crypto Is Down Again — When Bitcoin Price Finally Go Back Up? - Bitcoin Foundation | Bitcoin Foundation |
