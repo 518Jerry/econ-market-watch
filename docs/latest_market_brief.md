@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-14 21:36:25 UTC
+- 更新时间：2026-08-14 22:36:14 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,14 +33,14 @@
 | A股/港股 | 创业板指 | 3,626.30 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,396.51 | -0.17% | -0.52% | +2.90% | +17.60% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 62,805.62 | -0.94% | -3.14% | -2.02% | +18.67% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,877.60 | -0.34% | -1.63% | +0.94% | +27.46% | 中性偏弱 | 中等 |
-| 虚拟货币 | Solana | 75.13 | -1.37% | -1.42% | +1.69% | +26.19% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 62,802.00 | -0.95% | -3.15% | -2.02% | +18.67% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,877.57 | -0.34% | -1.63% | +0.94% | +27.46% | 中性偏弱 | 中等 |
+| 虚拟货币 | Solana | 75.01 | -1.53% | -1.58% | +1.53% | +26.31% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,432.00 | +1.57% | +2.10% | +11.20% | +22.32% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 401.48 | +0.63% | +0.76% | +10.01% | +23.14% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.82 | -0.07% | +2.36% | +15.97% | +33.68% | 中性偏强 | 中等 |
 | 商品 | WTI原油期货 | 82.40 | +1.42% | +5.40% | +4.37% | +60.87% | 中性偏强 | 中等 |
-| 宏观变量 | 美元指数 | 99.64 | -0.32% | +0.04% | -1.62% | +4.91% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元指数 | 99.64 | -0.32% | +0.04% | -1.09% | +4.60% | 中性偏弱 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.6960% | +1.19% | +0.77% | +2.78% | +14.51% | 震荡/中性 | 中等 |
 | 宏观变量 | 美元/人民币 | 6.7322 | -0.16% | -0.23% | -0.60% | +1.05% | 中性偏弱 | 中等 |
 
@@ -59,9 +59,9 @@
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.70 | Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak - Reuters | Reuters |
 | 美股 | 0.20 | S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters | Reuters |
-| A股/中国 | 0.70 | China’s economy has finally turned the corner，say Guo Kai and Zhu He - Pekingnology | Pekingnology |
+| A股/中国 | 0.60 | China’s economy has finally turned the corner，say Guo Kai and Zhu He - Pekingnology | Pekingnology |
 | 虚拟货币 | -0.20 | From DeFi to ETFs: Crypto Market Trends That Will Shape the Industry in 2025 - Yellow.com | Yellow.com |
-| 黄金/贵金属 | -0.10 | Dollar Steady as Inflation Data Matches Forecasts - CryptoRank | CryptoRank |
+| 黄金/贵金属 | -0.20 | US Dollar Pressured by Lower Short-Term Yields, MUFG Says - CryptoRank | CryptoRank |
 | 商品 | -0.40 | Oil Upside Risks Persist as OPEC+ Deal Optimism Fades, ING Warns - CryptoRank | CryptoRank |
 
 ## 下一步看什么
