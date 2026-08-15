@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-15 16:36:58 UTC
+- 更新时间：2026-08-15 17:32:19 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,626.30 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,116.85 | -1.10% | -2.15% | +0.43% | +16.79% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 63,027.55 | +0.08% | -1.38% | -2.00% | +17.44% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,882.44 | +0.10% | +0.60% | +0.49% | +22.40% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 75.36 | +0.04% | -0.77% | +1.25% | +23.75% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 62,993.95 | +0.03% | -1.43% | -2.05% | +17.43% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 1,881.18 | +0.03% | +0.53% | +0.42% | +22.39% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 75.49 | +0.22% | -0.60% | +1.43% | +23.76% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,380.40 | +0.38% | +0.91% | +9.91% | +21.96% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 401.48 | +0.63% | +0.76% | +10.01% | +23.14% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.99 | +0.18% | +2.61% | +16.26% | +33.61% | 中性偏强 | 中等 |
@@ -58,7 +58,7 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.80 | Core PCE Inflation Cools to 3.3% in June 2026: What It Means for Fed Rates and Bitcoin - ipsnews.net | ipsnews.net |
-| 美股 | 0.60 | S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters | Reuters |
+| 美股 | 0.70 | S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters | Reuters |
 | A股/中国 | 0.70 | China’s economy has finally turned the corner，say Guo Kai and Zhu He - Pekingnology | Pekingnology |
 | 虚拟货币 | 0.00 | From DeFi to ETFs: Crypto Market Trends That Will Shape the Industry in 2025 - Yellow.com | Yellow.com |
 | 黄金/贵金属 | -0.10 | Pound Edges Higher vs Weaker Dollar, But Geopolitical Risks Cap Gains - CryptoRank | CryptoRank |
