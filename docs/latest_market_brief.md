@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-16 05:38:39 UTC
+- 更新时间：2026-08-16 06:56:02 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.07%
 - 美国10年期收益率 4.70%，5日变化 +0.04 个百分点
 - VIX 14.25
-- 美元/人民币5日 -0.10%
+- 美元/人民币5日 -0.08%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,8 +33,8 @@
 | A股/港股 | 创业板指 | 3,626.30 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,116.85 | -1.10% | -2.15% | +0.43% | +16.79% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 63,004.53 | +0.05% | -1.42% | -2.03% | +17.44% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 1,879.17 | -0.08% | +0.42% | +0.32% | +22.38% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 62,992.15 | +0.03% | -1.44% | -2.05% | +17.43% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,878.42 | -0.12% | +0.38% | +0.28% | +22.38% | 震荡/中性 | 中等 |
 | 虚拟货币 | Solana | 75.31 | -0.02% | -0.84% | +1.18% | +23.74% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,437.30 | +1.69% | +2.23% | +11.33% | +22.40% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 401.48 | +0.63% | +0.76% | +10.01% | +23.14% | 中性偏强 | 中等 |
@@ -42,7 +42,7 @@
 | 商品 | WTI原油期货 | 82.40 | +1.42% | +5.40% | +4.37% | +60.87% | 中性偏强 | 中等 |
 | 宏观变量 | 美元指数 | 99.67 | -0.29% | +0.07% | -1.05% | +4.57% | 中性偏弱 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.6960% | +1.19% | +0.77% | +2.78% | +14.51% | 震荡/中性 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7419 | -0.02% | -0.10% | -0.39% | +0.94% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7419 | -0.01% | -0.08% | -0.45% | +0.94% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏强**，置信度 中等。
@@ -58,9 +58,9 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.80 | Core PCE Inflation Cools to 3.3% in June 2026: What It Means for Fed Rates and Bitcoin - ipsnews.net | ipsnews.net |
-| 美股 | 0.50 | S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters | Reuters |
-| A股/中国 | 0.70 | China’s economy has finally turned the corner，say Guo Kai and Zhu He - Pekingnology | Pekingnology |
-| 虚拟货币 | 0.00 | From DeFi to ETFs: Crypto Market Trends That Will Shape the Industry in 2025 - Yellow.com | Yellow.com |
+| 美股 | 0.50 | S&P 500 ends higher as CoreWeave results fuel AI optimism - reuters.com | reuters.com |
+| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 虚拟货币 | -0.20 | From DeFi to ETFs: Crypto Market Trends That Will Shape the Industry in 2025 - Yellow.com | Yellow.com |
 | 黄金/贵金属 | 0.00 | Pound Edges Higher vs Weaker Dollar, But Geopolitical Risks Cap Gains - CryptoRank | CryptoRank |
 | 商品 | -0.40 | Oil Upside Risks Persist as OPEC+ Deal Optimism Fades, ING Warns - CryptoRank | CryptoRank |
 
