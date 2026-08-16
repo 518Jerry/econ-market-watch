@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-16 20:34:27 UTC
+- 更新时间：2026-08-16 21:31:31 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,626.30 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,116.85 | -1.10% | -2.15% | +0.43% | +16.79% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 63,037.75 | +0.02% | -0.81% | -3.52% | +15.19% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,883.60 | +0.14% | +0.12% | -3.57% | +19.32% | 中性偏弱 | 中等 |
-| 虚拟货币 | Solana | 75.19 | -0.11% | -1.32% | -1.84% | +20.66% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 62,965.28 | -0.09% | -0.92% | -3.63% | +15.18% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,879.17 | -0.09% | -0.12% | -3.80% | +19.31% | 中性偏弱 | 中等 |
+| 虚拟货币 | Solana | 74.89 | -0.51% | -1.71% | -2.24% | +20.76% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,437.30 | +1.69% | +2.23% | +11.33% | +22.40% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 401.48 | +0.63% | +0.76% | +10.01% | +23.14% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 65.11 | +0.36% | +2.80% | +16.48% | +33.57% | 中性偏强 | 中等 |
@@ -62,7 +62,7 @@
 | A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | -0.20 | From DeFi to ETFs: Crypto Market Trends That Will Shape the Industry in 2025 - Yellow.com | Yellow.com |
 | 黄金/贵金属 | -0.10 | Gold Slips as US Dollar Rebounds Despite Softer Factory Inflation - CryptoRank | CryptoRank |
-| 商品 | -0.30 | Oil Upside Risks Persist as OPEC+ Deal Optimism Fades, ING Warns - CryptoRank | CryptoRank |
+| 商品 | -0.50 | Oil Upside Risks Persist as OPEC+ Deal Optimism Fades, ING Warns - CryptoRank | CryptoRank |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
