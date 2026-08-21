@@ -1,7 +1,7 @@
 window.MARKET_SNAPSHOT = {
   "version": "1.0",
-  "generated_at": "2026-08-21T10:43:34.272126+00:00",
-  "generated_at_readable": "2026-08-21 10:43:34 UTC",
+  "generated_at": "2026-08-21T11:36:55.365378+00:00",
+  "generated_at_readable": "2026-08-21 11:36:55 UTC",
   "data_sources": [
     {
       "name": "Yahoo Finance chart API",
@@ -1184,7 +1184,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 125,
         "last_date": "2026-08-20"
       },
-      "fetch_seconds": 0.26
+      "fetch_seconds": 0.3
     },
     {
       "symbol": "^IXIC",
@@ -2354,7 +2354,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 125,
         "last_date": "2026-08-20"
       },
-      "fetch_seconds": 0.27
+      "fetch_seconds": 0.34
     },
     {
       "symbol": "^DJI",
@@ -3537,8 +3537,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "USD",
       "exchange": "CXI",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:28:31+00:00",
-      "regular_market_price": 15.699999809265137,
+      "market_time_utc": "2026-08-21T11:21:46+00:00",
+      "regular_market_price": 15.630000114440918,
       "points": [
         {
           "date": "2026-02-23",
@@ -4680,33 +4680,33 @@ window.MARKET_SNAPSHOT = {
           "open": 15.819999694824219,
           "high": 15.880000114440918,
           "low": 15.630000114440918,
-          "close": 15.699999809265137,
+          "close": 15.630000114440918,
           "volume": 0.0
         }
       ],
       "indicators": {
-        "latest": 15.699999809265137,
+        "latest": 15.630000114440918,
         "previous": 16.010000228881836,
-        "change_1d": -0.3100004196166992,
-        "return_1d": -1.9362924121478886,
-        "return_5d": 10.175437258000963,
-        "return_1m": -16.042785193997744,
-        "return_3m": -5.988029389157356,
-        "return_6m": -25.273680922274323,
-        "change_5d_abs": 1.4499998092651367,
-        "change_1m_abs": -3.0000009536743164,
-        "sma_20": 16.031999921798707,
-        "sma_50": 16.773399925231935,
-        "sma_100": 17.625,
-        "rsi_14": 49.017200111066714,
-        "volatility_20d_ann": 101.52981626619192,
+        "change_1d": -0.38000011444091797,
+        "return_1d": -2.3735172330316523,
+        "return_5d": 9.684211329409953,
+        "return_1m": -16.41711509757159,
+        "return_3m": -6.40718921925485,
+        "return_6m": -25.60685414484284,
+        "change_5d_abs": 1.380000114440918,
+        "change_1m_abs": -3.070000648498535,
+        "sma_20": 16.028499937057497,
+        "sma_50": 16.77199993133545,
+        "sma_100": 17.624300003051758,
+        "rsi_14": 48.59927214098116,
+        "volatility_20d_ann": 101.61570063358086,
         "support_60d": 14.25,
         "resistance_60d": 22.219999313354492,
-        "drawdown_from_60d_high": -29.34293296836763,
+        "drawdown_from_60d_high": -29.657963107824692,
         "trend_score": -1.5,
         "trend_signals": [
-          "5日涨幅 +10.18%",
-          "约1个月跌幅 -16.04%",
+          "5日涨幅 +9.68%",
+          "约1个月跌幅 -16.42%",
           "价格在20日均线之下",
           "20日均线低于50日均线"
         ],
@@ -5873,7 +5873,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 124,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.27
+      "fetch_seconds": 0.29
     },
     {
       "symbol": "399001.SZ",
@@ -7034,7 +7034,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 124,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.27
+      "fetch_seconds": 0.31
     },
     {
       "symbol": "399006.SZ",
@@ -7084,7 +7084,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 1,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.24
+      "fetch_seconds": 0.34
     },
     {
       "symbol": "000300.SS",
@@ -7134,7 +7134,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 1,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.23
+      "fetch_seconds": 0.29
     },
     {
       "symbol": "^HSI",
@@ -8287,7 +8287,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 123,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.18
+      "fetch_seconds": 0.27
     },
     {
       "symbol": "BTC-USD",
@@ -8300,8 +8300,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "USD",
       "exchange": "CCC",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:43:30+00:00",
-      "regular_market_price": 77717.6015625,
+      "market_time_utc": "2026-08-21T11:36:52+00:00",
+      "regular_market_price": 76885.7578125,
       "points": [
         {
           "date": "2026-02-21",
@@ -9938,41 +9938,41 @@ window.MARKET_SNAPSHOT = {
           "open": 73013.0,
           "high": 79244.375,
           "low": 73013.0,
-          "close": 77717.6015625,
-          "volume": 66898149376.0
+          "close": 76885.7578125,
+          "volume": 67351625728.0
         }
       ],
       "indicators": {
-        "latest": 77717.6015625,
+        "latest": 76885.7578125,
         "previous": 73032.7578125,
-        "change_1d": 4684.84375,
-        "return_1d": 6.414715656811953,
-        "return_5d": 23.717397083308068,
-        "return_1m": 23.727060389784562,
-        "return_3m": 22.31126710222153,
-        "return_6m": 14.284261832007928,
-        "change_5d_abs": 14898.94921875,
-        "change_1m_abs": 14903.85546875,
-        "sma_20": 65338.86875,
-        "sma_50": 64558.204296875,
-        "sma_100": 66146.504765625,
-        "rsi_14": 87.52107321250179,
-        "volatility_20d_ann": 38.393737839361464,
+        "change_1d": 3853.0,
+        "return_1d": 5.275714782525354,
+        "return_5d": 22.393198427392846,
+        "return_1m": 22.40275830348888,
+        "return_3m": 21.00211883917662,
+        "return_6m": 13.061029938369684,
+        "change_5d_abs": 14067.10546875,
+        "change_1m_abs": 14072.01171875,
+        "sma_20": 65297.2765625,
+        "sma_50": 64541.567421875,
+        "sma_100": 66138.186328125,
+        "rsi_14": 86.88325693286544,
+        "volatility_20d_ann": 36.46756567299641,
         "support_60d": 58558.859375,
-        "resistance_60d": 77717.6015625,
+        "resistance_60d": 76885.7578125,
         "drawdown_from_60d_high": 0.0,
         "trend_score": 2.7,
         "trend_signals": [
-          "5日涨幅 +23.72%",
-          "约1个月涨幅 +23.73%",
+          "5日涨幅 +22.39%",
+          "约1个月涨幅 +22.40%",
           "价格在20日均线之上",
           "20日均线高于50日均线",
-          "RSI 87.5，短线偏热"
+          "RSI 86.9，短线偏热"
         ],
         "point_count": 182,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.2
+      "fetch_seconds": 0.15
     },
     {
       "symbol": "ETH-USD",
@@ -9985,8 +9985,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "USD",
       "exchange": "CCC",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:43:31+00:00",
-      "regular_market_price": 2394.5,
+      "market_time_utc": "2026-08-21T11:36:52+00:00",
+      "regular_market_price": 2370.830078125,
       "points": [
         {
           "date": "2026-02-21",
@@ -11623,41 +11623,41 @@ window.MARKET_SNAPSHOT = {
           "open": 2326.601318359375,
           "high": 2443.44970703125,
           "low": 2325.349853515625,
-          "close": 2394.5,
-          "volume": 30747725824.0
+          "close": 2370.830078125,
+          "volume": 30555142144.0
         }
       ],
       "indicators": {
-        "latest": 2394.5,
+        "latest": 2370.830078125,
         "previous": 2326.384765625,
-        "change_1d": 68.115234375,
-        "return_1d": 2.9279436222881428,
-        "return_5d": 27.778700245144705,
-        "return_1m": 28.712619473785807,
-        "return_3m": 39.94883695976019,
-        "return_6m": 21.318077254078904,
-        "change_5d_abs": 520.5570068359375,
-        "change_1m_abs": 534.154052734375,
-        "sma_20": 1955.3263671875,
-        "sma_50": 1891.0936181640625,
-        "sma_100": 1863.3787756347656,
-        "rsi_14": 90.31542324885027,
-        "volatility_20d_ann": 63.76849158271929,
+        "change_1d": 44.4453125,
+        "return_1d": 1.910488460753812,
+        "return_5d": 26.51559235118286,
+        "return_1m": 27.44027967538485,
+        "return_3m": 38.56542579361501,
+        "return_6m": 20.11883339914917,
+        "change_5d_abs": 496.8870849609375,
+        "change_1m_abs": 510.484130859375,
+        "sma_20": 1954.14287109375,
+        "sma_50": 1890.6202197265625,
+        "sma_100": 1863.1420764160157,
+        "rsi_14": 89.915469727752,
+        "volatility_20d_ann": 63.54406782268921,
         "support_60d": 1564.816650390625,
-        "resistance_60d": 2394.5,
+        "resistance_60d": 2370.830078125,
         "drawdown_from_60d_high": 0.0,
         "trend_score": 2.7,
         "trend_signals": [
-          "5日涨幅 +27.78%",
-          "约1个月涨幅 +28.71%",
+          "5日涨幅 +26.52%",
+          "约1个月涨幅 +27.44%",
           "价格在20日均线之上",
           "20日均线高于50日均线",
-          "RSI 90.3，短线偏热"
+          "RSI 89.9，短线偏热"
         ],
         "point_count": 182,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.21
+      "fetch_seconds": 0.15
     },
     {
       "symbol": "SOL-USD",
@@ -11670,8 +11670,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "USD",
       "exchange": "CCC",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:43:30+00:00",
-      "regular_market_price": 91.20999908447266,
+      "market_time_utc": "2026-08-21T11:36:51+00:00",
+      "regular_market_price": 90.47000122070312,
       "points": [
         {
           "date": "2026-02-21",
@@ -13308,41 +13308,41 @@ window.MARKET_SNAPSHOT = {
           "open": 87.63362121582031,
           "high": 92.99665069580078,
           "low": 87.6183853149414,
-          "close": 91.20999908447266,
-          "volume": 6132653056.0
+          "close": 90.47000122070312,
+          "volume": 6241485824.0
         }
       ],
       "indicators": {
-        "latest": 91.20999908447266,
+        "latest": 90.47000122070312,
         "previous": 87.6369400024414,
-        "change_1d": 3.57305908203125,
-        "return_1d": 4.077115291715705,
-        "return_5d": 22.365444425770463,
-        "return_1m": 25.30622264283009,
-        "return_3m": 30.822158625031303,
-        "return_6m": 7.03999912613662,
-        "change_5d_abs": 16.670982360839844,
-        "change_1m_abs": 18.420318603515625,
-        "sma_20": 76.95918006896973,
-        "sma_50": 76.83648681640625,
-        "sma_100": 76.3003450012207,
-        "rsi_14": 88.66573413421415,
-        "volatility_20d_ann": 43.23984258049903,
+        "change_1d": 2.8330612182617188,
+        "return_1d": 3.232724942453258,
+        "return_5d": 21.37267862834491,
+        "return_1m": 24.28959795251684,
+        "return_3m": 29.760782472329183,
+        "return_6m": 6.171570538412663,
+        "change_5d_abs": 15.930984497070312,
+        "change_1m_abs": 17.680320739746094,
+        "sma_20": 76.92218017578125,
+        "sma_50": 76.82168685913086,
+        "sma_100": 76.29294502258301,
+        "rsi_14": 88.28409178486699,
+        "volatility_20d_ann": 42.602245018683355,
         "support_60d": 67.57408905029297,
-        "resistance_60d": 91.20999908447266,
+        "resistance_60d": 90.47000122070312,
         "drawdown_from_60d_high": 0.0,
         "trend_score": 2.7,
         "trend_signals": [
-          "5日涨幅 +22.37%",
-          "约1个月涨幅 +25.31%",
+          "5日涨幅 +21.37%",
+          "约1个月涨幅 +24.29%",
           "价格在20日均线之上",
           "20日均线高于50日均线",
-          "RSI 88.7，短线偏热"
+          "RSI 88.3，短线偏热"
         ],
         "point_count": 182,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.27
+      "fetch_seconds": 0.24
     },
     {
       "symbol": "GC=F",
@@ -13355,8 +13355,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "USD",
       "exchange": "CMX",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:33:32+00:00",
-      "regular_market_price": 4645.2998046875,
+      "market_time_utc": "2026-08-21T11:26:54+00:00",
+      "regular_market_price": 4655.0,
       "points": [
         {
           "date": "2026-02-23",
@@ -14489,36 +14489,36 @@ window.MARKET_SNAPSHOT = {
           "open": 4577.0,
           "high": 4659.39990234375,
           "low": 4565.5,
-          "close": 4645.2998046875,
-          "volume": 77846.0
+          "close": 4655.0,
+          "volume": 83929.0
         }
       ],
       "indicators": {
-        "latest": 4645.2998046875,
+        "latest": 4655.0,
         "previous": 4516.2998046875,
-        "change_1d": 129.0,
-        "return_1d": 2.8563205628224564,
-        "return_5d": 6.047390837581168,
-        "return_1m": 14.79512906101126,
-        "return_3m": 2.323891020283919,
-        "return_6m": -10.74798489121067,
-        "change_5d_abs": 264.89990234375,
-        "change_1m_abs": 598.69970703125,
-        "sma_20": 4279.239953613282,
-        "sma_50": 4176.36798828125,
-        "sma_100": 4393.320991210938,
-        "rsi_14": 87.59533100557947,
-        "volatility_20d_ann": 22.4449604082611,
+        "change_1d": 138.7001953125,
+        "return_1d": 3.0711024801440834,
+        "return_5d": 6.268836265595845,
+        "return_1m": 15.034841290497901,
+        "return_3m": 2.5375611319589764,
+        "return_6m": -10.561611133866567,
+        "change_5d_abs": 274.60009765625,
+        "change_1m_abs": 608.39990234375,
+        "sma_20": 4279.724963378906,
+        "sma_50": 4176.5619921875,
+        "sma_100": 4393.417993164063,
+        "rsi_14": 87.74151965362891,
+        "volatility_20d_ann": 22.73283578931418,
         "support_60d": 3985.60009765625,
-        "resistance_60d": 4645.2998046875,
+        "resistance_60d": 4655.0,
         "drawdown_from_60d_high": 0.0,
         "trend_score": 2.7,
         "trend_signals": [
-          "5日涨幅 +6.05%",
-          "约1个月涨幅 +14.80%",
+          "5日涨幅 +6.27%",
+          "约1个月涨幅 +15.03%",
           "价格在20日均线之上",
           "20日均线高于50日均线",
-          "RSI 87.6，短线偏热"
+          "RSI 87.7，短线偏热"
         ],
         "point_count": 126,
         "last_date": "2026-08-21"
@@ -15695,7 +15695,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 125,
         "last_date": "2026-08-20"
       },
-      "fetch_seconds": 0.24
+      "fetch_seconds": 0.22
     },
     {
       "symbol": "SI=F",
@@ -15708,8 +15708,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "USD",
       "exchange": "CMX",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:33:32+00:00",
-      "regular_market_price": 69.41000366210938,
+      "market_time_utc": "2026-08-21T11:26:53+00:00",
+      "regular_market_price": 70.01499938964844,
       "points": [
         {
           "date": "2026-02-23",
@@ -16840,43 +16840,43 @@ window.MARKET_SNAPSHOT = {
           "date": "2026-08-21",
           "time_utc": "2026-08-21T04:00:00+00:00",
           "open": 68.29000091552734,
-          "high": 70.04499816894531,
+          "high": 70.08000183105469,
           "low": 67.95999908447266,
-          "close": 69.41000366210938,
-          "volume": 21955.0
+          "close": 70.01499938964844,
+          "volume": 24615.0
         }
       ],
       "indicators": {
-        "latest": 69.41000366210938,
+        "latest": 70.01499938964844,
         "previous": 68.0260009765625,
-        "change_1d": 1.384002685546875,
-        "return_1d": 2.0345201330057794,
-        "return_5d": 6.804340447942248,
-        "return_1m": 20.090666215047204,
-        "return_3m": -9.16585660804159,
-        "return_6m": -19.778554191731534,
-        "change_5d_abs": 4.422004699707031,
-        "change_1m_abs": 11.612003326416016,
-        "sma_20": 62.65765037536621,
-        "sma_50": 61.64241989135742,
-        "sma_100": 68.79359970092773,
-        "rsi_14": 80.17058609985753,
-        "volatility_20d_ann": 33.633602027378544,
+        "change_1d": 1.9889984130859375,
+        "return_1d": 2.9238796703207948,
+        "return_5d": 7.7352749853928815,
+        "return_1m": 21.137407839368507,
+        "return_3m": -8.37412248086411,
+        "return_6m": -19.079323109605784,
+        "change_5d_abs": 5.027000427246094,
+        "change_1m_abs": 12.216999053955078,
+        "sma_20": 62.687900161743165,
+        "sma_50": 61.6545198059082,
+        "sma_100": 68.79964965820312,
+        "rsi_14": 80.76844840408624,
+        "volatility_20d_ann": 34.186856292366045,
         "support_60d": 55.89799880981445,
         "resistance_60d": 75.6449966430664,
-        "drawdown_from_60d_high": -8.242439364994713,
+        "drawdown_from_60d_high": -7.442656491854061,
         "trend_score": 2.7,
         "trend_signals": [
-          "5日涨幅 +6.80%",
-          "约1个月涨幅 +20.09%",
+          "5日涨幅 +7.74%",
+          "约1个月涨幅 +21.14%",
           "价格在20日均线之上",
           "20日均线高于50日均线",
-          "RSI 80.2，短线偏热"
+          "RSI 80.8，短线偏热"
         ],
         "point_count": 126,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.23
+      "fetch_seconds": 0.22
     },
     {
       "symbol": "CL=F",
@@ -16889,8 +16889,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "USD",
       "exchange": "NYM",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:33:32+00:00",
-      "regular_market_price": 86.79000091552734,
+      "market_time_utc": "2026-08-21T11:26:53+00:00",
+      "regular_market_price": 86.5199966430664,
       "points": [
         {
           "date": "2026-02-23",
@@ -18023,40 +18023,40 @@ window.MARKET_SNAPSHOT = {
           "open": 86.2699966430664,
           "high": 87.51000213623047,
           "low": 85.80000305175781,
-          "close": 86.79000091552734,
-          "volume": 49770.0
+          "close": 86.5199966430664,
+          "volume": 60131.0
         }
       ],
       "indicators": {
-        "latest": 86.79000091552734,
+        "latest": 86.5199966430664,
         "previous": 87.83000183105469,
-        "change_1d": -1.0400009155273438,
-        "return_1d": -1.1841066763585317,
-        "return_5d": 5.32766906353721,
-        "return_1m": -5.857469772073188,
-        "return_3m": -9.922156419298222,
-        "return_6m": 30.88524221228748,
-        "change_5d_abs": 4.3899993896484375,
-        "change_1m_abs": -5.400001525878906,
-        "sma_20": 82.17649955749512,
-        "sma_50": 79.0867999267578,
-        "sma_100": 88.20299995422363,
-        "rsi_14": 64.1385520065049,
-        "volatility_20d_ann": 55.96028444546707,
+        "change_1d": -1.3100051879882812,
+        "return_1d": -1.4915235804140559,
+        "return_5d": 4.999993981667039,
+        "return_1m": -6.150347812327661,
+        "return_3m": -10.202389192247841,
+        "return_6m": 30.478057349669506,
+        "change_5d_abs": 4.1199951171875,
+        "change_1m_abs": -5.670005798339844,
+        "sma_20": 82.16299934387207,
+        "sma_50": 79.0813998413086,
+        "sma_100": 88.20029991149903,
+        "rsi_14": 63.3882189292995,
+        "volatility_20d_ann": 56.05105164968184,
         "support_60d": 68.55000305175781,
         "resistance_60d": 96.0199966430664,
-        "drawdown_from_60d_high": -9.612576598861565,
+        "drawdown_from_60d_high": -9.893772476700036,
         "trend_score": 1.1,
         "trend_signals": [
-          "5日涨幅 +5.33%",
-          "约1个月跌幅 -5.86%",
+          "5日涨幅 +5.00%",
+          "约1个月跌幅 -6.15%",
           "价格在20日均线之上",
           "20日均线高于50日均线"
         ],
         "point_count": 126,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.23
+      "fetch_seconds": 0.2
     },
     {
       "symbol": "DX-Y.NYB",
@@ -18069,8 +18069,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "USD",
       "exchange": "NYB",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:33:32+00:00",
-      "regular_market_price": 98.60700225830078,
+      "market_time_utc": "2026-08-21T11:26:54+00:00",
+      "regular_market_price": 98.60600280761719,
       "points": [
         {
           "date": "2026-02-23",
@@ -19203,29 +19203,29 @@ window.MARKET_SNAPSHOT = {
           "open": 98.7979965209961,
           "high": 98.83499908447266,
           "low": 98.56199645996094,
-          "close": 98.60700225830078,
+          "close": 98.60600280761719,
           "volume": 0.0
         }
       ],
       "indicators": {
-        "latest": 98.60700225830078,
+        "latest": 98.60600280761719,
         "previous": 98.9000015258789,
-        "change_1d": -0.292999267578125,
-        "return_1d": -0.2962581021815791,
-        "return_5d": -1.066515431095627,
-        "return_1m": -2.7831983026534113,
-        "return_3m": -0.5877610331241345,
-        "return_6m": 0.9283575623232565,
-        "change_5d_abs": -1.0629959106445312,
-        "change_1m_abs": -2.822998046875,
-        "sma_20": 99.8753505706787,
-        "sma_50": 100.47934036254883,
-        "sma_100": 99.68827041625977,
-        "rsi_14": 26.616067849532683,
-        "volatility_20d_ann": 4.916023727152745,
-        "support_60d": 98.60700225830078,
+        "change_1d": -0.29399871826171875,
+        "return_1d": -0.29726866908570404,
+        "return_5d": -1.067518190904948,
+        "return_1m": -2.7841836626855354,
+        "return_3m": -0.5887686454429164,
+        "return_6m": 0.9273345830859814,
+        "change_5d_abs": -1.063995361328125,
+        "change_1m_abs": -2.8239974975585938,
+        "sma_20": 99.87530059814453,
+        "sma_50": 100.47932037353516,
+        "sma_100": 99.68826042175293,
+        "rsi_14": 26.60687593423019,
+        "volatility_20d_ann": 4.916444108666126,
+        "support_60d": 98.60600280761719,
         "resistance_60d": 101.61000061035156,
-        "drawdown_from_60d_high": -2.95541613425091,
+        "drawdown_from_60d_high": -2.9563997487353055,
         "trend_score": -1.9,
         "trend_signals": [
           "5日跌幅 -1.07%",
@@ -20415,7 +20415,7 @@ window.MARKET_SNAPSHOT = {
         "point_count": 126,
         "last_date": "2026-08-20"
       },
-      "fetch_seconds": 0.2
+      "fetch_seconds": 0.16
     },
     {
       "symbol": "CNY=X",
@@ -20428,8 +20428,8 @@ window.MARKET_SNAPSHOT = {
       "currency": "CNY",
       "exchange": "CCY",
       "display_unit": "",
-      "market_time_utc": "2026-08-21T10:39:15+00:00",
-      "regular_market_price": 6.71999979019165,
+      "market_time_utc": "2026-08-21T11:36:48+00:00",
+      "regular_market_price": 6.709400177001953,
       "points": [
         {
           "date": "2026-02-23",
@@ -21594,43 +21594,43 @@ window.MARKET_SNAPSHOT = {
         },
         {
           "date": "2026-08-21",
-          "time_utc": "2026-08-21T10:39:15+00:00",
+          "time_utc": "2026-08-21T11:36:48+00:00",
           "open": 6.71619987487793,
           "high": 6.722899913787842,
           "low": 6.708799839019775,
-          "close": 6.71999979019165,
+          "close": 6.709400177001953,
           "volume": 0.0
         }
       ],
       "indicators": {
-        "latest": 6.71999979019165,
+        "latest": 6.709400177001953,
         "previous": 6.729499816894531,
-        "change_1d": -0.00950002670288086,
-        "return_1d": -0.14116987831741534,
-        "return_5d": -0.33814505486547963,
-        "return_1m": -0.7751974552913654,
-        "return_3m": -1.0964763456271842,
-        "return_6m": -2.7214852690588875,
-        "change_5d_abs": -0.022800445556640625,
-        "change_1m_abs": -0.052500247955322266,
-        "sma_20": 6.749259948730469,
-        "sma_50": 6.7673419570922855,
-        "sma_100": 6.787385959625244,
-        "rsi_14": 12.225149812297431,
-        "volatility_20d_ann": 1.0738611304238803,
-        "support_60d": 6.71999979019165,
+        "change_1d": -0.020099639892578125,
+        "return_1d": -0.29867955181628325,
+        "return_5d": -0.4953440348011595,
+        "return_1m": -0.9317070622311019,
+        "return_3m": -1.2524791918422373,
+        "return_6m": -2.874924950607871,
+        "change_5d_abs": -0.03340005874633789,
+        "change_1m_abs": -0.06309986114501953,
+        "sma_20": 6.748729968070984,
+        "sma_50": 6.7671299648284915,
+        "sma_100": 6.787279963493347,
+        "rsi_14": 9.708989565104673,
+        "volatility_20d_ann": 1.375918211915494,
+        "support_60d": 6.709400177001953,
         "resistance_60d": 6.802499771118164,
-        "drawdown_from_60d_high": -1.2127891760730258,
+        "drawdown_from_60d_high": -1.3686085593341724,
         "trend_score": -1.1,
         "trend_signals": [
           "价格在20日均线之下",
           "20日均线低于50日均线",
-          "RSI 12.2，存在超跌修复可能"
+          "RSI 9.7，存在超跌修复可能"
         ],
         "point_count": 130,
         "last_date": "2026-08-21"
       },
-      "fetch_seconds": 0.19
+      "fetch_seconds": 0.17
     }
   ],
   "news": [
@@ -21724,7 +21724,7 @@ window.MARKET_SNAPSHOT = {
           "sentiment": 0
         }
       ],
-      "fetch_seconds": 0.68
+      "fetch_seconds": 0.61
     },
     {
       "name": "美股",
@@ -21732,17 +21732,9 @@ window.MARKET_SNAPSHOT = {
       "status": "ok",
       "source": "Google News RSS",
       "source_url": "https://news.google.com/rss/search?q=US+stocks+S%26P+500+Nasdaq+earnings+Federal+Reserve+market+outlook&hl=en-US&gl=US&ceid=US%3Aen",
-      "sentiment_average": 0.3,
+      "sentiment_average": 0.4,
       "article_count": 10,
       "articles": [
-        {
-          "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXNBVVpsejB3ZmJHc1VYb2VucE81bDNwRHZtMTJhNVYzY0JocDdzZVFsc1V6NjVjbGhvdzktWmJRUEdxb1FyeFhOTzhzTUs2OXpzOC1VUU9zYnkwbGs4cGpwaDhGakdxS1czLTRIZXZKRXZMNS1tWjk2c2pDRlpMSDNILXVGZnc5MzJIVlhLTXczamV1Q0xIWWQxVXZySEltdDM3dC1Ba05COHA0MERjV3BVTmYzb2c?oc=5",
-          "published_utc": "2026-08-19T06:04:10+00:00",
-          "source": "Benzinga",
-          "source_url": "https://www.benzinga.com",
-          "sentiment": 0
-        },
         {
           "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
@@ -21814,9 +21806,17 @@ window.MARKET_SNAPSHOT = {
           "source": "Benzinga",
           "source_url": "https://www.benzinga.com",
           "sentiment": -1
+        },
+        {
+          "title": "Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears - Proactive Investors",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRGNrN0ZBZzVjY1FPb3l5SnNDNW1Ka3ZzV2NsTkJPem1qODdYVElFd3FnUHRHOUtkZTVuUWFDbHBxUEZEZzRPSmpSNERrQVFyQ1Vub0hoZmpzZmRyLURHX1B0a05mRFg1VEFGVzZYLWlLX0ZmVGNodXRLRHRuQzdpTmhCNkhRN2JXLUpDa2VkLWZINGFpZ1gwamxaeXA4bTNRUmlPZldGaVNMMG9FUUVJUW9ZRHFudF9jd01ZNVVZSmxFWWxoT1NSZUhXZHJnZ0JYcjNoZjVZbE5oSTNtZGdoUS00aU5lSmxJNDJwRkhUUQ?oc=5",
+          "published_utc": "2026-08-07T07:00:00+00:00",
+          "source": "Proactive Investors",
+          "source_url": "https://www.proactiveinvestors.co.uk",
+          "sentiment": 1
         }
       ],
-      "fetch_seconds": 0.68
+      "fetch_seconds": 0.84
     },
     {
       "name": "A股/中国",
@@ -21908,7 +21908,7 @@ window.MARKET_SNAPSHOT = {
           "sentiment": 1
         }
       ],
-      "fetch_seconds": 0.66
+      "fetch_seconds": 0.63
     },
     {
       "name": "虚拟货币",
@@ -21916,7 +21916,7 @@ window.MARKET_SNAPSHOT = {
       "status": "ok",
       "source": "Google News RSS",
       "source_url": "https://news.google.com/rss/search?q=Bitcoin+crypto+market+ETF+regulation+liquidity&hl=en-US&gl=US&ceid=US%3Aen",
-      "sentiment_average": 0.3,
+      "sentiment_average": 0.2,
       "article_count": 10,
       "articles": [
         {
@@ -21992,15 +21992,15 @@ window.MARKET_SNAPSHOT = {
           "sentiment": 0
         },
         {
-          "title": "Bitcoin and Ether ETF Inflows Rebound - Blockchain Council",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1pzX0ZrUHpGZU9UOThZckpUYktMMUotZllxVDZhZzhLQ2dRdDB3ZkNkWmwyU01zQ2VBcldrY1BvSFh0OWg3WGo3ZzdTTzNDM3FfM09NVkQxV25qbjEyRDY4dWNXVGk1VGZwVC1SMklTV3dzZDFodUdOb3FBUWNQallOTjA5MmIwNGYwWl9VTXFCZEtHa1V0d200WVRCNW91Y2ZkLQ?oc=5",
-          "published_utc": "2026-07-13T07:00:00+00:00",
-          "source": "Blockchain Council",
-          "source_url": "https://www.blockchain-council.org",
-          "sentiment": 2
+          "title": "SEC Approves Higher IBIT Options Limits As Bitcoin ETF Market Matures - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2FTZUtYUWZVdUtib19XUVo3VnY5dllDcmo4YXNRb2VrVV9JRXRaSXlEWGVySTYyb3drRzd6c2dMRHAzX0FfUFFFcHZuV25FcFF5cjgtQWNjbXRZZy14d1hyd1F5ZWJ4UlhjY1NrT0V4akdZZHM4OWl2U0JWNGFJd2lxMnJ2b1dvQVc4UEY0NlZWdVVFcktuZkNvMEFSQklBaDRJNUVpNU8wRzg?oc=5",
+          "published_utc": "2026-07-18T07:00:00+00:00",
+          "source": "CryptoRank",
+          "source_url": "https://cryptorank.io",
+          "sentiment": 1
         }
       ],
-      "fetch_seconds": 0.43
+      "fetch_seconds": 0.66
     },
     {
       "name": "黄金/贵金属",
@@ -22092,7 +22092,7 @@ window.MARKET_SNAPSHOT = {
           "sentiment": 0
         }
       ],
-      "fetch_seconds": 0.65
+      "fetch_seconds": 0.63
     },
     {
       "name": "商品",
@@ -22184,34 +22184,34 @@ window.MARKET_SNAPSHOT = {
           "sentiment": 0
         }
       ],
-      "fetch_seconds": 0.49
+      "fetch_seconds": 0.65
     }
   ],
   "outlook": {
     "macro": {
-      "dxy_5d": -1.066515431095627,
-      "dxy_1m": -2.7831983026534113,
+      "dxy_5d": -1.067518190904948,
+      "dxy_1m": -2.7841836626855354,
       "tnx": 4.696000099182129,
       "tnx_5d_abs": 0.05500030517578125,
-      "vix": 15.699999809265137,
-      "cny_5d": -0.33814505486547963,
+      "vix": 15.630000114440918,
+      "cny_5d": -0.4953440348011595,
       "spx_5d": -2.0237245256359615,
-      "btc_5d": 23.717397083308068,
+      "btc_5d": 22.393198427392846,
       "risk_regime": "风险偏好降温",
       "notes": [
         "美元指数5日 -1.07%",
         "美国10年期收益率 4.70%，5日变化 +0.06 个百分点",
-        "VIX 15.70",
-        "美元/人民币5日 -0.34%"
+        "VIX 15.63",
+        "美元/人民币5日 -0.50%"
       ]
     },
     "assets": {
       "^GSPC": {
         "bias": "震荡/中性",
-        "score": 0.49,
+        "score": 0.53,
         "confidence": "中等",
         "confidence_value": 62.0,
-        "news_score": -0.01,
+        "news_score": 0.05,
         "why": [
           "5日跌幅 -2.02%",
           "价格在20日均线之上",
@@ -22226,10 +22226,10 @@ window.MARKET_SNAPSHOT = {
       },
       "^IXIC": {
         "bias": "震荡/中性",
-        "score": 0.49,
+        "score": 0.53,
         "confidence": "中等",
         "confidence_value": 62.0,
-        "news_score": -0.01,
+        "news_score": 0.05,
         "why": [
           "5日跌幅 -2.75%",
           "价格在20日均线之上",
@@ -22244,10 +22244,10 @@ window.MARKET_SNAPSHOT = {
       },
       "^DJI": {
         "bias": "震荡/中性",
-        "score": -0.91,
+        "score": -0.87,
         "confidence": "中等",
         "confidence_value": 62.0,
-        "news_score": -0.01,
+        "news_score": 0.05,
         "why": [
           "5日跌幅 -2.01%",
           "价格在20日均线之下",
@@ -22267,8 +22267,8 @@ window.MARKET_SNAPSHOT = {
         "confidence_value": 58.0,
         "news_score": -0.6,
         "why": [
-          "5日涨幅 +10.18%",
-          "约1个月跌幅 -16.04%",
+          "5日涨幅 +9.68%",
+          "约1个月跌幅 -16.42%",
           "价格在20日均线之下"
         ],
         "watch": [
@@ -22359,55 +22359,55 @@ window.MARKET_SNAPSHOT = {
       },
       "BTC-USD": {
         "bias": "短线偏强",
-        "score": 2.77,
+        "score": 2.72,
         "confidence": "中等",
         "confidence_value": 57.0,
-        "news_score": 0.12,
+        "news_score": 0.04,
         "why": [
-          "5日涨幅 +23.72%",
-          "约1个月涨幅 +23.73%",
+          "5日涨幅 +22.39%",
+          "约1个月涨幅 +22.40%",
           "价格在20日均线之上"
         ],
         "watch": [
           "60日支撑附近 58,558.86",
-          "60日压力附近 77,717.60",
-          "20日均线 65,338.87"
+          "60日压力附近 76,885.76",
+          "20日均线 65,297.28"
         ],
         "action_note": "虚拟货币波动大，适合把仓位上限、止损和持有周期先定清楚；不宜用短线新闻追涨。"
       },
       "ETH-USD": {
         "bias": "短线偏强",
-        "score": 2.77,
+        "score": 2.72,
         "confidence": "偏低",
         "confidence_value": 48.0,
-        "news_score": 0.12,
+        "news_score": 0.04,
         "why": [
-          "5日涨幅 +27.78%",
-          "约1个月涨幅 +28.71%",
+          "5日涨幅 +26.52%",
+          "约1个月涨幅 +27.44%",
           "价格在20日均线之上"
         ],
         "watch": [
           "60日支撑附近 1,564.82",
-          "60日压力附近 2,394.50",
-          "20日均线 1,955.33"
+          "60日压力附近 2,370.83",
+          "20日均线 1,954.14"
         ],
         "action_note": "虚拟货币波动大，适合把仓位上限、止损和持有周期先定清楚；不宜用短线新闻追涨。"
       },
       "SOL-USD": {
         "bias": "短线偏强",
-        "score": 2.77,
+        "score": 2.72,
         "confidence": "中等",
         "confidence_value": 57.0,
-        "news_score": 0.12,
+        "news_score": 0.04,
         "why": [
-          "5日涨幅 +22.37%",
-          "约1个月涨幅 +25.31%",
+          "5日涨幅 +21.37%",
+          "约1个月涨幅 +24.29%",
           "价格在20日均线之上"
         ],
         "watch": [
           "60日支撑附近 67.57",
-          "60日压力附近 91.21",
-          "20日均线 76.96"
+          "60日压力附近 90.47",
+          "20日均线 76.92"
         ],
         "action_note": "虚拟货币波动大，适合把仓位上限、止损和持有周期先定清楚；不宜用短线新闻追涨。"
       },
@@ -22418,15 +22418,15 @@ window.MARKET_SNAPSHOT = {
         "confidence_value": 57.0,
         "news_score": -0.38,
         "why": [
-          "5日涨幅 +6.05%",
-          "约1个月涨幅 +14.80%",
+          "5日涨幅 +6.27%",
+          "约1个月涨幅 +15.03%",
           "价格在20日均线之上",
           "美元走弱有利于黄金"
         ],
         "watch": [
           "60日支撑附近 3,985.60",
-          "60日压力附近 4,645.30",
-          "20日均线 4,279.24"
+          "60日压力附近 4,655.00",
+          "20日均线 4,279.72"
         ],
         "action_note": "黄金类资产可作为避险和分散配置继续观察；更稳妥的做法是分批、轻仓，并把美元指数和美债收益率重新走强作为短线失效条件。"
       },
@@ -22456,15 +22456,15 @@ window.MARKET_SNAPSHOT = {
         "confidence_value": 57.0,
         "news_score": -0.38,
         "why": [
-          "5日涨幅 +6.80%",
-          "约1个月涨幅 +20.09%",
+          "5日涨幅 +7.74%",
+          "约1个月涨幅 +21.14%",
           "价格在20日均线之上",
           "美元走弱有利于黄金"
         ],
         "watch": [
           "60日支撑附近 55.90",
           "60日压力附近 75.64",
-          "20日均线 62.66"
+          "20日均线 62.69"
         ],
         "action_note": "黄金类资产可作为避险和分散配置继续观察；更稳妥的做法是分批、轻仓，并把美元指数和美债收益率重新走强作为短线失效条件。"
       },
@@ -22475,14 +22475,14 @@ window.MARKET_SNAPSHOT = {
         "confidence_value": 53.0,
         "news_score": -0.23,
         "why": [
-          "5日涨幅 +5.33%",
-          "约1个月跌幅 -5.86%",
+          "5日涨幅 +5.00%",
+          "约1个月跌幅 -6.15%",
           "价格在20日均线之上"
         ],
         "watch": [
           "60日支撑附近 68.55",
           "60日压力附近 96.02",
-          "20日均线 82.18"
+          "20日均线 82.16"
         ],
         "action_note": "适合把它作为组合里的观察变量，结合趋势、宏观和新闻触发条件再行动。"
       },
@@ -22531,12 +22531,12 @@ window.MARKET_SNAPSHOT = {
         "why": [
           "价格在20日均线之下",
           "20日均线低于50日均线",
-          "RSI 12.2，存在超跌修复可能"
+          "RSI 9.7，存在超跌修复可能"
         ],
         "watch": [
-          "60日支撑附近 6.7200",
+          "60日支撑附近 6.7094",
           "60日压力附近 6.8025",
-          "20日均线 6.7493"
+          "20日均线 6.7487"
         ],
         "action_note": "美元/人民币是解释其他资产的重要变量，重点看方向变化，不直接等同于买卖信号。"
       }
@@ -22546,7 +22546,7 @@ window.MARKET_SNAPSHOT = {
     {
       "category": "美股",
       "bias": "震荡/中性",
-      "average_score": 0.02,
+      "average_score": 0.06,
       "leaders": [
         "道琼斯工业指数",
         "标普500"
@@ -22586,7 +22586,7 @@ window.MARKET_SNAPSHOT = {
     {
       "category": "虚拟货币",
       "bias": "短线偏强",
-      "average_score": 2.77,
+      "average_score": 2.72,
       "leaders": [
         "以太坊",
         "比特币"
