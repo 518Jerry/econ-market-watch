@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-21 22:37:10 UTC
+- 更新时间：2026-08-21 23:34:43 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,545.58 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,698.49 | +0.80% | +1.19% | +3.24% | +14.40% | 短线偏强 | 中等 |
-| 虚拟货币 | 比特币 | 78,420.18 | +7.38% | +24.84% | +24.85% | +40.27% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,528.84 | +8.70% | +34.95% | +35.93% | +68.72% | 短线偏强 | 偏低 |
-| 虚拟货币 | Solana | 93.87 | +7.11% | +25.93% | +28.96% | +47.06% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 78,360.00 | +7.29% | +24.74% | +24.75% | +40.10% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,522.55 | +8.43% | +34.61% | +35.60% | +68.36% | 短线偏强 | 偏低 |
+| 虚拟货币 | Solana | 94.03 | +7.29% | +26.15% | +29.18% | +47.36% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,661.60 | +3.22% | +6.42% | +15.20% | +22.94% | 短线偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 423.36 | +1.95% | +5.45% | +13.95% | +25.45% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 69.01 | +1.45% | +6.19% | +19.40% | +33.43% | 短线偏强 | 中等 |
@@ -61,7 +61,7 @@
 | 全球宏观 | -0.50 | Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed - CNBC | CNBC |
 | 美股 | 0.40 | S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters | Reuters |
 | A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.20 | Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein - The Block | The Block |
+| 虚拟货币 | 0.20 | Why Is Crypto Up Today? Bitcoin Hits $71k as Ethereum Surges Past $2,300 - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | 0.20 | Euro slips below 1.1700 as US Dollar rebounds on rising Treasury yields - CryptoRank | CryptoRank |
 | 商品 | -0.40 | Brent at $100 a Barrel: What Would It Take? - CryptoRank | CryptoRank |
 
