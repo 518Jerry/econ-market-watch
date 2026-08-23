@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-23 05:40:30 UTC
+- 更新时间：2026-08-23 06:57:27 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,545.58 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,618.90 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 26,009.46 | +1.21% | +3.55% | +3.17% | +14.32% | 短线偏强 | 中等 |
-| 虚拟货币 | 比特币 | 76,186.12 | -2.74% | +18.11% | +21.39% | +42.34% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,375.13 | -5.57% | +24.21% | +28.84% | +72.57% | 短线偏强 | 偏低 |
-| 虚拟货币 | Solana | 92.61 | -1.11% | +21.95% | +28.86% | +47.37% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 76,092.21 | -2.86% | +17.96% | +21.24% | +42.48% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,386.92 | -5.10% | +24.83% | +29.48% | +72.01% | 短线偏强 | 偏低 |
+| 虚拟货币 | Solana | 92.09 | -1.67% | +21.26% | +28.14% | +47.77% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,680.60 | +3.64% | +6.85% | +15.67% | +23.59% | 短线偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 423.36 | +1.95% | +5.45% | +13.95% | +25.45% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 69.53 | +2.21% | +6.99% | +20.30% | +33.72% | 短线偏强 | 中等 |
@@ -61,7 +61,7 @@
 | 全球宏观 | -0.60 | Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed - CNBC | CNBC |
 | 美股 | 0.50 | S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters | Reuters |
 | A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.00 | Why Is Crypto Up Today? Bitcoin Hits $71k as Ethereum Surges Past $2,300 - Bitcoin Foundation | Bitcoin Foundation |
+| 虚拟货币 | 0.10 | Why Is Crypto Up Today? Bitcoin Hits $71k as Ethereum Surges Past $2,300 - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.40 | Gold Price Today: Gold Breaks $4,500 as Treasury Yields Fall After Fed Minutes - CryptoRank | CryptoRank |
 | 商品 | -0.10 | Brent at $100 a Barrel: What Would It Take? - CryptoRank | CryptoRank |
 
