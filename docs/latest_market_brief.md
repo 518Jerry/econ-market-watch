@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-08-29 09:58:55 UTC
+- 更新时间：2026-08-29 15:01:35 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,424.40 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,609.18 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 25,565.74 | -0.34% | -0.52% | -0.94% | +14.23% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 77,663.73 | -3.23% | -0.12% | +19.70% | +43.78% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,436.10 | -2.96% | -1.12% | +27.33% | +72.08% | 中性偏强 | 偏低 |
-| 虚拟货币 | Solana | 103.46 | -5.26% | +8.40% | +40.49% | +58.10% | 短线偏强 | 偏低 |
+| 虚拟货币 | 比特币 | 77,947.05 | -2.88% | +0.25% | +20.14% | +43.35% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,446.51 | -2.55% | -0.70% | +27.87% | +71.77% | 中性偏强 | 偏低 |
+| 虚拟货币 | Solana | 105.29 | -3.59% | +10.32% | +42.97% | +55.72% | 短线偏强 | 偏低 |
 | 黄金/贵金属 | 黄金期货 | 4,609.70 | +0.25% | +2.07% | +14.25% | +21.53% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 422.60 | +0.30% | +1.77% | +13.88% | +25.41% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 白银期货 | 69.43 | +2.12% | +2.06% | +19.99% | +33.65% | 短线偏强 | 中等 |
@@ -61,7 +61,7 @@
 | 美股 | -0.30 | Nasdaq, S&P 500 lifted by Nvidia's forecast; investors eye speech by Fed's Warsh - Reuters | Reuters |
 | A股/中国 | 0.90 | China’s Property Crisis: From Evergrande Collapse to Spiraling Prices - Bloomberg.com | Bloomberg.com |
 | 虚拟货币 | 0.30 | Shark Tank's Kevin O'Leary has a blunt message for crypto bulls - thestreet.com | thestreet.com |
-| 黄金/贵金属 | 0.00 | Dollar Edges Higher as Iran Sanctions and Treasury Yields Drive Sentiment - CryptoRank | CryptoRank |
+| 黄金/贵金属 | -0.10 | Gold Price Holds Near $4,630 as US Yields Plunge: What’s Driving XAU/USD? - CryptoRank | CryptoRank |
 | 商品 | -0.20 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
