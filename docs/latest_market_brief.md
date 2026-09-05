@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-05 10:29:42 UTC
+- 更新时间：2026-09-05 13:50:28 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,286.55 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,650.87 | +1.74% | +0.26% | +0.47% | +14.65% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 79,606.79 | -0.08% | +1.35% | +26.31% | +46.35% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,454.71 | -0.06% | -0.49% | +30.51% | +74.40% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 102.51 | +0.55% | -0.47% | +36.19% | +61.20% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 79,650.11 | -0.03% | +1.40% | +26.38% | +46.33% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,456.01 | -0.00% | -0.44% | +30.58% | +74.39% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 102.83 | +0.86% | -0.16% | +36.61% | +61.13% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,429.80 | -1.38% | -1.08% | +4.43% | +23.59% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 406.77 | -0.84% | -0.52% | +4.39% | +27.12% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 66.05 | -1.38% | -1.42% | +7.50% | +34.30% | 震荡/中性 | 中等 |
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.20 | Yields, dollar rise, stocks ease after solid US jobs report - Reuters | Reuters |
-| 美股 | 0.10 | Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga | Benzinga |
+| 全球宏观 | -0.30 | Yields, dollar rise, stocks ease after solid US jobs report - Reuters | Reuters |
+| 美股 | 0.00 | Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga | Benzinga |
 | A股/中国 | 0.90 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.60 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | 0.00 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
-| 商品 | -0.50 | Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations | Council on Foreign Relations |
+| 虚拟货币 | 0.80 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | -0.30 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
+| 商品 | -0.30 | Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations | Council on Foreign Relations |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
