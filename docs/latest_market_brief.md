@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-05 21:10:10 UTC
+- 更新时间：2026-09-05 23:50:34 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,286.55 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,650.87 | +1.74% | +0.26% | +0.47% | +14.65% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 79,775.10 | +0.13% | +1.56% | +26.58% | +46.28% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,477.61 | +0.88% | +0.44% | +31.72% | +74.22% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 103.36 | +1.38% | +0.35% | +37.31% | +61.07% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 79,810.20 | +0.17% | +1.61% | +26.63% | +46.26% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,481.21 | +1.02% | +0.58% | +31.92% | +74.21% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 103.22 | +1.25% | +0.22% | +37.13% | +61.08% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,429.80 | -1.38% | -1.08% | +4.43% | +23.59% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 406.77 | -0.84% | -0.52% | +4.39% | +27.12% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 66.05 | -1.38% | -1.42% | +7.50% | +34.30% | 震荡/中性 | 中等 |
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.20 | Yields, dollar rise, stocks ease after solid US jobs report - Reuters | Reuters |
-| 美股 | 0.00 | Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga | Benzinga |
+| 全球宏观 | -0.40 | Yields, dollar rise, stocks ease after solid US jobs report - Reuters | Reuters |
+| 美股 | -0.20 | Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga | Benzinga |
 | A股/中国 | 0.90 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | 0.80 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.50 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
-| 商品 | -0.40 | Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations | Council on Foreign Relations |
+| 商品 | -0.40 | Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - cfr.org | cfr.org |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
