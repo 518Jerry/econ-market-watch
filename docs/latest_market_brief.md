@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-06 16:58:35 UTC
+- 更新时间：2026-09-06 19:07:03 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -29,13 +29,13 @@
 | 美股 | 道琼斯工业指数 | 53,414.25 | -0.51% | -0.27% | -0.87% | +9.27% | 震荡/中性 | 中等 |
 | 风险指标 | VIX波动率指数 | 14.53 | +1.47% | +0.69% | -4.09% | +78.90% | 短线偏弱 | 中等 |
 | A股/港股 | 上证指数 | 3,930.12 | -0.30% | -0.56% | +0.76% | +13.21% | 震荡/中性 | 中等 |
-| A股/港股 | 深证成指 | 13,516.97 | -0.79% | -3.13% | -4.20% | +24.84% | 中性偏弱 | 中等 |
+| A股/港股 | 深证成指 | 13,516.97 | -0.79% | -3.13% | -4.20% | +24.84% | 短线偏弱 | 中等 |
 | A股/港股 | 创业板指 | 3,286.55 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,650.87 | +1.74% | +0.26% | +0.47% | +14.65% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 79,668.26 | -0.19% | +2.93% | +26.82% | +46.20% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,483.33 | +0.10% | +2.71% | +32.52% | +74.34% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 105.95 | +2.68% | +5.96% | +42.14% | +61.18% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 79,862.93 | +0.05% | +3.18% | +27.13% | +46.11% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,492.50 | +0.47% | +3.09% | +33.01% | +74.27% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 105.89 | +2.62% | +5.90% | +42.06% | +61.17% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,476.60 | -0.34% | -0.03% | +5.53% | +23.00% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 406.77 | -0.84% | -0.52% | +4.39% | +27.12% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 66.75 | -0.34% | -0.37% | +8.64% | +33.84% | 中性偏强 | 中等 |
@@ -57,10 +57,10 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | Yields, dollar rise, stocks ease after solid US jobs report - Reuters | Reuters |
-| 美股 | 0.00 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters | Reuters |
-| A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.40 | Bitcoin Price Prediction 2026: Will BTC Finally Rally to 100k? - Bitcoin Foundation | Bitcoin Foundation |
+| 全球宏观 | -0.80 | Yields, dollar rise, stocks ease after solid US jobs report - reuters.com | reuters.com |
+| 美股 | 0.00 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - reuters.com | reuters.com |
+| A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - scmp.com | scmp.com |
+| 虚拟货币 | 0.30 | Bitcoin Price Prediction 2026: Will BTC Finally Rally to 100k? - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.50 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
 | 商品 | -0.50 | Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations | Council on Foreign Relations |
 
