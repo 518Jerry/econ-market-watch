@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-06 19:07:03 UTC
+- 更新时间：2026-09-06 21:20:21 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -16,7 +16,7 @@
 | 美股 | 震荡/中性 | 纳斯达克综合指数、标普500 | 标普500、道琼斯工业指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 短线偏弱 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 震荡/中性 | 恒生指数、上证指数 | 沪深300、创业板指 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
-| 虚拟货币 | 短线偏强 | Solana、比特币 | 比特币、以太坊 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
+| 虚拟货币 | 短线偏强 | Solana、以太坊 | 以太坊、比特币 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 中性偏强 | 黄金期货、白银期货 | 白银期货、SPDR黄金ETF | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 短线偏强 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美国10年期收益率、美元/人民币 | 美元/人民币、美元指数 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,286.55 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,650.87 | +1.74% | +0.26% | +0.47% | +14.65% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 79,862.93 | +0.05% | +3.18% | +27.13% | +46.11% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,492.50 | +0.47% | +3.09% | +33.01% | +74.27% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 105.89 | +2.62% | +5.90% | +42.06% | +61.17% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 79,997.19 | +0.22% | +3.35% | +27.35% | +46.07% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,513.47 | +1.32% | +3.96% | +34.13% | +74.19% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 106.17 | +2.89% | +6.18% | +42.44% | +61.23% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,476.60 | -0.34% | -0.03% | +5.53% | +23.00% | 中性偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 406.77 | -0.84% | -0.52% | +4.39% | +27.12% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 66.75 | -0.34% | -0.37% | +8.64% | +33.84% | 中性偏强 | 中等 |
@@ -57,10 +57,10 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.80 | Yields, dollar rise, stocks ease after solid US jobs report - reuters.com | reuters.com |
-| 美股 | 0.00 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - reuters.com | reuters.com |
-| A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - scmp.com | scmp.com |
-| 虚拟货币 | 0.30 | Bitcoin Price Prediction 2026: Will BTC Finally Rally to 100k? - Bitcoin Foundation | Bitcoin Foundation |
+| 全球宏观 | -0.80 | Yields, dollar rise, stocks ease after solid US jobs report - Reuters | Reuters |
+| 美股 | 0.00 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters | Reuters |
+| A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - SCMP | SCMP |
+| 虚拟货币 | 0.50 | Bitcoin Price Prediction 2026: Will BTC Finally Rally to 100k? - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.50 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
 | 商品 | -0.50 | Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations | Council on Foreign Relations |
 
