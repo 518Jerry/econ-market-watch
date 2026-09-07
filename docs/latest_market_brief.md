@@ -1,14 +1,14 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-07 16:25:17 UTC
+- 更新时间：2026-09-07 20:32:34 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
 ## 关键宏观读数
-- 美元指数5日 -0.54%
+- 美元指数5日 -0.26%
 - 美国10年期收益率 4.78%，5日变化 +0.06 个百分点
 - VIX 15.30
-- 美元/人民币5日 -0.40%
+- 美元/人民币5日 -0.23%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 3,398.68 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 25,650.87 | +1.74% | +0.26% | +0.47% | +14.65% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 78,804.73 | -1.92% | +1.95% | +22.17% | +47.17% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,472.61 | -1.67% | +3.39% | +29.31% | +74.91% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 103.56 | -2.71% | +3.16% | +36.36% | +63.34% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 79,206.74 | -1.42% | +2.47% | +22.79% | +46.79% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,489.42 | -1.00% | +4.09% | +30.19% | +74.58% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 103.98 | -2.32% | +3.58% | +36.92% | +63.00% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,476.60 | +1.06% | +1.03% | +3.13% | +23.79% | 短线偏强 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 406.77 | -0.84% | -0.52% | +4.39% | +27.12% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 66.75 | +1.06% | +0.80% | +5.39% | +33.11% | 中性偏强 | 中等 |
 | 商品 | WTI原油期货 | 91.48 | 0.00% | +6.67% | +17.01% | +30.73% | 短线偏强 | 中等 |
-| 宏观变量 | 美元指数 | 98.89 | -0.27% | -0.54% | -0.71% | +4.80% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元指数 | 99.18 | +0.02% | -0.26% | -0.43% | +4.74% | 中性偏弱 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.7840% | +0.46% | +1.36% | +2.44% | +12.53% | 中性偏强 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.6991 | -0.30% | -0.40% | -0.74% | +1.31% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7103 | -0.01% | -0.23% | -0.55% | +0.94% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **短线偏强**，置信度 中等。
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | Yields, dollar rise, stocks ease after solid US jobs report - Reuters | Reuters |
-| 美股 | 0.10 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters | Reuters |
-| A股/中国 | 0.90 | Outlook for China stocks brightens on capital flows, rebounding home prices - SCMP | SCMP |
-| 虚拟货币 | 0.70 | Bitcoin Price Prediction 2026: Will BTC Finally Rally to 100k? - bitcoinfoundation.org | bitcoinfoundation.org |
-| 黄金/贵金属 | -0.40 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
-| 商品 | -0.60 | Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations | Council on Foreign Relations |
+| 全球宏观 | -0.80 | Yields, dollar rise, stocks ease after solid US jobs report - reuters.com | reuters.com |
+| 美股 | 0.10 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - reuters.com | reuters.com |
+| A股/中国 | 0.90 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 虚拟货币 | 0.60 | Bitcoin Price Prediction 2026: Will BTC Finally Rally to 100k? - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | -0.30 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
+| 商品 | -0.30 | Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations | Council on Foreign Relations |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
