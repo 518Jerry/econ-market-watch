@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-12 17:05:34 UTC
+- 更新时间：2026-09-12 19:18:55 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,322.04 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 24,805.63 | -0.60% | -3.30% | -2.33% | +14.05% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 77,360.67 | +0.24% | -2.22% | +0.36% | +27.76% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,531.95 | +0.68% | +1.65% | +4.44% | +31.15% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 102.10 | -0.29% | -1.70% | +8.72% | +51.27% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 77,144.76 | -0.04% | -2.49% | +0.08% | +27.74% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,521.17 | +0.26% | +1.21% | +4.00% | +31.09% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 101.64 | -0.74% | -2.14% | +8.23% | +51.37% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,366.20 | +0.04% | -2.79% | -0.97% | +23.77% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 398.77 | +0.61% | -2.79% | -1.52% | +27.88% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.55 | +0.42% | -3.61% | -1.53% | +38.98% | 中性偏弱 | 中等 |
@@ -58,8 +58,8 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.50 | Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5% - Bloomberg.com | Bloomberg.com |
-| 美股 | -0.10 | Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters | Reuters |
+| 全球宏观 | -0.70 | Wall Street jumps, oil lower ahead of Fed vote next week - Reuters | Reuters |
+| 美股 | -0.30 | Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters | Reuters |
 | A股/中国 | 0.80 | China’s Property Crisis: From Evergrande Collapse to Spiraling Prices - Bloomberg.com | Bloomberg.com |
 | 虚拟货币 | 0.60 | Why Are Crypto Prices Surging Today? Bitcoin Reclaims $68K as Liquidity and ETF Inflows Boost Market - Altcoin Buzz | Altcoin Buzz |
 | 黄金/贵金属 | 0.10 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
