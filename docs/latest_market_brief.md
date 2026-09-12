@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-12 05:45:06 UTC
+- 更新时间：2026-09-12 10:40:10 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -16,7 +16,7 @@
 | 美股 | 震荡/中性 | 纳斯达克综合指数、标普500 | 标普500、道琼斯工业指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 中性偏强 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 中性偏弱 | 深证成指、上证指数 | 沪深300、创业板指 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
-| 虚拟货币 | 震荡/中性 | 以太坊、比特币 | 比特币、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
+| 虚拟货币 | 震荡/中性 | 以太坊、Solana | Solana、比特币 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 中性偏弱 | SPDR黄金ETF、黄金期货 | 黄金期货、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 短线偏强 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美国10年期收益率、美元指数 | 美元指数、美元/人民币 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,322.04 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 24,805.63 | -0.60% | -3.30% | -2.33% | +14.05% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 77,223.53 | +0.86% | -3.89% | -1.42% | +27.95% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,511.36 | +3.05% | -0.13% | -0.16% | +31.37% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 101.61 | +2.96% | -4.54% | +8.50% | +50.79% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 77,341.32 | +0.22% | -2.24% | +0.33% | +27.75% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,532.03 | +0.69% | +1.65% | +4.45% | +31.15% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 101.97 | -0.42% | -1.83% | +8.58% | +51.30% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,366.20 | +0.04% | -2.79% | -0.97% | +23.77% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 398.77 | +0.61% | -2.79% | -1.52% | +27.88% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.55 | +0.42% | -3.61% | -1.53% | +38.98% | 中性偏弱 | 中等 |
@@ -58,11 +58,11 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.30 | Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5% - Bloomberg.com | Bloomberg.com |
-| 美股 | -0.30 | Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga | Benzinga |
-| A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.50 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | 0.20 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
+| 全球宏观 | -0.30 | Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5% - bloomberg.com | bloomberg.com |
+| 美股 | -0.10 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters | Reuters |
+| A股/中国 | 0.80 | China’s Property Crisis: From Evergrande Collapse to Spiraling Prices - bloomberg.com | bloomberg.com |
+| 虚拟货币 | 0.50 | U.S. Crypto Market Structure Reform: Is This the Bill That Will Redefine Bitcoin, ETFs, and Crypto Exchanges in 2026? - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | 0.10 | Why Gold ETFs Could Keep Shining Despite Higher Rates - tradingview.com | tradingview.com |
 | 商品 | -0.10 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
