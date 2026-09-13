@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-12 22:13:24 UTC
+- 更新时间：2026-09-13 00:55:52 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -18,7 +18,7 @@
 | A股/港股 | 中性偏弱 | 深证成指、上证指数 | 沪深300、创业板指 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
 | 虚拟货币 | 震荡/中性 | 以太坊、Solana | Solana、比特币 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 中性偏弱 | SPDR黄金ETF、黄金期货 | 黄金期货、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
-| 商品 | 中性偏强 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
+| 商品 | 短线偏强 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美国10年期收益率、美元指数 | 美元指数、美元/人民币 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
 
 ## 重点产品走势
@@ -33,15 +33,15 @@
 | A股/港股 | 创业板指 | 3,322.04 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 24,805.63 | -0.60% | -3.30% | -2.33% | +14.05% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 77,236.46 | +0.08% | -2.38% | +0.20% | +27.74% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,522.52 | +0.31% | +1.27% | +4.05% | +31.09% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 101.50 | -0.88% | -2.28% | +8.08% | +51.42% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 77,250.07 | +0.10% | -2.36% | +0.22% | +27.74% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,525.03 | +0.41% | +1.37% | +4.16% | +31.10% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 101.71 | -0.67% | -2.08% | +8.30% | +51.36% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,366.20 | +0.04% | -2.79% | -0.97% | +23.77% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 398.77 | +0.61% | -2.79% | -1.52% | +27.88% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.55 | +0.42% | -3.61% | -1.53% | +38.98% | 中性偏弱 | 中等 |
-| 商品 | WTI原油期货 | 100.05 | -2.37% | +9.58% | +20.15% | +38.31% | 中性偏强 | 中等 |
+| 商品 | WTI原油期货 | 100.05 | -2.37% | +9.58% | +20.15% | +38.31% | 短线偏强 | 中等 |
 | 宏观变量 | 美元指数 | 99.12 | +0.03% | +0.12% | -0.89% | +4.96% | 中性偏弱 | 中等 |
-| 宏观变量 | 美国10年期收益率 | 4.9750% | +0.63% | +4.47% | +6.26% | +13.66% | 中性偏强 | 中等 |
+| 宏观变量 | 美国10年期收益率 | 4.9750% | +0.63% | +4.47% | +6.26% | +13.66% | 短线偏强 | 中等 |
 | 宏观变量 | 美元/人民币 | 6.6974 | -0.13% | -0.20% | -0.67% | +1.02% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
@@ -58,12 +58,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.50 | Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5% - Bloomberg.com | Bloomberg.com |
-| 美股 | -0.10 | Wall Street closes down sharply after Fed holds rates unchanged - Reuters | Reuters |
-| A股/中国 | 0.80 | China’s Property Crisis: From Evergrande Collapse to Spiraling Prices - Bloomberg.com | Bloomberg.com |
-| 虚拟货币 | 0.60 | Why Are Crypto Prices Surging Today? Bitcoin Reclaims $68K as Liquidity and ETF Inflows Boost Market - Altcoin Buzz | Altcoin Buzz |
-| 黄金/贵金属 | 0.10 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
-| 商品 | -0.10 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
+| 全球宏观 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| 美股 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| A股/中国 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| 虚拟货币 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| 黄金/贵金属 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
+| 商品 | - | HTTPError: HTTP Error 503: Service Unavailable | Google News RSS |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
