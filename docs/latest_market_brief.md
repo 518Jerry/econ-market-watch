@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-13 16:11:39 UTC
+- 更新时间：2026-09-13 19:26:11 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.12%
 - 美国10年期收益率 4.97%，5日变化 +0.21 个百分点
 - VIX 15.84
-- 美元/人民币5日 -0.20%
+- 美元/人民币5日 -0.05%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 3,322.04 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,529.10 | -3.60% | -5.26% | -8.16% | +30.43% | 短线偏弱 | 中等 |
 | A股/港股 | 恒生指数 | 24,805.63 | -0.60% | -3.30% | -2.33% | +14.05% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 77,154.42 | -0.15% | -1.64% | -0.77% | +27.12% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,500.47 | -1.01% | +0.62% | +1.49% | +31.28% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 100.77 | -1.00% | -2.47% | +5.58% | +50.37% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 77,233.55 | -0.05% | -1.54% | -0.67% | +27.12% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,507.01 | -0.75% | +0.89% | +1.75% | +31.18% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 100.98 | -0.79% | -2.27% | +5.80% | +50.31% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,408.90 | +1.02% | -1.84% | 0.00% | +24.03% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 398.77 | +0.61% | -2.79% | -1.52% | +27.88% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 65.19 | +1.41% | -2.67% | -0.56% | +39.28% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 100.05 | -2.37% | +9.58% | +20.15% | +38.31% | 中性偏强 | 中等 |
 | 宏观变量 | 美元指数 | 99.12 | +0.03% | +0.12% | -0.89% | +4.96% | 中性偏弱 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.9750% | +0.63% | +4.47% | +6.26% | +13.66% | 中性偏强 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.6974 | -0.13% | -0.20% | -0.67% | +1.02% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7075 | +0.02% | -0.05% | -0.52% | +0.97% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
@@ -59,11 +59,11 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.50 | Wall Street jumps, oil lower ahead of Fed vote next week - Reuters | Reuters |
-| 美股 | -0.30 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters | Reuters |
-| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 美股 | 0.10 | Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters | Reuters |
+| A股/中国 | 0.80 | China’s Property Crisis: From Evergrande Collapse to Spiraling Prices - Bloomberg.com | Bloomberg.com |
 | 虚拟货币 | 0.60 | Why Are Crypto Prices Surging Today? Bitcoin Reclaims $68K as Liquidity and ETF Inflows Boost Market - Altcoin Buzz | Altcoin Buzz |
 | 黄金/贵金属 | 0.10 | Why Gold ETFs Could Keep Shining Despite Higher Rates - TradingView | TradingView |
-| 商品 | -0.10 | Oil prices forecast: What’s next for oil in 2026 and beyond? - jpmorgan.com | jpmorgan.com |
+| 商品 | -0.10 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
