@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-19 17:58:16 UTC
+- 更新时间：2026-09-19 20:34:14 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,10 +33,10 @@
 | A股/港股 | 创业板指 | 3,372.68 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,507.39 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,750.78 | +0.60% | -0.22% | -3.69% | +12.42% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 81,456.25 | +0.69% | +4.21% | +4.10% | +34.73% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,646.41 | +1.34% | +5.25% | +7.68% | +40.68% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 111.40 | -1.07% | +8.69% | +5.44% | +56.64% | 短线偏强 | 中等 |
-| 黄金/贵金属 | 黄金期货 | 4,424.90 | +0.57% | +0.36% | -2.65% | +21.74% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 81,228.31 | +0.40% | +3.92% | +3.81% | +34.70% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,634.62 | +0.89% | +4.78% | +7.20% | +40.59% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 110.97 | -1.45% | +8.27% | +5.03% | +56.80% | 短线偏强 | 中等 |
+| 黄金/贵金属 | 黄金期货 | 4,424.90 | +0.57% | +0.36% | -2.65% | +21.74% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 401.17 | +0.71% | +0.60% | -3.06% | +24.42% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 66.56 | +1.66% | +3.10% | +1.25% | +34.96% | 中性偏强 | 中等 |
 | 商品 | WTI原油期货 | 100.30 | -1.58% | +0.25% | +16.86% | +43.49% | 中性偏强 | 中等 |
@@ -45,23 +45,23 @@
 | 宏观变量 | 美元/人民币 | 6.6883 | -0.28% | -0.29% | -0.51% | +1.21% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
-- 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
+- 当前判断：黄金期货 为 **震荡/中性**，置信度 中等。
 - 依据：价格在20日均线之下
 - 依据：20日均线高于50日均线
 - 依据：美元指数走强压制黄金
 - 观察位：60日支撑附近 3,992.10
 - 观察位：60日压力附近 4,697.80
 - 观察位：20日均线 4,492.09
-- 操作含义：黄金短线承压信号偏多，适合等待美元/美债收益率回落或价格重新站上20日均线后再评估。
+- 操作含义：黄金处在观察区间，适合看触发条件，不适合只因避险叙事一次性重仓。
 
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | 0.10 | World stocks rebound, Treasury yields retreat after Fed, BoE decisions - Reuters | Reuters |
 | 美股 | -0.30 | Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga | Benzinga |
-| A股/中国 | 0.60 | China’s Property Crisis: From Evergrande Collapse to Spiraling Prices - Bloomberg.com | Bloomberg.com |
+| A股/中国 | 0.60 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
 | 虚拟货币 | 0.20 | Why Institutions Keep Buying Bitcoin While Altcoins Keep Bleeding - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | -0.50 | Gold’s road back to $5,589 runs through 5 macro forces for OANDA:XAUUSD by currencynerd - TradingView | TradingView |
+| 黄金/贵金属 | -0.10 | Gold’s road back to $5,589 runs through 5 macro forces for OANDA:XAUUSD by currencynerd - TradingView | TradingView |
 | 商品 | -0.20 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
