@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-20 12:16:24 UTC
+- 更新时间：2026-09-20 16:46:15 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +1.11%
 - 美国10年期收益率 5.00%，5日变化 +0.02 个百分点
 - VIX 14.81
-- 美元/人民币5日 -0.16%
+- 美元/人民币5日 -0.29%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,36 +33,36 @@
 | A股/港股 | 创业板指 | 3,372.68 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,507.39 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,750.78 | +0.60% | -0.22% | -3.69% | +12.42% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 80,462.99 | -0.95% | +6.41% | +3.60% | +34.78% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,579.02 | -2.01% | +7.50% | +6.66% | +41.03% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 108.52 | -2.25% | +12.01% | +6.52% | +57.54% | 短线偏强 | 中等 |
-| 黄金/贵金属 | 黄金期货 | 4,424.90 | +0.57% | +0.36% | -2.65% | +21.74% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 81,359.83 | +0.16% | +7.60% | +4.75% | +34.54% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,640.54 | +0.33% | +10.06% | +9.21% | +40.15% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 110.33 | -0.62% | +13.87% | +8.30% | +56.86% | 短线偏强 | 中等 |
+| 黄金/贵金属 | 黄金期货 | 4,424.90 | +0.57% | +0.36% | -2.65% | +21.74% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 401.17 | +0.71% | +0.60% | -3.06% | +24.42% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 67.15 | +2.56% | +4.02% | +2.15% | +35.70% | 中性偏强 | 中等 |
 | 商品 | WTI原油期货 | 96.08 | -5.72% | -3.97% | +11.94% | +48.56% | 中性偏强 | 中等 |
 | 宏观变量 | 美元指数 | 100.22 | 0.00% | +1.11% | +1.41% | +4.65% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.9980% | +1.03% | +0.46% | +7.41% | +13.43% | 中性偏强 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.6974 | -0.15% | -0.16% | -0.37% | +0.87% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.6883 | -0.28% | -0.29% | -0.51% | +1.21% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
-- 当前判断：黄金期货 为 **震荡/中性**，置信度 中等。
+- 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
 - 依据：价格在20日均线之下
 - 依据：20日均线高于50日均线
 - 依据：美元指数走强压制黄金
 - 观察位：60日支撑附近 3,992.10
 - 观察位：60日压力附近 4,697.80
 - 观察位：20日均线 4,492.09
-- 操作含义：黄金处在观察区间，适合看触发条件，不适合只因避险叙事一次性重仓。
+- 操作含义：黄金短线承压信号偏多，适合等待美元/美债收益率回落或价格重新站上20日均线后再评估。
 
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | 0.10 | World stocks rebound, Treasury yields retreat after Fed, BoE decisions - Reuters | Reuters |
-| 美股 | -0.20 | Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga | Benzinga |
-| A股/中国 | 0.90 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.30 | Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network | Investing News Network |
-| 黄金/贵金属 | -0.10 | What a Fed rate hike could mean for gold and silver prices - cbsnews.com | cbsnews.com |
-| 商品 | -0.10 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
+| 全球宏观 | -0.20 | World stocks rebound, Treasury yields retreat after Fed, BoE decisions - Reuters | Reuters |
+| 美股 | -0.10 | Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters | Reuters |
+| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 虚拟货币 | 0.20 | Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network | Investing News Network |
+| 黄金/贵金属 | -0.50 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
+| 商品 | -0.20 | Oil prices forecast: What’s next for oil in 2026 and beyond? - jpmorgan.com | jpmorgan.com |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
