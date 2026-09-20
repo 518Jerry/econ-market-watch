@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-19 22:57:25 UTC
+- 更新时间：2026-09-20 01:02:46 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,372.68 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,507.39 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,750.78 | +0.60% | -0.22% | -3.69% | +12.42% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 81,207.30 | +0.38% | +3.89% | +3.78% | +34.70% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,629.78 | +0.71% | +4.59% | +7.00% | +40.56% | 短线偏强 | 中等 |
-| 虚拟货币 | Solana | 110.57 | -1.80% | +7.88% | +4.65% | +56.97% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 81,277.17 | +0.46% | +3.98% | +3.87% | +34.70% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,626.28 | +0.57% | +4.45% | +6.86% | +40.56% | 短线偏强 | 中等 |
+| 虚拟货币 | Solana | 110.90 | -1.51% | +8.20% | +4.97% | +56.83% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,424.90 | +0.57% | +0.36% | -2.65% | +21.74% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 401.17 | +0.71% | +0.60% | -3.06% | +24.42% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 66.56 | +1.66% | +3.10% | +1.25% | +34.96% | 中性偏强 | 中等 |
@@ -57,11 +57,11 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | 0.10 | World stocks rebound, Treasury yields retreat after Fed, BoE decisions - Reuters | Reuters |
+| 全球宏观 | 0.10 | World stocks rebound, Treasury yields retreat after Fed, BoE decisions - reuters.com | reuters.com |
 | 美股 | -0.30 | Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga | Benzinga |
-| A股/中国 | 0.80 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
-| 虚拟货币 | 0.30 | Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network | Investing News Network |
-| 黄金/贵金属 | -0.20 | Gold’s road back to $5,589 runs through 5 macro forces for OANDA:XAUUSD by currencynerd - TradingView | TradingView |
+| A股/中国 | 0.70 | Outlook for China stocks brightens on capital flows, rebounding home prices - South China Morning Post | South China Morning Post |
+| 虚拟货币 | 0.10 | Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network | Investing News Network |
+| 黄金/贵金属 | -0.10 | Gold’s road back to $5,589 runs through 5 macro forces for OANDA:XAUUSD by currencynerd - TradingView | TradingView |
 | 商品 | -0.20 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
