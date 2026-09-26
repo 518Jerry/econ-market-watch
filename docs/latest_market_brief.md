@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-26 07:35:31 UTC
+- 更新时间：2026-09-26 13:00:43 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,288.95 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,439.14 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,510.09 | -1.01% | -0.97% | -4.13% | +12.35% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 84,000.00 | -0.04% | -3.01% | +5.23% | +37.61% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 2,688.80 | -0.06% | -3.16% | +8.39% | +39.57% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 120.50 | -1.24% | +1.47% | +16.78% | +60.85% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 84,034.31 | -0.00% | -2.97% | +5.27% | +37.60% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 2,688.19 | -0.08% | -3.18% | +8.36% | +39.57% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 121.06 | -0.78% | +1.95% | +17.32% | +60.68% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,321.20 | +0.54% | -2.34% | -7.14% | +19.88% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 393.41 | +0.44% | -1.93% | -6.62% | +23.08% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.25 | +1.24% | -3.47% | -5.51% | +34.23% | 短线偏弱 | 中等 |
@@ -58,11 +58,11 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | The Weekly Spread: What Shaped US Yields And The Dollar This Week - TradingView | TradingView |
-| 美股 | 0.20 | US Stock Market Today S&P 500 Futures Flat As Traders Weigh Fed Outlook - simplywall.st | simplywall.st |
+| 全球宏观 | -0.70 | US stocks fall as 10-year Treasury yield hits highest since 2007 - Reuters | Reuters |
+| 美股 | -0.30 | US Stock Market Today S&P 500 Futures Flat As Traders Weigh Fed Outlook - simplywall.st | simplywall.st |
 | A股/中国 | 0.80 | China’s economy is losing momentum - weak domestic demand and the property crisis - marketpulse.com | marketpulse.com |
 | 虚拟货币 | 0.10 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | -0.30 | What a Fed rate hike could mean for gold and silver prices - cbsnews.com | cbsnews.com |
+| 黄金/贵金属 | -0.30 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
 | 商品 | -0.20 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
