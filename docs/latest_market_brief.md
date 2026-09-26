@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-26 13:00:43 UTC
+- 更新时间：2026-09-26 17:06:30 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.75%
 - 美国10年期收益率 5.18%，5日变化 +0.19 个百分点
 - VIX 14.87
-- 美元/人民币5日 +0.22%
+- 美元/人民币5日 +0.09%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 3,288.95 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,439.14 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,510.09 | -1.01% | -0.97% | -4.13% | +12.35% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 84,034.31 | -0.00% | -2.97% | +5.27% | +37.60% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 2,688.19 | -0.08% | -3.18% | +8.36% | +39.57% | 震荡/中性 | 中等 |
-| 虚拟货币 | Solana | 121.06 | -0.78% | +1.95% | +17.32% | +60.68% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 84,070.02 | +0.04% | -2.92% | +5.32% | +37.60% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,688.82 | -0.06% | -3.16% | +8.39% | +39.57% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 121.33 | -0.56% | +2.17% | +17.58% | +60.62% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,321.20 | +0.54% | -2.34% | -7.14% | +19.88% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 393.41 | +0.44% | -1.93% | -6.62% | +23.08% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.25 | +1.24% | -3.47% | -5.51% | +34.23% | 短线偏弱 | 中等 |
 | 商品 | WTI原油期货 | 92.41 | -2.33% | -7.87% | +12.38% | +47.32% | 震荡/中性 | 中等 |
 | 宏观变量 | 美元指数 | 100.97 | -0.32% | +0.75% | +1.82% | +5.00% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 5.1840% | +0.43% | +3.72% | +11.15% | +14.89% | 中性偏强 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7125 | +0.02% | +0.22% | -0.15% | +1.10% | 震荡/中性 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7037 | -0.11% | +0.09% | -0.28% | +1.15% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **短线偏弱**，置信度 中等。
@@ -58,11 +58,11 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.70 | US stocks fall as 10-year Treasury yield hits highest since 2007 - Reuters | Reuters |
-| 美股 | -0.30 | US Stock Market Today S&P 500 Futures Flat As Traders Weigh Fed Outlook - simplywall.st | simplywall.st |
+| 全球宏观 | -0.60 | US stocks fall as 10-year Treasury yield hits highest since 2007 - Reuters | Reuters |
+| 美股 | -0.10 | US Stock Market Today S&P 500 Futures Flat As Traders Weigh Fed Outlook - simplywall.st | simplywall.st |
 | A股/中国 | 0.80 | China’s economy is losing momentum - weak domestic demand and the property crisis - marketpulse.com | marketpulse.com |
-| 虚拟货币 | 0.10 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | -0.30 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
+| 虚拟货币 | 0.20 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | -0.10 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
 | 商品 | -0.20 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
 
 ## 下一步看什么
