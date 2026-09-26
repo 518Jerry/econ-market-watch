@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-25 22:15:26 UTC
+- 更新时间：2026-09-26 01:29:16 UTC
 - 风险状态：风险偏好较强
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.81%
 - 美国10年期收益率 5.18%，5日变化 +0.19 个百分点
 - VIX 14.87
-- 美元/人民币5日 +0.09%
+- 美元/人民币5日 +0.22%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -24,7 +24,7 @@
 ## 重点产品走势
 | 类别 | 产品 | 最新 | 1日 | 5日 | 1月 | 波动率 | 推演 | 置信度 |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| 美股 | 标普500 | 7,743.41 | +0.51% | +1.21% | +0.88% | +10.82% | 震荡/中性 | 中等 |
+| 美股 | 标普500 | 7,743.41 | +0.51% | +1.21% | +0.88% | +10.82% | 中性偏强 | 中等 |
 | 美股 | 纳斯达克综合指数 | 27,068.72 | +0.48% | +2.06% | +3.59% | +14.57% | 中性偏强 | 中等 |
 | 美股 | 道琼斯工业指数 | 51,828.62 | +0.93% | +0.28% | -3.06% | +11.65% | 短线偏弱 | 中等 |
 | 风险指标 | VIX波动率指数 | 14.87 | -5.11% | +0.41% | +2.48% | +102.62% | 中性偏弱 | 中等 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 3,288.95 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,439.14 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,761.13 | -0.29% | +0.64% | -3.48% | +12.01% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 83,930.83 | -0.53% | +3.44% | +5.35% | +37.65% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,685.57 | -0.06% | +1.61% | +9.34% | +39.71% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 121.75 | +4.05% | +9.55% | +19.42% | +60.85% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 83,943.80 | -0.52% | +3.45% | +5.36% | +37.64% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,688.70 | +0.05% | +1.73% | +9.47% | +39.69% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 121.63 | +3.95% | +9.45% | +19.30% | +60.78% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,320.50 | +0.52% | -2.36% | -7.15% | +19.87% | 短线偏弱 | 中等 |
-| 黄金/贵金属 | SPDR黄金ETF | 393.41 | +0.44% | -1.93% | -6.62% | +23.08% | 短线偏弱 | 中等 |
+| 黄金/贵金属 | SPDR黄金ETF | 391.69 | -0.30% | -1.67% | -8.50% | +23.02% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.71 | +1.97% | -2.77% | -4.82% | +34.78% | 短线偏弱 | 中等 |
 | 商品 | WTI原油期货 | 92.44 | -2.29% | -7.84% | +12.42% | +47.29% | 震荡/中性 | 中等 |
 | 宏观变量 | 美元指数 | 101.04 | -0.25% | +0.81% | +1.88% | +4.94% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 5.1840% | +0.43% | +3.72% | +11.15% | +14.89% | 中性偏强 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.7037 | -0.11% | +0.09% | -0.28% | +1.15% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7123 | +0.02% | +0.22% | -0.15% | +1.10% | 震荡/中性 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **短线偏弱**，置信度 中等。
@@ -59,12 +59,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | US stocks fall as 10-year Treasury yield hits highest since 2007 - Reuters | Reuters |
-| 美股 | -0.20 | U.S. Stocks Overnight / U.S. Inflation Remains Above the Federal Reserve’s 2% Target for the 65th Consecutive Month; Three Major Indices Close Lower; NVIDIA (NVDA.US) Shares Dip Then Rise Following Earnings Report - Moomoo | Moomoo |
-| A股/中国 | 0.90 | China’s economy is losing momentum - weak domestic demand and the property crisis - marketpulse.com | marketpulse.com |
-| 虚拟货币 | 0.20 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | 0.00 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
-| 商品 | -0.20 | Oil prices forecast: What’s next for oil in 2026 and beyond? - J.P. Morgan | J.P. Morgan |
+| 全球宏观 | -0.80 | Oil jump sends 30-year yields to two-decade high - Reuters | Reuters |
+| 美股 | 0.00 | U.S. Stocks Overnight / U.S. Inflation Remains Above the Federal Reserve’s 2% Target for the 65th Consecutive Month; Three Major Indices Close Lower; NVIDIA (NVDA.US) Shares Dip Then Rise Following Earnings Report - Moomoo | Moomoo |
+| A股/中国 | 0.80 | China’s economy is losing momentum - weak domestic demand and the property crisis - marketpulse.com | marketpulse.com |
+| 虚拟货币 | 0.10 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | -0.40 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
+| 商品 | -0.20 | Oil prices forecast: What’s next for oil in 2026 and beyond? - jpmorgan.com | jpmorgan.com |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
