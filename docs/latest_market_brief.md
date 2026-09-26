@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-26 17:06:30 UTC
+- 更新时间：2026-09-26 19:51:05 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,288.95 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,439.14 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,510.09 | -1.01% | -0.97% | -4.13% | +12.35% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 84,070.02 | +0.04% | -2.92% | +5.32% | +37.60% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,688.82 | -0.06% | -3.16% | +8.39% | +39.57% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 121.33 | -0.56% | +2.17% | +17.58% | +60.62% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 83,991.75 | -0.05% | -3.02% | +5.22% | +37.61% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,682.93 | -0.28% | -3.37% | +8.15% | +39.60% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 121.07 | -0.77% | +1.95% | +17.33% | +60.68% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,321.20 | +0.54% | -2.34% | -7.14% | +19.88% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 393.41 | +0.44% | -1.93% | -6.62% | +23.08% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.25 | +1.24% | -3.47% | -5.51% | +34.23% | 短线偏弱 | 中等 |
@@ -58,7 +58,7 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | US stocks fall as 10-year Treasury yield hits highest since 2007 - Reuters | Reuters |
+| 全球宏观 | -0.70 | The Weekly Spread: What Shaped US Yields And The Dollar This Week - TradingView | TradingView |
 | 美股 | -0.10 | US Stock Market Today S&P 500 Futures Flat As Traders Weigh Fed Outlook - simplywall.st | simplywall.st |
 | A股/中国 | 0.80 | China’s economy is losing momentum - weak domestic demand and the property crisis - marketpulse.com | marketpulse.com |
 | 虚拟货币 | 0.20 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
