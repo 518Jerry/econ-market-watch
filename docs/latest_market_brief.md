@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-27 18:18:50 UTC
+- 更新时间：2026-09-27 22:04:01 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -15,7 +15,7 @@
 | --- | --- | --- | --- | --- |
 | 美股 | 震荡/中性 | 纳斯达克综合指数、标普500 | 标普500、道琼斯工业指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 中性偏弱 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
-| A股/港股 | 中性偏弱 | 上证指数、深证成指 | 创业板指、沪深300 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
+| A股/港股 | 震荡/中性 | 上证指数、深证成指 | 创业板指、沪深300 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
 | 虚拟货币 | 中性偏强 | Solana、比特币 | 比特币、以太坊 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 短线偏弱 | SPDR黄金ETF、黄金期货 | 黄金期货、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 震荡/中性 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,288.95 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,439.14 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,510.09 | -1.01% | -0.97% | -4.13% | +12.35% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 84,623.36 | +0.26% | -1.80% | +5.32% | +36.98% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,693.98 | -0.05% | -2.13% | +7.14% | +39.27% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 122.73 | +1.07% | +3.56% | +15.30% | +59.44% | 中性偏强 | 偏低 |
+| 虚拟货币 | 比特币 | 84,439.62 | +0.04% | -2.01% | +5.09% | +37.00% | 中性偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,675.86 | -0.72% | -2.79% | +6.42% | +39.45% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 121.87 | +0.37% | +2.84% | +14.49% | +59.47% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,321.20 | +0.54% | -2.34% | -7.14% | +19.88% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 393.41 | +0.44% | -1.93% | -6.62% | +23.08% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 64.80 | +2.12% | -2.64% | -4.69% | +34.91% | 短线偏弱 | 中等 |
@@ -60,8 +60,8 @@
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.30 | US stocks fall as 10-year Treasury yield hits highest since 2007 - Reuters | Reuters |
 | 美股 | 0.00 | Stock Market Today: Dow, S&P 500, Nasdaq Futures Rise Amid Optimism Following Iran’s Offer To Reopen Stra - Benzinga | Benzinga |
-| A股/中国 | - | - | Google News RSS |
-| 虚拟货币 | 0.20 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
+| A股/中国 | 0.80 | China’s economy is losing momentum - weak domestic demand and the property crisis - marketpulse.com | marketpulse.com |
+| 虚拟货币 | 0.20 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - bitcoinfoundation.org | bitcoinfoundation.org |
 | 黄金/贵金属 | -0.40 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
 | 商品 | -0.20 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
 
