@@ -1,11 +1,11 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-09-29 20:42:38 UTC
+- 更新时间：2026-09-30 00:22:17 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
 ## 关键宏观读数
-- 美元指数5日 +0.82%
+- 美元指数5日 +0.81%
 - 美国10年期收益率 5.26%，5日变化 +0.29 个百分点
 - VIX 16.04
 - 美元/人民币5日 +0.04%
@@ -16,7 +16,7 @@
 | 美股 | 中性偏弱 | 道琼斯工业指数、标普500 | 标普500、纳斯达克综合指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 中性偏强 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 中性偏弱 | 恒生指数、上证指数 | 创业板指、沪深300 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
-| 虚拟货币 | 中性偏强 | Solana、以太坊 | 以太坊、比特币 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
+| 虚拟货币 | 震荡/中性 | Solana、以太坊 | 以太坊、比特币 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 短线偏弱 | 黄金期货、SPDR黄金ETF | SPDR黄金ETF、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 震荡/中性 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美国10年期收益率、美元指数 | 美元指数、美元/人民币 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
@@ -33,38 +33,38 @@
 | A股/港股 | 创业板指 | 3,142.56 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,345.21 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,642.51 | +0.54% | -1.60% | -3.68% | +12.62% | 短线偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 83,611.48 | +0.13% | -0.91% | +6.59% | +37.08% | 中性偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,691.67 | +0.11% | +0.16% | +8.32% | +39.06% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 119.03 | +0.16% | +1.73% | +15.20% | +59.95% | 中性偏强 | 偏低 |
-| 黄金/贵金属 | 黄金期货 | 4,209.10 | -2.59% | -3.99% | -9.75% | +19.43% | 短线偏弱 | 中等 |
-| 黄金/贵金属 | SPDR黄金ETF | 382.89 | +1.32% | -4.29% | -6.36% | +25.06% | 短线偏弱 | 中等 |
-| 黄金/贵金属 | 白银期货 | 61.79 | +0.93% | -6.28% | -7.77% | +36.12% | 短线偏弱 | 中等 |
-| 商品 | WTI原油期货 | 88.96 | -3.93% | -5.95% | +6.67% | +49.03% | 震荡/中性 | 中等 |
-| 宏观变量 | 美元指数 | 101.43 | +0.22% | +0.82% | +1.73% | +4.59% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 83,403.43 | -0.12% | -1.16% | +6.33% | +37.11% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 2,667.67 | -0.78% | -0.73% | +7.35% | +39.30% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 118.48 | -0.30% | +1.26% | +14.67% | +60.04% | 中性偏强 | 偏低 |
+| 黄金/贵金属 | 黄金期货 | 4,217.30 | +1.17% | -3.64% | -6.90% | +21.64% | 短线偏弱 | 中等 |
+| 黄金/贵金属 | SPDR黄金ETF | 377.91 | -3.94% | -5.14% | -10.58% | +24.33% | 短线偏弱 | 中等 |
+| 黄金/贵金属 | 白银期货 | 61.83 | +1.00% | -6.21% | -7.70% | +36.16% | 短线偏弱 | 中等 |
+| 商品 | WTI原油期货 | 89.39 | -3.47% | -5.50% | +7.18% | +48.53% | 震荡/中性 | 中等 |
+| 宏观变量 | 美元指数 | 101.41 | +0.21% | +0.81% | +1.72% | +4.58% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 5.2550% | +0.29% | +5.78% | +11.33% | +14.90% | 短线偏强 | 中等 |
 | 宏观变量 | 美元/人民币 | 6.7025 | -0.12% | +0.04% | -0.35% | +1.14% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **短线偏弱**，置信度 中等。
-- 依据：5日跌幅 -3.99%
-- 依据：约1个月跌幅 -9.75%
+- 依据：5日跌幅 -3.64%
+- 依据：约1个月跌幅 -6.90%
 - 依据：价格在20日均线之下
 - 依据：美元指数走强压制黄金
 - 依据：美债收益率上行压制无息资产
 - 观察位：60日支撑附近 3,992.10
 - 观察位：60日压力附近 4,697.80
-- 观察位：20日均线 4,391.43
+- 观察位：20日均线 4,376.19
 - 操作含义：黄金短线承压信号偏多，适合等待美元/美债收益率回落或价格重新站上20日均线后再评估。
 
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.10 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
-| 美股 | -0.30 | Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Fall as Rising Yields and Trump's Rejection of Hormu - Benzinga | Benzinga |
-| A股/中国 | 0.70 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
-| 虚拟货币 | 0.10 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Britannica | Britannica |
+| 全球宏观 | -0.10 | Battered bond market braces for a new era of interest rates - reuters.com | reuters.com |
+| 美股 | -0.20 | U.S. Stocks Overnight / U.S. Inflation Remains Above the Federal Reserve’s 2% Target for the 65th Consecutive Month; Three Major Indices Close Lower; NVIDIA (NVDA.US) Shares Dip Then Rise Following Earnings Report - Moomoo | Moomoo |
+| A股/中国 | 0.80 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
+| 虚拟货币 | 0.00 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Britannica | Britannica |
 | 黄金/贵金属 | -0.20 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
-| 商品 | -0.30 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
+| 商品 | -0.30 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - reuters.com | reuters.com |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
