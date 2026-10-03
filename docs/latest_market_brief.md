@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-03 08:00:58 UTC
+- 更新时间：2026-10-03 13:19:27 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,135.28 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,357.62 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,972.29 | -2.60% | -3.19% | -5.29% | +15.27% | 短线偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 84,586.75 | +0.11% | +1.30% | +9.47% | +36.07% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,681.38 | +0.50% | -0.27% | +6.15% | +37.02% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 119.33 | +0.60% | +0.42% | +17.24% | +56.28% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 84,800.00 | +0.36% | +1.55% | +9.74% | +36.04% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,678.54 | +0.39% | -0.38% | +6.04% | +37.01% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 119.38 | +0.64% | +0.46% | +17.29% | +56.27% | 中性偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,162.30 | -0.95% | -3.68% | -5.72% | +16.82% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 380.14 | -0.68% | -3.37% | -5.62% | +21.12% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 59.98 | -1.23% | -6.64% | -7.33% | +32.63% | 短线偏弱 | 中等 |
@@ -60,10 +60,10 @@
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.20 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
 | 美股 | -0.20 | US Stock Futures Advance as Markets Weigh Micron Results and Lower Treasury Yields: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK | Yahoo Finance UK |
-| A股/中国 | 0.70 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
-| 虚拟货币 | 0.10 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Britannica | Britannica |
+| A股/中国 | 0.80 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
+| 虚拟货币 | 0.10 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.10 | Gold Combat 1: A Valuation Map for XAU - Bitget | Bitget |
-| 商品 | -0.50 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
+| 商品 | -0.40 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
