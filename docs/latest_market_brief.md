@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-04 06:48:08 UTC
+- 更新时间：2026-10-04 13:09:39 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -16,7 +16,7 @@
 | 美股 | 震荡/中性 | 纳斯达克综合指数、标普500 | 标普500、道琼斯工业指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 中性偏强 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 中性偏弱 | 上证指数、恒生指数 | 创业板指、沪深300 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
-| 虚拟货币 | 中性偏强 | 比特币、Solana | Solana、以太坊 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
+| 虚拟货币 | 中性偏强 | Solana、比特币 | 比特币、以太坊 | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 短线偏弱 | SPDR黄金ETF、黄金期货 | 黄金期货、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 中性偏弱 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美国10年期收益率、美元指数 | 美元指数、美元/人民币 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,135.28 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,357.62 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,972.29 | -2.60% | -3.19% | -5.29% | +15.27% | 短线偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 84,982.41 | +0.57% | +1.77% | +9.98% | +36.04% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,693.29 | +0.94% | +0.17% | +6.63% | +37.06% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 120.90 | +1.93% | +1.74% | +18.78% | +56.36% | 短线偏强 | 中等 |
+| 虚拟货币 | 比特币 | 85,139.29 | +0.44% | +1.81% | +10.80% | +35.76% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,695.99 | +0.33% | +0.72% | +8.84% | +36.81% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 121.34 | +1.42% | +1.92% | +22.26% | +55.65% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,162.30 | -0.95% | -3.68% | -5.72% | +16.82% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 380.14 | -0.68% | -3.37% | -5.62% | +21.12% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 60.42 | -0.51% | -5.96% | -6.66% | +32.53% | 短线偏弱 | 中等 |
@@ -59,11 +59,11 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.10 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
-| 美股 | -0.10 | Stock Market Today: S&P 500, Dow Jones Futures Gain as September Jobs Report Misses Expectations— Nike, S - Benzinga | Benzinga |
+| 美股 | -0.20 | Stock Market Today: S&P 500, Dow Jones Futures Gain as September Jobs Report Misses Expectations— Nike, S - Benzinga | Benzinga |
 | A股/中国 | 0.80 | Why China Can’t Sort Out Its Property Market Mess - Bloomberg.com | Bloomberg.com |
-| 虚拟货币 | 0.10 | A Transformative Leap in Bitcoin: The IEX Options Trading Initiative - OneSafe | OneSafe |
-| 黄金/贵金属 | -0.10 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
-| 商品 | -0.50 | Oil’s supply wave, tumbling prices rekindle fears of global glut - The Business Times | The Business Times |
+| 虚拟货币 | - | - | Google News RSS |
+| 黄金/贵金属 | -0.40 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
+| 商品 | -0.70 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
