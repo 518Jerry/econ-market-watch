@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-04 00:33:27 UTC
+- 更新时间：2026-10-04 06:48:08 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.95%
 - 美国10年期收益率 5.28%，5日变化 +0.09 个百分点
 - VIX 15.31
-- 美元/人民币5日 -0.21%
+- 美元/人民币5日 -0.12%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 3,135.28 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,357.62 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,972.29 | -2.60% | -3.19% | -5.29% | +15.27% | 短线偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 84,796.03 | +0.35% | +1.55% | +9.74% | +36.04% | 短线偏强 | 中等 |
-| 虚拟货币 | 以太坊 | 2,690.38 | +0.83% | +0.06% | +6.51% | +37.04% | 中性偏强 | 中等 |
-| 虚拟货币 | Solana | 119.96 | +1.13% | +0.95% | +17.86% | +56.26% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 84,982.41 | +0.57% | +1.77% | +9.98% | +36.04% | 短线偏强 | 中等 |
+| 虚拟货币 | 以太坊 | 2,693.29 | +0.94% | +0.17% | +6.63% | +37.06% | 中性偏强 | 中等 |
+| 虚拟货币 | Solana | 120.90 | +1.93% | +1.74% | +18.78% | +56.36% | 短线偏强 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,162.30 | -0.95% | -3.68% | -5.72% | +16.82% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 380.14 | -0.68% | -3.37% | -5.62% | +21.12% | 短线偏弱 | 中等 |
-| 黄金/贵金属 | 白银期货 | 59.98 | -1.23% | -6.64% | -7.33% | +32.63% | 短线偏弱 | 中等 |
+| 黄金/贵金属 | 白银期货 | 60.42 | -0.51% | -5.96% | -6.66% | +32.53% | 短线偏弱 | 中等 |
 | 商品 | WTI原油期货 | 91.11 | -1.90% | -1.41% | +0.11% | +46.53% | 中性偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 101.93 | -0.17% | +0.95% | +2.38% | +4.30% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 5.2770% | +0.76% | +1.79% | +10.03% | +15.23% | 短线偏强 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.6987 | -0.09% | -0.21% | -0.30% | +1.09% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.7048 | +0.00% | -0.12% | -0.21% | +1.06% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **短线偏弱**，置信度 中等。
@@ -59,11 +59,11 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.10 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
-| 美股 | -0.30 | US Stock Futures Advance as Markets Weigh Micron Results and Lower Treasury Yields: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK | Yahoo Finance UK |
-| A股/中国 | 0.80 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
-| 虚拟货币 | 0.10 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
+| 美股 | -0.10 | Stock Market Today: S&P 500, Dow Jones Futures Gain as September Jobs Report Misses Expectations— Nike, S - Benzinga | Benzinga |
+| A股/中国 | 0.80 | Why China Can’t Sort Out Its Property Market Mess - Bloomberg.com | Bloomberg.com |
+| 虚拟货币 | 0.10 | A Transformative Leap in Bitcoin: The IEX Options Trading Initiative - OneSafe | OneSafe |
 | 黄金/贵金属 | -0.10 | What a Fed rate hike could mean for gold and silver prices - CBS News | CBS News |
-| 商品 | -0.70 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
+| 商品 | -0.50 | Oil’s supply wave, tumbling prices rekindle fears of global glut - The Business Times | The Business Times |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
