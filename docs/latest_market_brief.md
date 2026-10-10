@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-10 20:01:50 UTC
+- 更新时间：2026-10-10 23:30:01 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,043.33 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,317.25 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,211.35 | +1.79% | +1.00% | -4.21% | +16.05% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 83,007.86 | +0.56% | -3.24% | +2.18% | +30.67% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 2,511.08 | +1.03% | -7.38% | -4.59% | +31.64% | 中性偏弱 | 中等 |
-| 虚拟货币 | Solana | 110.31 | +1.07% | -8.65% | -0.63% | +42.93% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 82,951.96 | +0.49% | -3.30% | +2.12% | +30.66% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 2,504.95 | +0.78% | -7.60% | -4.83% | +31.52% | 中性偏弱 | 中等 |
+| 虚拟货币 | Solana | 110.04 | +0.83% | -8.87% | -0.88% | +42.85% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,216.30 | +1.43% | +1.30% | -4.33% | +17.73% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 384.58 | +1.57% | +1.17% | -2.97% | +21.31% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 60.67 | +2.72% | +1.16% | -5.62% | +28.88% | 中性偏弱 | 中等 |
@@ -58,11 +58,11 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | 0.00 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
-| 美股 | 0.00 | S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters | Reuters |
+| 美股 | 0.20 | S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters | Reuters |
 | A股/中国 | 0.80 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
 | 虚拟货币 | 0.20 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Britannica | Britannica |
 | 黄金/贵金属 | -0.40 | What Affects the Price of Gold? 8 Key Drivers Explained - Markets.com | Markets.com |
-| 商品 | -0.20 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
+| 商品 | -0.50 | What Moves Commodity Prices? Key Drivers Explained - Sahi | Sahi |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
