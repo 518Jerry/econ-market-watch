@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-11 05:38:45 UTC
+- 更新时间：2026-10-11 12:41:23 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 3,043.33 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,317.25 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,211.35 | +1.79% | +1.00% | -4.21% | +16.05% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 82,980.80 | +0.53% | -3.27% | +2.15% | +30.67% | 震荡/中性 | 中等 |
-| 虚拟货币 | 以太坊 | 2,505.19 | +0.79% | -7.59% | -4.82% | +31.53% | 中性偏弱 | 中等 |
-| 虚拟货币 | Solana | 109.46 | +0.29% | -9.35% | -1.40% | +42.76% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 83,050.39 | +0.17% | -2.93% | +2.35% | +18.24% | 震荡/中性 | 中等 |
+| 虚拟货币 | 以太坊 | 2,503.13 | -0.04% | -7.21% | -5.29% | +24.57% | 中性偏弱 | 中等 |
+| 虚拟货币 | Solana | 109.45 | -0.53% | -9.39% | -1.51% | +34.32% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,216.30 | +1.43% | +1.30% | -4.33% | +17.73% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 384.58 | +1.57% | +1.17% | -2.97% | +21.31% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 61.05 | +3.36% | +1.79% | -5.03% | +29.84% | 中性偏弱 | 中等 |
@@ -59,8 +59,8 @@
 | --- | ---: | --- | --- |
 | 全球宏观 | 0.00 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
 | 美股 | 0.20 | S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters | Reuters |
-| A股/中国 | 0.80 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
-| 虚拟货币 | 0.10 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Britannica | Britannica |
+| A股/中国 | 0.90 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
+| 虚拟货币 | 0.10 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.40 | What Affects the Price of Gold? 8 Key Drivers Explained - Markets.com | Markets.com |
 | 商品 | -0.20 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
 
