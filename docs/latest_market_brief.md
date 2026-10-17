@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-17 04:17:10 UTC
+- 更新时间：2026-10-17 09:16:20 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -16,7 +16,7 @@
 | 美股 | 震荡/中性 | 道琼斯工业指数、标普500 | 标普500、纳斯达克综合指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 短线偏强 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 中性偏弱 | 恒生指数、上证指数 | 创业板指、沪深300 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
-| 虚拟货币 | 中性偏弱 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
+| 虚拟货币 | 震荡/中性 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 中性偏弱 | SPDR黄金ETF、黄金期货 | 黄金期货、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 中性偏强 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 震荡/中性 | 美元/人民币、美元指数 | 美元指数、美国10年期收益率 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,772.38 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,170.61 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,186.83 | +0.52% | -0.10% | -2.13% | +16.05% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 81,427.32 | -0.87% | -2.69% | -3.10% | +21.17% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,423.58 | -0.69% | -4.38% | -9.92% | +30.13% | 中性偏弱 | 中等 |
-| 虚拟货币 | Solana | 104.64 | -0.66% | -5.93% | -14.24% | +34.00% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 81,605.18 | +0.13% | -0.19% | -3.32% | +21.14% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,431.92 | +0.50% | -0.51% | -9.77% | +30.36% | 震荡/中性 | 中等 |
+| 虚拟货币 | Solana | 104.91 | +0.59% | -0.62% | -13.60% | +34.05% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,181.10 | +0.26% | -0.83% | -4.97% | +18.15% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 382.01 | -0.18% | -0.67% | -4.10% | +21.09% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 56.99 | +0.28% | -6.06% | -12.94% | +34.12% | 短线偏弱 | 中等 |
@@ -59,10 +59,10 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.50 | Dollar recedes from 18-month high as bond rally tempers impact of hot inflation data - Reuters | Reuters |
-| 美股 | -0.10 | S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters | Reuters |
+| 美股 | -0.20 | S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters | Reuters |
 | A股/中国 | 0.70 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
 | 虚拟货币 | 0.30 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Britannica | Britannica |
-| 黄金/贵金属 | -0.40 | Gold Price Outlook 2026: Can Gold Reclaim Its Record Highs? - TradingView | TradingView |
+| 黄金/贵金属 | -0.60 | Gold Price Outlook 2026: Can Gold Reclaim Its Record Highs? - TradingView | TradingView |
 | 商品 | 0.00 | OPEC cuts oil demand forecast sharply as supply risks keep prices elevated - investingLive | investingLive |
 
 ## 下一步看什么
