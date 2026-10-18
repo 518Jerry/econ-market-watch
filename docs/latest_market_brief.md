@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-18 18:03:04 UTC
+- 更新时间：2026-10-18 20:35:40 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,772.38 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,170.61 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,186.83 | +0.52% | -0.10% | -2.13% | +16.05% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 81,139.96 | -0.30% | -2.35% | -3.93% | +20.82% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,368.69 | -1.30% | -5.12% | -11.84% | +30.18% | 中性偏弱 | 中等 |
-| 虚拟货币 | Solana | 102.21 | -1.07% | -4.23% | -16.26% | +33.02% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 80,775.77 | -0.75% | -2.79% | -4.36% | +20.93% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,344.82 | -2.29% | -6.08% | -12.73% | +30.68% | 中性偏弱 | 中等 |
+| 虚拟货币 | Solana | 100.86 | -2.37% | -5.50% | -17.37% | +33.52% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,181.10 | +0.26% | -0.83% | -4.97% | +18.15% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 382.01 | -0.18% | -0.67% | -4.10% | +21.09% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 57.31 | +0.82% | -5.55% | -12.47% | +34.40% | 短线偏弱 | 中等 |
@@ -58,12 +58,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.50 | Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields - WSJ | WSJ |
+| 全球宏观 | -0.30 | Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields - WSJ | WSJ |
 | 美股 | -0.20 | S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters | Reuters |
 | A股/中国 | 0.80 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
-| 虚拟货币 | 0.10 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
+| 虚拟货币 | 0.20 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.40 | Gold Price Outlook 2026: Can Gold Reclaim Its Record Highs? - TradingView | TradingView |
-| 商品 | 0.30 | OPEC cuts oil demand forecast sharply as supply risks keep prices elevated - investingLive | investingLive |
+| 商品 | 0.10 | OPEC Cuts Oil Demand Growth Forecast 71% Despite $100 Brent - CryptoRank | CryptoRank |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
