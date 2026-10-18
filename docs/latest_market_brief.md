@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-17 22:14:11 UTC
+- 更新时间：2026-10-18 00:57:37 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,772.38 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,170.61 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,186.83 | +0.52% | -0.10% | -2.13% | +16.05% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 81,229.18 | -0.33% | -0.65% | -3.76% | +21.12% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,387.16 | -1.35% | -2.34% | -11.43% | +30.28% | 中性偏弱 | 中等 |
-| 虚拟货币 | Solana | 102.72 | -1.51% | -2.69% | -15.41% | +33.78% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 81,438.12 | -0.08% | -0.40% | -3.52% | +21.12% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,403.03 | -0.69% | -1.69% | -10.84% | +30.14% | 中性偏弱 | 中等 |
+| 虚拟货币 | Solana | 103.33 | -0.93% | -2.11% | -14.90% | +33.69% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,181.10 | +0.26% | -0.83% | -4.97% | +18.15% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 382.01 | -0.18% | -0.67% | -4.10% | +21.09% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 56.99 | +0.28% | -6.06% | -12.94% | +34.12% | 短线偏弱 | 中等 |
@@ -58,10 +58,10 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.40 | US inflation heats up in September; Fed rate hike this month back on table - Reuters | Reuters |
+| 全球宏观 | -0.50 | Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields - WSJ | WSJ |
 | 美股 | -0.20 | S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters | Reuters |
 | A股/中国 | 0.70 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
-| 虚拟货币 | 0.20 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Britannica | Britannica |
+| 虚拟货币 | 0.10 | BlackRock Is Buying the Dip: What Its $1 Billion Bitcoin Bet Says About the Crypto Market - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.40 | Gold Price Outlook 2026: Can Gold Reclaim Its Record Highs? - TradingView | TradingView |
 | 商品 | 0.00 | OPEC cuts oil demand forecast sharply as supply risks keep prices elevated - investingLive | investingLive |
 
