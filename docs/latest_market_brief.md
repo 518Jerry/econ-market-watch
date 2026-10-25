@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-25 06:03:07 UTC
+- 更新时间：2026-10-25 11:17:42 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,684.10 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,105.33 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,093.37 | +0.69% | -4.03% | -7.95% | +18.73% | 短线偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 80,414.75 | -0.81% | -1.76% | -5.13% | +22.69% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,344.66 | -1.65% | -2.50% | -12.75% | +31.95% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 101.63 | -1.12% | -3.14% | -15.06% | +33.94% | 短线偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 80,292.19 | -0.62% | -3.19% | -7.16% | +22.58% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,329.35 | -1.13% | -4.80% | -14.57% | +31.84% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 100.76 | -1.48% | -5.32% | -17.09% | +34.02% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,007.90 | -1.29% | -4.14% | -6.75% | +19.02% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 366.61 | -0.65% | -4.03% | -6.40% | +21.91% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 53.95 | -1.49% | -5.34% | -14.98% | +36.41% | 中性偏弱 | 中等 |
@@ -59,11 +59,11 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | 0.30 | Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields - WSJ | WSJ |
-| 美股 | -0.20 | Wall Street closes lower to end rocky week - Reuters | Reuters |
-| A股/中国 | 0.70 | China stocks edge higher as property shares slide after new stimulus - Prop News Time | Prop News Time |
+| 美股 | -0.30 | Wall Street closes lower to end rocky week - Reuters | Reuters |
+| A股/中国 | 0.80 | China stocks edge higher as property shares slide after new stimulus - Prop News Time | Prop News Time |
 | 虚拟货币 | 0.20 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | 0.00 | 9 News Headlines That Move Gold Prices: A Trader’s Guide - The Baltic Times | The Baltic Times |
-| 商品 | -0.20 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
+| 商品 | 0.00 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
