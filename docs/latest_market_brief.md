@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-25 16:06:48 UTC
+- 更新时间：2026-10-25 19:02:26 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -16,7 +16,7 @@
 | 美股 | 震荡/中性 | 道琼斯工业指数、标普500 | 标普500、纳斯达克综合指数 | 美股短线由盈利、利率和风险偏好共同驱动，VIX和10年期收益率是关键风向标。 |
 | 风险指标 | 中性偏强 | VIX波动率指数 | VIX波动率指数 | 保持跨资产对照，避免只看单一产品价格。 |
 | A股/港股 | 中性偏弱 | 上证指数、深证成指 | 创业板指、沪深300 | 中国资产需要确认政策预期、人民币汇率和成交量，单日反弹不等于趋势反转。 |
-| 虚拟货币 | 短线偏弱 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
+| 虚拟货币 | 中性偏弱 | 比特币、以太坊 | 以太坊、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 中性偏弱 | SPDR黄金ETF、黄金期货 | 黄金期货、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 短线偏强 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
 | 宏观变量 | 中性偏弱 | 美元指数、美元/人民币 | 美元/人民币、美国10年期收益率 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,684.10 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,105.33 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,093.37 | +0.69% | -4.03% | -7.95% | +18.73% | 短线偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 80,479.01 | -0.39% | -2.97% | -6.94% | +22.55% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,339.44 | -0.70% | -4.39% | -14.20% | +31.80% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 101.37 | -0.88% | -4.75% | -16.59% | +33.95% | 短线偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 80,549.09 | -0.30% | -2.88% | -6.86% | +22.55% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,350.95 | -0.21% | -3.91% | -13.77% | +31.85% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 101.65 | -0.61% | -4.48% | -16.36% | +33.96% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,007.90 | -1.29% | -4.14% | -6.75% | +19.02% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 366.61 | -0.65% | -4.03% | -6.40% | +21.91% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 53.95 | -1.49% | -5.34% | -14.98% | +36.41% | 中性偏弱 | 中等 |
@@ -58,10 +58,10 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.20 | The Fed Faces Its Most Confusing Economy Yet - Bloomberg.com | Bloomberg.com |
-| 美股 | -0.20 | Wall Street closes lower to end rocky week - Reuters | Reuters |
-| A股/中国 | 0.60 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
-| 虚拟货币 | -0.30 | What’s Next for Bitcoin? WisdomTree’s Take on Risks, Regulation, and Investing - Morningstar | Morningstar |
+| 全球宏观 | -0.40 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
+| 美股 | -0.10 | Stocks Pulled in Two Directions, Fall to End Volatile Week - WSJ | WSJ |
+| A股/中国 | 0.70 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
+| 虚拟货币 | 0.20 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
 | 黄金/贵金属 | -0.20 | 9 News Headlines That Move Gold Prices: A Trader’s Guide - The Baltic Times | The Baltic Times |
 | 商品 | 0.00 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
 
