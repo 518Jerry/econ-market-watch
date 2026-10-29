@@ -1,14 +1,14 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-28 20:59:42 UTC
+- 更新时间：2026-10-29 00:51:09 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
 ## 关键宏观读数
-- 美元指数5日 +0.34%
+- 美元指数5日 +0.47%
 - 美国10年期收益率 5.05%，5日变化 -0.10 个百分点
 - VIX 16.91
-- 美元/人民币5日 -0.19%
+- 美元/人民币5日 -0.34%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,37 +33,37 @@
 | A股/港股 | 创业板指 | 2,634.76 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,083.87 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,041.32 | -0.73% | -3.46% | -6.95% | +18.88% | 短线偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 81,254.53 | +0.56% | +0.22% | -2.43% | +20.42% | 中性偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,358.45 | +0.46% | -1.07% | -8.36% | +26.07% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 102.46 | +1.19% | -0.31% | -11.84% | +26.55% | 中性偏弱 | 中等 |
-| 黄金/贵金属 | 黄金期货 | 4,083.60 | +0.22% | -1.60% | -2.30% | +15.68% | 中性偏弱 | 中等 |
-| 黄金/贵金属 | SPDR黄金ETF | 373.51 | +0.33% | -1.44% | -2.45% | +17.29% | 中性偏弱 | 中等 |
-| 黄金/贵金属 | 白银期货 | 54.05 | -0.45% | -5.87% | -10.91% | +34.08% | 中性偏弱 | 中等 |
-| 商品 | WTI原油期货 | 101.98 | +2.08% | +4.97% | +14.10% | +37.75% | 短线偏强 | 中等 |
-| 宏观变量 | 美元指数 | 102.12 | -0.19% | +0.34% | +0.74% | +4.91% | 中性偏强 | 中等 |
+| 虚拟货币 | 比特币 | 81,074.40 | +0.33% | +0.00% | -2.64% | +20.35% | 中性偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,354.52 | +0.29% | -1.24% | -8.51% | +26.02% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 101.90 | +0.64% | -0.86% | -12.32% | +26.20% | 中性偏弱 | 中等 |
+| 黄金/贵金属 | 黄金期货 | 4,052.00 | -0.55% | -2.36% | -3.06% | +15.70% | 中性偏弱 | 中等 |
+| 黄金/贵金属 | SPDR黄金ETF | 372.28 | +1.21% | -1.42% | -1.49% | +17.28% | 中性偏弱 | 中等 |
+| 黄金/贵金属 | 白银期货 | 53.66 | -1.17% | -6.55% | -11.55% | +34.16% | 中性偏弱 | 中等 |
+| 商品 | WTI原油期货 | 102.12 | +2.22% | +5.12% | +14.25% | +37.83% | 短线偏强 | 中等 |
+| 宏观变量 | 美元指数 | 102.26 | -0.06% | +0.47% | +0.88% | +4.85% | 中性偏强 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 5.0450% | +1.04% | -1.96% | -4.00% | +17.64% | 中性偏弱 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.6655 | -0.07% | -0.19% | -0.67% | +0.93% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.6549 | -0.20% | -0.34% | -0.72% | +1.08% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
-- 依据：5日跌幅 -1.60%
+- 依据：5日跌幅 -2.36%
+- 依据：约1个月跌幅 -3.06%
 - 依据：价格在20日均线之下
-- 依据：20日均线低于50日均线
 - 依据：美债收益率回落支撑黄金
 - 观察位：60日支撑附近 4,007.90
 - 观察位：60日压力附近 4,697.80
-- 观察位：20日均线 4,138.35
+- 观察位：20日均线 4,136.77
 - 操作含义：黄金短线承压信号偏多，适合等待美元/美债收益率回落或价格重新站上20日均线后再评估。
 
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.30 | U.S. Stocks Up, Treasury Yields Mixed After Fed Hold - WSJ | WSJ |
+| 全球宏观 | -0.30 | One Hike, Three Roads: Goldman Revisits 1997, 1999 and 2015 to Map Wall Street's Next Move - The Dark Side Of The Boom | The Dark Side Of The Boom |
 | 美股 | 0.30 | Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters | Reuters |
-| A股/中国 | 0.70 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
-| 虚拟货币 | 0.20 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
-| 黄金/贵金属 | 0.10 | Gold Price Outlook 2026: Can Gold Reclaim Its Record Highs? - TradingView | TradingView |
-| 商品 | 0.00 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
+| A股/中国 | 0.40 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
+| 虚拟货币 | 0.20 | Swiss FINMA Approves First Domestic Retail Bitcoin ETF - TradingView | TradingView |
+| 黄金/贵金属 | -0.10 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
+| 商品 | -0.30 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
