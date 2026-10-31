@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-10-31 17:40:52 UTC
+- 更新时间：2026-10-31 21:27:41 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,413.63 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 3,985.50 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,294.42 | +1.46% | +0.87% | -5.01% | +19.66% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 77,478.89 | +0.36% | -3.16% | -6.55% | +24.61% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,250.18 | +0.41% | -3.02% | -10.14% | +29.26% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 95.89 | -0.34% | -4.83% | -12.85% | +34.08% | 短线偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 77,364.90 | +0.22% | -3.30% | -6.69% | +24.55% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,250.35 | +0.41% | -3.01% | -10.13% | +29.26% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 95.55 | -0.70% | -5.17% | -13.16% | +34.06% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 3,898.90 | -3.29% | -2.72% | -7.22% | +18.95% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 355.78 | -3.47% | -2.95% | -7.05% | +21.14% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 49.10 | -5.93% | -8.59% | -19.15% | +38.94% | 短线偏弱 | 中等 |
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.10 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
-| 美股 | -0.70 | Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street - Yahoo Finance | Yahoo Finance |
+| 全球宏观 | -0.20 | Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare - Yahoo Finance | Yahoo Finance |
+| 美股 | -0.60 | Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street - Yahoo Finance | Yahoo Finance |
 | A股/中国 | 0.50 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
 | 虚拟货币 | 0.20 | Swiss FINMA Approves First Domestic Retail Bitcoin ETF - TradingView | TradingView |
-| 黄金/贵金属 | -0.40 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
-| 商品 | -0.40 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
+| 黄金/贵金属 | -0.20 | Gold Price Outlook 2026: Can Gold Reclaim Its Record Highs? - TradingView | TradingView |
+| 商品 | -0.10 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
