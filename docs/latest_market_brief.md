@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-01 07:29:11 UTC
+- 更新时间：2026-11-01 15:00:48 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.07%
 - 美国10年期收益率 4.93%，5日变化 -0.06 个百分点
 - VIX 19.42
-- 美元/人民币5日 -0.36%
+- 美元/人民币5日 -0.37%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -19,7 +19,7 @@
 | 虚拟货币 | 短线偏弱 | 以太坊、比特币 | 比特币、Solana | 加密资产受流动性和监管新闻影响大，趋势信号要配合严格仓位控制。 |
 | 黄金/贵金属 | 短线偏弱 | 黄金期货、SPDR黄金ETF | SPDR黄金ETF、白银期货 | 黄金最需要同时看美元、美债收益率和避险新闻；趋势强但利率上行时容易震荡。 |
 | 商品 | 中性偏强 | WTI原油期货 | WTI原油期货 | 保持跨资产对照，避免只看单一产品价格。 |
-| 宏观变量 | 中性偏弱 | 美元指数、美元/人民币 | 美元/人民币、美国10年期收益率 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
+| 宏观变量 | 震荡/中性 | 美元指数、美元/人民币 | 美元/人民币、美国10年期收益率 | 宏观变量本身是解释器，方向变化比单点数值更重要。 |
 
 ## 重点产品走势
 | 类别 | 产品 | 最新 | 1日 | 5日 | 1月 | 波动率 | 推演 | 置信度 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 2,413.63 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 3,985.50 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,294.42 | +1.46% | +0.87% | -5.01% | +19.66% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 77,738.87 | +0.39% | -3.79% | -7.10% | +23.64% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,264.85 | +0.54% | -3.53% | -10.65% | +27.30% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 95.30 | -0.05% | -5.88% | -14.33% | +29.95% | 短线偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 77,924.67 | +0.63% | -3.56% | -6.88% | +23.74% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,268.11 | +0.68% | -3.39% | -10.52% | +27.37% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 94.87 | -0.50% | -6.31% | -14.72% | +29.91% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 3,898.90 | -3.29% | -2.72% | -7.22% | +18.95% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 355.78 | -3.47% | -2.95% | -7.05% | +21.14% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 49.28 | -5.59% | -8.26% | -18.85% | +38.38% | 短线偏弱 | 中等 |
 | 商品 | WTI原油期货 | 104.12 | +2.08% | +0.82% | +12.11% | +37.08% | 中性偏强 | 中等 |
 | 宏观变量 | 美元指数 | 101.88 | -0.16% | +0.07% | -0.22% | +4.35% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.9290% | -1.20% | -1.18% | -5.88% | +17.58% | 中性偏弱 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.6540 | -0.11% | -0.36% | -0.75% | +0.94% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.6533 | -0.12% | -0.37% | -0.76% | +0.95% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **短线偏弱**，置信度 中等。
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.30 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
-| 美股 | -0.60 | Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off - Yahoo Finance | Yahoo Finance |
-| A股/中国 | 0.44 | China launches 'mini stimulus' targeting affordable homes, infrastructure - Nikkei Asia | Nikkei Asia |
-| 虚拟货币 | 0.20 | Swiss FINMA Approves First Domestic Retail Bitcoin ETF - TradingView | TradingView |
-| 黄金/贵金属 | 0.10 | Gold Price Outlook 2026: Can Gold Reclaim Its Record Highs? - TradingView | TradingView |
-| 商品 | -0.30 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
+| 全球宏观 | 0.10 | Why Is the Gold Price Falling Even as Investors and Central Banks Pile In? - Morningstar | Morningstar |
+| 美股 | -0.20 | Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters | Reuters |
+| A股/中国 | 0.40 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
+| 虚拟货币 | -0.10 | Cryptocurrency ETFs: How Do They Work & Should You Invest? - Britannica | Britannica |
+| 黄金/贵金属 | -0.60 | Gold Falls. Bonds Rise. Why? for BITSTAMP:BTCUSD by BlueNyraFx - TradingView | TradingView |
+| 商品 | -0.10 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
