@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-07 09:57:54 UTC
+- 更新时间：2026-11-07 16:22:19 UTC
 - 风险状态：避险升温
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.41%
 - 美国10年期收益率 4.86%，5日变化 -0.07 个百分点
 - VIX 25.64
-- 美元/人民币5日 +0.15%
+- 美元/人民币5日 +0.06%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -26,23 +26,23 @@
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | 美股 | 标普500 | 7,376.86 | +0.31% | -2.68% | -5.00% | +19.80% | 短线偏弱 | 中等 |
 | 美股 | 纳斯达克综合指数 | 24,579.43 | +1.09% | -3.37% | -9.61% | +28.18% | 短线偏弱 | 中等 |
-| 美股 | 道琼斯工业指数 | 51,285.73 | -0.46% | -0.94% | +0.11% | +19.08% | 震荡/中性 | 中等 |
+| 美股 | 道琼斯工业指数 | 51,285.73 | -0.46% | -0.94% | +0.11% | +19.08% | 中性偏弱 | 中等 |
 | 风险指标 | VIX波动率指数 | 25.64 | -9.01% | +32.03% | +66.39% | +287.60% | 短线偏强 | 中等 |
 | A股/港股 | 上证指数 | 3,649.18 | -1.10% | +1.39% | -4.27% | +15.98% | 中性偏弱 | 中等 |
 | A股/港股 | 深证成指 | 11,175.78 | -2.57% | +3.16% | -11.45% | +32.96% | 中性偏弱 | 中等 |
 | A股/港股 | 创业板指 | 2,465.23 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,054.28 | - | - | - | - | 震荡/中性 | 中等 |
-| A股/港股 | 恒生指数 | 24,481.86 | -1.27% | +5.10% | +1.46% | +22.50% | 中性偏强 | 中等 |
-| 虚拟货币 | 比特币 | 75,929.94 | +0.24% | -0.97% | -6.70% | +33.61% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,242.18 | +0.32% | -0.30% | -6.57% | +44.06% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 89.90 | -0.18% | -2.11% | -12.98% | +38.96% | 短线偏弱 | 中等 |
+| A股/港股 | 恒生指数 | 24,481.86 | -1.27% | +5.10% | +1.46% | +22.50% | 震荡/中性 | 中等 |
+| 虚拟货币 | 比特币 | 75,693.51 | -0.07% | -1.28% | -6.99% | +33.56% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,234.97 | -0.00% | -0.62% | -6.87% | +44.01% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 89.56 | -0.55% | -2.48% | -13.31% | +38.91% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,074.90 | -0.94% | +4.51% | -1.97% | +23.50% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 372.52 | -0.79% | +4.71% | -1.61% | +24.96% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 51.80 | -0.82% | +5.51% | -12.29% | +44.37% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 90.83 | +0.34% | -12.76% | -0.72% | +54.69% | 中性偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 102.30 | +0.74% | +0.41% | +0.16% | +4.87% | 中性偏强 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.8590% | +0.45% | -1.42% | -7.11% | +18.46% | 短线偏弱 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.6710 | -0.25% | +0.15% | -0.46% | +2.06% | 中性偏弱 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.6648 | -0.35% | +0.06% | -0.56% | +2.22% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **震荡/中性**，置信度 中等。
@@ -57,12 +57,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.10 | Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says - CNBC | CNBC |
-| 美股 | 0.10 | Dow drops 1,800 points; Nasdaq tumbles into correction territory on AI tech wreck: Live updates - CNBC | CNBC |
-| A股/中国 | 0.50 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
+| 全球宏观 | -0.40 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
+| 美股 | 0.20 | COMMENTARY: US stocks always rise after midterms. Is this time different? - Reuters | Reuters |
+| A股/中国 | 0.30 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
 | 虚拟货币 | -0.20 | SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle - CNBC | CNBC |
-| 黄金/贵金属 | 0.00 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
-| 商品 | -0.30 | Oil prices settle slightly higher as optimism around US inflation data outweighs OPEC supply concerns - Reuters | Reuters |
+| 黄金/贵金属 | -0.10 | Gold drops as strong US payrolls boost dollar, yields - Reuters | Reuters |
+| 商品 | -0.40 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
