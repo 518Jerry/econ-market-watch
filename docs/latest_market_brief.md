@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-07 16:22:19 UTC
+- 更新时间：2026-11-07 20:50:35 UTC
 - 风险状态：避险升温
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,465.23 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,054.28 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 24,481.86 | -1.27% | +5.10% | +1.46% | +22.50% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 75,693.51 | -0.07% | -1.28% | -6.99% | +33.56% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 2,234.97 | -0.00% | -0.62% | -6.87% | +44.01% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 89.56 | -0.55% | -2.48% | -13.31% | +38.91% | 短线偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 75,523.83 | -0.29% | -1.50% | -7.20% | +33.54% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 2,224.14 | -0.49% | -1.10% | -7.32% | +43.99% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 89.03 | -1.14% | -3.05% | -13.82% | +38.93% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 4,074.90 | -0.94% | +4.51% | -1.97% | +23.50% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 372.52 | -0.79% | +4.71% | -1.61% | +24.96% | 震荡/中性 | 中等 |
 | 黄金/贵金属 | 白银期货 | 51.80 | -0.82% | +5.51% | -12.29% | +44.37% | 中性偏弱 | 中等 |
@@ -58,10 +58,10 @@
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
 | 全球宏观 | -0.40 | Battered bond market braces for a new era of interest rates - Reuters | Reuters |
-| 美股 | 0.20 | COMMENTARY: US stocks always rise after midterms. Is this time different? - Reuters | Reuters |
+| 美股 | 0.10 | US Stock Market: Nasdaq rebounds as Dow falls after $3 tn AI selloff - Beinsure | Beinsure |
 | A股/中国 | 0.30 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
 | 虚拟货币 | -0.20 | SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle - CNBC | CNBC |
-| 黄金/贵金属 | -0.10 | Gold drops as strong US payrolls boost dollar, yields - Reuters | Reuters |
+| 黄金/贵金属 | 0.00 | Gold ETF inflows rise, but can falling yields drive a recovery? - Equiti Global | Equiti Global |
 | 商品 | -0.40 | How Oil Prices Impact Currency Values: Exploring the Correlation - Investopedia | Investopedia |
 
 ## 下一步看什么
