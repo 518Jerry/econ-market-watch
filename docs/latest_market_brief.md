@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-14 17:56:54 UTC
+- 更新时间：2026-11-14 22:17:12 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,426.08 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,016.29 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,637.60 | -1.55% | -3.45% | -2.78% | +22.82% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 65,821.54 | -3.56% | -12.50% | -18.53% | +37.53% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,841.16 | -4.48% | -13.62% | -21.85% | +50.13% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 72.74 | -6.86% | -15.96% | -28.88% | +45.84% | 短线偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 63,510.25 | -6.94% | -15.57% | -21.39% | +42.28% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,747.00 | -9.37% | -18.04% | -25.85% | +57.01% | 短线偏弱 | 偏低 |
+| 虚拟货币 | Solana | 69.00 | -11.65% | -20.28% | -32.53% | +55.31% | 短线偏弱 | 偏低 |
 | 黄金/贵金属 | 黄金期货 | 3,886.30 | +0.03% | -4.63% | -6.81% | +25.25% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 355.45 | +0.16% | -4.58% | -7.12% | +28.01% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 49.03 | -1.88% | -5.35% | -13.73% | +41.94% | 短线偏弱 | 中等 |
@@ -59,12 +59,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | Charting the Global Economy: Inflation in US Exceeds Projections - Bloomberg.com | Bloomberg.com |
-| 美股 | -0.30 | Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC | CNBC |
+| 全球宏观 | -0.60 | Inflation isn't going away. Here's what that means for interest rates. - CBS News | CBS News |
+| 美股 | -0.40 | Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC | CNBC |
 | A股/中国 | 0.40 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg | Bloomberg |
-| 虚拟货币 | -0.20 | Why Are Crypto Markets Falling While Tokenization and Institutional Adoption Keep Growing? - KuCoin | KuCoin |
+| 虚拟货币 | -0.50 | Why Are Crypto Markets Falling While Tokenization and Institutional Adoption Keep Growing? - KuCoin | KuCoin |
 | 黄金/贵金属 | -0.50 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
-| 商品 | -0.30 | The Commodities Feed: Stronger dollar weighs on commodities - ing think | ing think |
+| 商品 | -0.30 | The Commodities Feed: Stronger dollar weighs on commodities - ING Think | ING Think |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
