@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-14 22:17:12 UTC
+- 更新时间：2026-11-15 02:35:45 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -25,17 +25,17 @@
 | 类别 | 产品 | 最新 | 1日 | 5日 | 1月 | 波动率 | 推演 | 置信度 |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | 美股 | 标普500 | 7,561.67 | -0.40% | +2.51% | -2.36% | +21.91% | 中性偏弱 | 中等 |
-| 美股 | 纳斯达克综合指数 | 25,136.27 | -0.91% | +2.27% | -5.90% | +30.00% | 短线偏弱 | 中等 |
-| 美股 | 道琼斯工业指数 | 52,347.55 | +0.10% | +2.07% | +0.33% | +20.28% | 震荡/中性 | 中等 |
+| 美股 | 纳斯达克综合指数 | 25,136.27 | -0.91% | +2.27% | -5.90% | +30.00% | 中性偏弱 | 中等 |
+| 美股 | 道琼斯工业指数 | 52,347.55 | +0.10% | +2.07% | +0.33% | +20.28% | 中性偏强 | 中等 |
 | 风险指标 | VIX波动率指数 | 19.30 | +3.21% | -24.73% | +17.25% | +296.11% | 震荡/中性 | 中等 |
 | A股/港股 | 上证指数 | 3,634.35 | -0.59% | -0.41% | -1.97% | +15.25% | 中性偏弱 | 中等 |
 | A股/港股 | 深证成指 | 10,968.79 | -2.05% | -1.85% | -7.18% | +33.02% | 短线偏弱 | 中等 |
 | A股/港股 | 创业板指 | 2,426.08 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,016.29 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,637.60 | -1.55% | -3.45% | -2.78% | +22.82% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 63,510.25 | -6.94% | -15.57% | -21.39% | +42.28% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,747.00 | -9.37% | -18.04% | -25.85% | +57.01% | 短线偏弱 | 偏低 |
-| 虚拟货币 | Solana | 69.00 | -11.65% | -20.28% | -32.53% | +55.31% | 短线偏弱 | 偏低 |
+| 虚拟货币 | 比特币 | 64,761.00 | -5.11% | -13.91% | -19.84% | +39.33% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,805.28 | -6.35% | -15.30% | -23.37% | +52.18% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 70.73 | -9.43% | -18.28% | -30.84% | +50.44% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 3,886.30 | +0.03% | -4.63% | -6.81% | +25.25% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 355.45 | +0.16% | -4.58% | -7.12% | +28.01% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 49.03 | -1.88% | -5.35% | -13.73% | +41.94% | 短线偏弱 | 中等 |
@@ -59,11 +59,11 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.60 | Inflation isn't going away. Here's what that means for interest rates. - CBS News | CBS News |
+| 全球宏观 | -0.20 | 10-year Treasury yield moves to 5.17% as traders weigh producer price report - CNBC | CNBC |
 | 美股 | -0.40 | Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC | CNBC |
-| A股/中国 | 0.40 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg | Bloomberg |
-| 虚拟货币 | -0.50 | Why Are Crypto Markets Falling While Tokenization and Institutional Adoption Keep Growing? - KuCoin | KuCoin |
-| 黄金/贵金属 | -0.50 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
+| A股/中国 | 0.40 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
+| 虚拟货币 | -0.40 | Why Are Crypto Markets Falling While Tokenization and Institutional Adoption Keep Growing? - KuCoin | KuCoin |
+| 黄金/贵金属 | -0.20 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
 | 商品 | -0.30 | The Commodities Feed: Stronger dollar weighs on commodities - ING Think | ING Think |
 
 ## 下一步看什么
