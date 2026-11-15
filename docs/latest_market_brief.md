@@ -1,11 +1,11 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-15 17:40:24 UTC
+- 更新时间：2026-11-15 22:45:04 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
 ## 关键宏观读数
-- 美元指数5日 +1.09%
+- 美元指数5日 +1.73%
 - 美国10年期收益率 5.15%，5日变化 +0.29 个百分点
 - VIX 19.30
 - 美元/人民币5日 -0.08%
@@ -33,14 +33,14 @@
 | A股/港股 | 创业板指 | 2,426.08 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,016.29 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 23,637.60 | -1.55% | -3.45% | -2.78% | +22.82% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 64,494.56 | +0.57% | -12.51% | -19.41% | +40.98% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,804.93 | +2.02% | -11.96% | -22.43% | +56.15% | 短线偏弱 | 偏低 |
-| 虚拟货币 | Solana | 71.10 | +1.32% | -14.61% | -29.76% | +52.88% | 短线偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 65,116.17 | +1.54% | -11.67% | -18.63% | +41.62% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,826.49 | +3.24% | -10.91% | -21.51% | +57.23% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 72.21 | +2.90% | -13.27% | -28.66% | +54.35% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 3,886.30 | +0.03% | -4.63% | -6.81% | +25.25% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 355.45 | +0.16% | -4.58% | -7.12% | +28.01% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 49.12 | -1.70% | -5.18% | -13.58% | +41.87% | 短线偏弱 | 中等 |
 | 商品 | WTI原油期货 | 88.56 | -0.20% | -2.50% | -9.60% | +53.75% | 中性偏弱 | 中等 |
-| 宏观变量 | 美元指数 | 103.41 | +0.23% | +1.09% | +1.38% | +5.44% | 中性偏强 | 中等 |
+| 宏观变量 | 美元指数 | 103.41 | +0.00% | +1.73% | +1.54% | +5.44% | 中性偏强 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 5.1540% | +1.00% | +6.07% | +1.28% | +21.74% | 震荡/中性 | 中等 |
 | 宏观变量 | 美元/人民币 | 6.6705 | +0.00% | -0.08% | -0.30% | +1.96% | 中性偏弱 | 中等 |
 
@@ -59,12 +59,12 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | -0.20 | Wall Street is watching a troubling move in Treasury yields - Yahoo Finance | Yahoo Finance |
-| 美股 | 0.10 | The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks - The Motley Fool | The Motley Fool |
-| A股/中国 | 0.30 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
-| 虚拟货币 | -0.30 | Why Are Crypto Markets Falling While Tokenization and Institutional Adoption Keep Growing? - KuCoin | KuCoin |
+| 全球宏观 | -0.40 | Charting the Global Economy: Inflation in US Exceeds Projections - Bloomberg.com | Bloomberg.com |
+| 美股 | -0.10 | Goldman Sees S&P 500 Rising 14% on Cheap Hyperscaler Valuations - Yahoo Finance | Yahoo Finance |
+| A股/中国 | 0.40 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
+| 虚拟货币 | -0.40 | Why Are Crypto Markets Falling While Tokenization and Institutional Adoption Keep Growing? - KuCoin | KuCoin |
 | 黄金/贵金属 | 0.00 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
-| 商品 | -0.40 | The Commodities Feed: Stronger dollar weighs on commodities - ING Think | ING Think |
+| 商品 | -0.30 | The Commodities Feed: Stronger dollar weighs on commodities - ING Think | ING Think |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
