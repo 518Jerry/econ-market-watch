@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-21 17:24:51 UTC
+- 更新时间：2026-11-21 23:07:24 UTC
 - 风险状态：避险升温
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,9 +33,9 @@
 | A股/港股 | 创业板指 | 2,212.13 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 3,954.56 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 22,410.80 | -1.89% | -5.19% | -2.28% | +21.84% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 60,112.25 | +2.23% | -7.31% | -22.37% | +43.00% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,682.25 | +3.88% | -7.53% | -25.32% | +62.62% | 短线偏弱 | 偏低 |
-| 虚拟货币 | Solana | 70.67 | +2.80% | -1.17% | -25.88% | +59.55% | 短线偏弱 | 偏低 |
+| 虚拟货币 | 比特币 | 60,006.90 | +2.05% | -7.48% | -22.51% | +42.81% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,678.67 | +3.66% | -7.73% | -25.48% | +62.38% | 短线偏弱 | 偏低 |
+| 虚拟货币 | Solana | 70.12 | +2.00% | -1.94% | -26.46% | +58.88% | 短线偏弱 | 偏低 |
 | 黄金/贵金属 | 黄金期货 | 3,515.40 | -4.62% | -9.54% | -13.42% | +30.49% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 322.87 | -3.67% | -9.17% | -12.50% | +31.17% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 41.03 | -7.41% | -16.31% | -25.07% | +49.57% | 中性偏弱 | 中等 |
@@ -58,10 +58,10 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | 0.00 | The Odds of a Fed Rate Hike Are 100%. Why That Would Be 100% Bad. - Barron's | Barron's |
-| 美股 | 0.20 | Wall Street’s Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks - Yahoo Finance | Yahoo Finance |
+| 全球宏观 | -0.10 | The Odds of a Fed Rate Hike Are 100%. Why That Would Be 100% Bad. - Barron's | Barron's |
+| 美股 | -0.10 | S&P 500 correction: Five forces behind the market sell-off - CNBC | CNBC |
 | A股/中国 | 0.20 | China Steps in to Boost Stocks, Cool Off Yuan - Bloomberg.com | Bloomberg.com |
-| 虚拟货币 | -0.10 | Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein - The Block | The Block |
+| 虚拟货币 | -0.30 | Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein - The Block | The Block |
 | 黄金/贵金属 | -0.40 | Gold's bad year is getting worse. Why its price keeps falling - CNBC | CNBC |
 | 商品 | -0.40 | How long can we "look through" the Iran war commodity shock? - Federal Reserve Bank of Minneapolis | Federal Reserve Bank of Minneapolis |
 
