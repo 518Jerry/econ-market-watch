@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-22 15:14:10 UTC
+- 更新时间：2026-11-22 21:43:31 UTC
 - 风险状态：避险升温
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -8,7 +8,7 @@
 - 美元指数5日 +0.39%
 - 美国10年期收益率 4.91%，5日变化 -0.24 个百分点
 - VIX 35.89
-- 美元/人民币5日 +0.08%
+- 美元/人民币5日 -0.13%
 
 ## 跨资产概览
 | 类别 | 推演 | 强势观察 | 弱势观察 | 核心提示 |
@@ -33,16 +33,16 @@
 | A股/港股 | 创业板指 | 2,212.13 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 3,954.56 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 22,410.80 | -1.89% | -5.19% | -2.28% | +21.84% | 中性偏弱 | 中等 |
-| 虚拟货币 | 比特币 | 60,793.19 | +1.16% | -6.32% | -22.31% | +43.72% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,709.98 | +1.65% | -6.20% | -24.77% | +63.56% | 短线偏弱 | 偏低 |
-| 虚拟货币 | Solana | 70.10 | -0.16% | -6.66% | -25.78% | +58.91% | 短线偏弱 | 偏低 |
+| 虚拟货币 | 比特币 | 60,893.42 | +1.33% | -6.16% | -22.18% | +43.84% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,721.27 | +2.32% | -5.58% | -24.27% | +64.01% | 短线偏弱 | 偏低 |
+| 虚拟货币 | Solana | 70.32 | +0.15% | -6.37% | -25.55% | +59.00% | 短线偏弱 | 中等 |
 | 黄金/贵金属 | 黄金期货 | 3,515.40 | -4.62% | -9.54% | -13.42% | +30.49% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 322.87 | -3.67% | -9.17% | -12.50% | +31.17% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | 白银期货 | 41.07 | -7.33% | -16.24% | -25.01% | +49.45% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 83.41 | +0.24% | -5.82% | -16.15% | +48.35% | 短线偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 103.81 | -0.09% | +0.39% | +2.17% | +5.36% | 震荡/中性 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.9120% | -2.77% | -4.70% | -0.83% | +19.56% | 中性偏弱 | 中等 |
-| 宏观变量 | 美元/人民币 | 6.6765 | +0.15% | +0.08% | -0.02% | +1.97% | 震荡/中性 | 中等 |
+| 宏观变量 | 美元/人民币 | 6.6623 | -0.06% | -0.13% | -0.23% | +1.90% | 中性偏弱 | 中等 |
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
@@ -58,10 +58,10 @@
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | 0.10 | The snowballing selloff in global markets - Reuters | Reuters |
-| 美股 | 0.30 | Correction or deeper reckoning? Investors seek signs US stock selling will abate - Reuters | Reuters |
-| A股/中国 | 0.70 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
-| 虚拟货币 | -0.40 | Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein - The Block | The Block |
+| 全球宏观 | 0.00 | Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com | Bloomberg.com |
+| 美股 | 0.30 | Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market - Bloomberg.com | Bloomberg.com |
+| A股/中国 | 0.20 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
+| 虚拟货币 | -0.20 | How Does a 19-Month High in the US Dollar Index Affect Cryptocurrency Markets? - KuCoin | KuCoin |
 | 黄金/贵金属 | -0.10 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
 | 商品 | -0.30 | How long can we "look through" the Iran war commodity shock? - Federal Reserve Bank of Minneapolis | Federal Reserve Bank of Minneapolis |
 
