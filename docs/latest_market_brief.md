@@ -1,6 +1,6 @@
 # 实时经济走势系统简报
 
-- 更新时间：2026-11-28 03:51:32 UTC
+- 更新时间：2026-11-28 12:54:04 UTC
 - 风险状态：中性
 - 风险提示：本系统只做信息整理、情景推演和风险提示，不构成个性化投资建议。实际交易前应结合你的资金期限、风险承受能力、仓位、税费和本地监管要求。
 
@@ -33,12 +33,12 @@
 | A股/港股 | 创业板指 | 2,443.96 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 沪深300 | 4,063.06 | - | - | - | - | 震荡/中性 | 中等 |
 | A股/港股 | 恒生指数 | 22,694.77 | +2.11% | +1.27% | -1.15% | +23.15% | 震荡/中性 | 中等 |
-| 虚拟货币 | 比特币 | 59,864.20 | -1.04% | -2.12% | -20.97% | +37.40% | 短线偏弱 | 中等 |
-| 虚拟货币 | 以太坊 | 1,662.30 | -1.51% | -3.42% | -25.63% | +51.75% | 短线偏弱 | 中等 |
-| 虚拟货币 | Solana | 71.63 | +0.98% | +1.50% | -20.46% | +55.82% | 中性偏弱 | 中等 |
-| 黄金/贵金属 | 黄金期货 | 3,668.50 | +3.75% | -0.46% | -9.46% | +37.83% | 中性偏弱 | 中等 |
+| 虚拟货币 | 比特币 | 59,181.97 | -1.14% | -3.31% | -21.87% | +37.37% | 短线偏弱 | 中等 |
+| 虚拟货币 | 以太坊 | 1,646.15 | -0.90% | -3.67% | -26.39% | +49.85% | 短线偏弱 | 中等 |
+| 虚拟货币 | Solana | 70.83 | -1.05% | -1.60% | -21.01% | +54.83% | 短线偏弱 | 中等 |
+| 黄金/贵金属 | 黄金期货 | 3,639.60 | +2.94% | -1.25% | -10.17% | +36.72% | 中性偏弱 | 中等 |
 | 黄金/贵金属 | SPDR黄金ETF | 334.40 | +2.12% | -0.23% | -10.47% | +35.13% | 中性偏弱 | 中等 |
-| 黄金/贵金属 | 白银期货 | 43.70 | +9.11% | -1.39% | -18.25% | +67.18% | 短线偏弱 | 中等 |
+| 黄金/贵金属 | 白银期货 | 43.17 | +7.78% | -2.60% | -19.25% | +64.69% | 中性偏弱 | 中等 |
 | 商品 | WTI原油期货 | 83.08 | -0.72% | -0.16% | -19.17% | +50.87% | 中性偏弱 | 中等 |
 | 宏观变量 | 美元指数 | 104.01 | +0.33% | +0.11% | +1.78% | +5.87% | 中性偏强 | 中等 |
 | 宏观变量 | 美国10年期收益率 | 4.9360% | +1.82% | -2.30% | -2.16% | +20.36% | 中性偏弱 | 中等 |
@@ -46,24 +46,24 @@
 
 ## 黄金观察结论
 - 当前判断：黄金期货 为 **中性偏弱**，置信度 中等。
-- 依据：约1个月跌幅 -9.46%
+- 依据：5日跌幅 -1.25%
+- 依据：约1个月跌幅 -10.17%
 - 依据：价格在20日均线之下
-- 依据：20日均线低于50日均线
 - 依据：美债收益率回落支撑黄金
 - 观察位：60日支撑附近 3,515.40
 - 观察位：60日压力附近 4,539.90
-- 观察位：20日均线 3,853.23
+- 观察位：20日均线 3,851.79
 - 操作含义：黄金短线承压信号偏多，适合等待美元/美债收益率回落或价格重新站上20日均线后再评估。
 
 ## 新闻线索
 | 主题 | 情绪均值 | 代表标题 | 来源 |
 | --- | ---: | --- | --- |
-| 全球宏观 | 0.30 | U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade - WSJ | WSJ |
-| 美股 | 0.30 | Wall Street stages major comeback during Thanksgiving-shortened trading week - Fox Business | Fox Business |
+| 全球宏观 | 0.10 | Global markets rally as end of bruising month approaches - Reuters | Reuters |
+| 美股 | 0.10 | Stocks are chasing a rare buy signal as markets brace for a potential Fed hike: Chart of the Day - Yahoo Finance | Yahoo Finance |
 | A股/中国 | 0.40 | China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan - Bloomberg.com | Bloomberg.com |
-| 虚拟货币 | -0.60 | Bitcoin ETF Outflows vs AI ETF Inflows: Where Is Crypto Liquidity Going? - KuCoin | KuCoin |
-| 黄金/贵金属 | -0.50 | Daily: Gold’s diversifying utility remains intact - UBS | UBS |
-| 商品 | -0.30 | Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting - WSJ | WSJ |
+| 虚拟货币 | 0.20 | Crypto ETFs Enter a New Phase in September: Here’s What Investors Should Watch - Bitcoin Foundation | Bitcoin Foundation |
+| 黄金/贵金属 | 0.10 | Fool’s gold: How geopolitical risk is taking some of the shine off the US dollar - CEPR | CEPR |
+| 商品 | 0.20 | Oil prices are again rising – here’s why - CNN | CNN |
 
 ## 下一步看什么
 - 黄金：美元指数、美债收益率、地缘风险和央行购金新闻是否同向支持。
